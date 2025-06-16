@@ -2,6 +2,14 @@
 <?php
 declare(strict_types=1);
 
+class TextExtractor {
+
+
+  public function __invoke(\SplFileObject $x) : string
+  {
+  }
+}
+
 function main(array $argv): void
 {
     if (count($argv) !== 3) {
