@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.27.0:model_id=309593:date=08_06_2025_21:29</Creator>
+        <Created>2025-06-08T18:52:54.422+02:00</Created>
+        <LastChange>2025-06-08T21:29:23.740+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0035_0038_gray_sigmoid1050.jpg" imageWidth="2255" imageHeight="3656">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1750185953534" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="56,49 56,1274 2199,1274 2199,49"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2083,156 2095,156 2132,177 2146,166 2158,173 2167,166 2181,166 2179,12 2146,19 2130,16 2120,7 2106,9 2099,2 2081,7"/>
+                <Baseline points="2095,104 2125,104 2156,104 2187,107"/>
+                <TextEquiv>
+                    <Unicode>53,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="464,138 690,119 837,201 1243,203 1358,110 1553,96 1553,30 464,5"/>
+                <Baseline points="477,122 531,128 585,128 639,128 693,128 747,128 801,125 856,125 910,125 964,125 1018,125 1072,125 1126,124 1180,122 1235,125 1289,125 1343,124 1397,122 1451,122 1505,125 1560,125"/>
+                <TextEquiv>
+                    <Unicode>coullamente d'avoir avec</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="124,352 926,343 1064,380 1152,341 1400,348 1379,222 805,292 543,289 404,212 121,217"/>
+                <Baseline points="134,298 197,299 261,301 324,307 388,309 451,313 515,313 578,316 642,316 705,316 769,317 833,319 896,319 960,319 1023,322 1087,322 1150,324 1214,322 1277,323 1341,319 1405,319"/>
+                <TextEquiv>
+                    <Unicode>Treuungen im Jahre 1905</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="44,446 613,446 821,534 1012,469 1481,460 1479,401 1367,359 1304,411 1127,371 942,427 821,366 742,401 541,343 476,387 240,341 142,390 44,376"/>
+                <Baseline points="56,429 127,434 199,435 270,437 342,438 414,444 485,444 557,446 628,446 700,448 772,447 843,447 915,447 986,447 1058,451 1130,456 1201,456 1273,459 1344,459 1416,456 1488,452"/>
+                <TextEquiv>
+                    <Unicode>1. Gerhard 6. Reinking u. Lilie Steele</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1523,487 1691,487 1756,457 1803,490 1871,460 2041,515 2186,476 2167,380 2020,371 1948,422 1826,432 1719,343 1675,369 1521,355"/>
+                <Baseline points="1534,447 1566,449 1599,451 1632,452 1665,450 1698,450 1730,450 1763,450 1796,453 1829,453 1862,454 1894,456 1927,456 1960,456 1993,456 2025,456 2058,456 2091,457 2124,459 2157,459 2190,459"/>
+                <TextEquiv>
+                    <Unicode>geträut am 30. April</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="161,562 637,592 749,557 1488,560 1488,492 1306,518 1173,469 1012,529 877,448 749,527 620,450 464,520 401,476 338,527 273,490 161,511"/>
+                <Baseline points="173,537 242,541 311,543 381,543 450,545 520,543 589,546 658,546 728,548 797,543 867,546 936,546 1006,546 1075,546 1144,543 1214,544 1283,546 1353,548 1422,549 1492,549"/>
+                <TextEquiv>
+                    <Unicode>in der Kirche. Zeugen, Edwin Steele</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="177,634 313,669 380,639 476,667 651,641 788,686 842,674 840,606 725,562 653,611 576,562 511,616 441,616 364,567 222,609 175,595"/>
+                <Baseline points="191,626 223,630 256,632 289,632 322,632 355,632 387,632 420,632 453,635 486,635 519,635 551,635 584,635 617,635 650,635 682,635 715,635 748,635 781,636 814,638 847,632"/>
+                <TextEquiv>
+                    <Unicode>u. Maria Rencking</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1532,669 1665,665 1693,644 1714,662 1754,658 1752,578 1717,583 1668,557 1637,581 1616,576 1530,609"/>
+                <Baseline points="1545,635 1571,637 1598,639 1625,640 1652,641 1679,641 1706,641 1733,641 1760,641"/>
+                <TextEquiv>
+                    <Unicode>Pastor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1183,679 1250,693 1288,665 1309,669 1358,646 1397,669 1432,651 1481,683 1518,676 1518,620 1427,613 1406,623 1362,585 1316,574 1246,583 1183,620"/>
+                <Baseline points="1196,644 1221,646 1246,647 1271,645 1296,644 1321,644 1346,644 1371,644 1396,644 1421,644 1446,644 1471,644 1496,644 1522,644"/>
+                <TextEquiv>
+                    <Unicode>G. Bauer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="82,903 96,907 117,898 124,905 131,900 140,905 168,903 177,800 161,800 145,788 133,798 126,793 121,798 117,793 100,800 89,798"/>
+                <Baseline points="95,889 122,889 149,887 176,883"/>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="322,912 905,949 1490,907 1852,966 2190,910 2193,840 1386,821 1290,877 1003,886 875,819 324,819"/>
+                <Baseline points="334,901 427,901 520,901 613,901 707,903 800,906 893,910 986,910 1080,907 1173,907 1266,903 1359,901 1453,899 1546,901 1639,901 1732,899 1826,901 1919,896 2012,892 2105,890 2199,889"/>
+                <TextEquiv>
+                    <Unicode>Eduard Lohmann u. Elias Reinking zutraut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="324,994 420,1024 1108,996 1183,1036 1295,1001 1295,924 1180,914 928,973 732,973 653,926 604,956 324,954"/>
+                <Baseline points="337,981 385,987 433,990 481,990 529,991 578,993 626,993 674,993 722,993 770,993 819,993 867,990 915,990 963,990 1011,990 1060,990 1108,987 1156,987 1204,987 1252,987 1301,984"/>
+                <TextEquiv>
+                    <Unicode>am 7. Mai in der Kirche.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="324,1136 576,1089 1110,1136 1420,1087 1763,1113 1738,1017 1640,1054 1490,1001 1362,1036 1302,991 1057,1047 984,998 896,1064 781,1003 581,1050 439,1003 324,1045"/>
+                <Baseline points="337,1071 408,1079 480,1084 551,1088 623,1085 695,1083 766,1079 838,1080 909,1082 981,1083 1053,1083 1124,1083 1196,1083 1267,1083 1339,1083 1411,1083 1482,1083 1554,1083 1625,1083 1697,1079 1769,1074"/>
+                <TextEquiv>
+                    <Unicode>Zeugen: Edwan Reinking, Pina Biermann,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="695,1213 1269,1178 1647,1208 1684,1204 1686,1110 1586,1136 1395,1103 1215,1155 1001,1110 879,1155 823,1108 697,1101"/>
+                <Baseline points="710,1166 759,1172 808,1172 857,1173 906,1175 955,1176 1004,1176 1053,1175 1102,1175 1151,1175 1201,1175 1250,1175 1299,1172 1348,1172 1397,1172 1446,1172 1495,1172 1544,1170 1593,1169 1642,1167 1692,1166"/>
+                <TextEquiv>
+                    <Unicode>Johann Lohmann Ida Reinking</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="1241,1299 1453,1264 1850,1292 1850,1199 1717,1190 1693,1211 1621,1201 1488,1232 1416,1183 1241,1204"/>
+                <Baseline points="1253,1250 1283,1251 1313,1253 1343,1251 1373,1251 1403,1255 1433,1256 1464,1256 1494,1256 1524,1256 1554,1255 1584,1253 1614,1253 1644,1253 1675,1253 1705,1251 1735,1249 1765,1247 1795,1247 1825,1247 1856,1247"/>
+                <TextEquiv>
+                    <Unicode>G. Bauer Pastor!</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

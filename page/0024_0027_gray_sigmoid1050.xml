@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.27.0:model_id=309593:date=08_06_2025_21:29</Creator>
+        <Created>2025-06-08T18:52:53.049+02:00</Created>
+        <LastChange>2025-06-08T21:29:22.330+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0024_0027_gray_sigmoid1050.jpg" imageWidth="2160" imageHeight="3632">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1750185953290" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="143,281 143,2537 1983,2537 1983,281"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="432,361 1399,374 1399,248 940,237 795,278 655,221 611,257 524,227 432,253"/>
+                <Baseline points="445,322 493,322 541,325 589,326 637,327 685,326 733,328 781,328 829,328 877,328 925,332 973,334 1021,334 1069,334 1117,334 1165,334 1213,331 1261,334 1309,334 1357,335 1406,337"/>
+                <TextEquiv>
+                    <Unicode>Carl Heinrich Ludwig Koldenay</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="133,496 1980,494 1980,379 1868,400 1781,335 1567,425 545,414 133,349"/>
+                <Baseline points="146,448 237,456 329,459 421,456 513,460 605,462 697,465 788,465 880,465 972,465 1064,465 1156,467 1248,468 1340,468 1431,466 1523,465 1615,465 1707,465 1799,462 1891,462 1983,462"/>
+                <TextEquiv>
+                    <Unicode>ehelicher Sohn von Johann Heinrich, Christoph Kolden aÿ und Sophie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="131,563 933,567 1112,634 1333,572 1962,595 1962,533 1872,499 1634,535 1514,473 1372,531 1032,471 673,528 131,494"/>
+                <Baseline points="143,540 234,543 325,546 416,549 508,552 599,554 690,556 781,558 873,559 964,561 1055,561 1146,564 1238,564 1329,561 1420,561 1511,561 1603,561 1694,558 1785,558 1876,558 1968,561"/>
+                <TextEquiv>
+                    <Unicode>Marie Eleonore geborene Cordes, geboren zu Hausstedt König-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="133,675 1960,675 1957,597 1254,579 1156,636 1004,579 715,613 301,558 131,625"/>
+                <Baseline points="146,639 241,636 337,639 433,641 528,644 624,648 720,648 816,648 911,648 1007,651 1103,651 1199,654 1294,651 1390,649 1486,651 1582,651 1677,648 1773,646 1869,647 1965,648"/>
+                <TextEquiv>
+                    <Unicode>reich Hanover den 31 März 1835, und getauft den 5 April 1835.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="133,760 1328,751 1431,790 1879,749 1877,685 1785,655 1721,703 1528,666 1427,712 1316,666 1220,710 797,655 717,705 131,675"/>
+                <Baseline points="143,725 230,728 317,731 404,732 491,734 578,737 665,740 752,742 839,741 926,740 1013,740 1100,743 1187,743 1274,743 1361,740 1448,740 1535,743 1622,743 1709,743 1796,740 1884,743"/>
+                <TextEquiv>
+                    <Unicode>Seine Taufgathen sind Carl Kemann, Ludwig Schröder und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="142,827 701,875 1753,832 1948,875 1893,749 1771,804 1505,758 142,758"/>
+                <Baseline points="155,812 244,818 334,818 424,818 514,818 604,821 694,824 784,827 874,827 964,827 1054,827 1143,827 1233,827 1323,824 1413,824 1503,824 1593,827 1683,824 1773,825 1863,827 1953,833"/>
+                <TextEquiv>
+                    <Unicode>Gerhard Schröder. Er wurde confirmirt am Sonntage Palma-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="138,942 1974,956 1971,882 1762,832 1204,889 136,852"/>
+                <Baseline points="149,905 240,908 331,910 422,908 514,913 605,913 696,913 787,913 879,914 970,919 1061,919 1152,919 1244,918 1335,913 1426,918 1517,919 1609,920 1700,916 1791,915 1882,916 1974,928"/>
+                <TextEquiv>
+                    <Unicode>rum 1849, und wandere im Jahre 1856 aus nach den Vereinig¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="142,1013 827,1009 974,1055 1055,1009 1259,1050 1948,1022 1948,953 1742,919 1473,974 1316,930 1052,974 142,935"/>
+                <Baseline points="155,991 244,994 334,994 424,997 514,997 604,1000 694,1000 784,997 874,1003 964,1003 1054,1003 1143,1003 1233,1006 1323,1003 1413,1003 1503,1003 1593,1000 1683,1000 1773,1003 1863,1003 1953,1006"/>
+                <TextEquiv>
+                    <Unicode>ten Staaten von Nerct-Amerika, wo selbst er den 29 Novemb.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="145,1128 1964,1098 1937,1022 535,1057 145,1015"/>
+                <Baseline points="158,1087 248,1087 339,1087 429,1090 520,1090 611,1093 701,1093 792,1093 883,1091 973,1092 1064,1093 1155,1093 1245,1093 1336,1093 1427,1093 1517,1095 1608,1093 1699,1090 1789,1093 1880,1092 1971,1090"/>
+                <TextEquiv>
+                    <Unicode>s. J. an kam, zog bald hierher und schloß sich dieser Gemeinde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="136,1190 303,1236 597,1183 816,1229 981,1186 1509,1231 1948,1192 1884,1114 1758,1107 1640,1156 1009,1103 432,1149 283,1094 136,1153"/>
+                <Baseline points="149,1176 239,1173 329,1176 419,1179 509,1179 600,1179 690,1182 780,1182 870,1182 960,1182 1051,1182 1141,1179 1231,1182 1321,1179 1411,1182 1502,1182 1592,1180 1682,1181 1772,1179 1862,1179 1953,1182"/>
+                <TextEquiv>
+                    <Unicode>an. Er verheirathete sich den 10 Mai 1861 mit Jungfrau Louise</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="494,1236 528,1227 567,1241 577,1231 613,1231 659,1245 705,1234 733,1257 758,1254 756,1197 721,1183 639,1208 613,1188 577,1188 561,1202 547,1195 531,1211 494,1208"/>
+                <Baseline points="507,1227 532,1225 557,1224 583,1226 608,1228 634,1229 659,1230 684,1230 710,1230 735,1230 761,1230"/>
+                <TextEquiv>
+                    <Unicode>Hermann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="140,1300 1944,1296 1941,1204 1868,1188 1208,1238 1027,1188 747,1252 138,1192"/>
+                <Baseline points="152,1260 241,1260 331,1260 421,1263 511,1263 601,1269 691,1269 781,1272 871,1269 961,1269 1051,1269 1140,1269 1230,1272 1320,1269 1410,1269 1500,1266 1590,1269 1680,1269 1770,1269 1860,1269 1950,1275"/>
+                <TextEquiv>
+                    <Unicode>Sophie Wenkelmann eheliche Tochter von Johann Fridrich Win¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="142,1378 1755,1401 1934,1374 1934,1293 142,1298"/>
+                <Baseline points="155,1347 244,1347 333,1347 422,1350 512,1350 601,1353 690,1353 780,1350 869,1350 958,1353 1048,1353 1137,1353 1226,1353 1315,1356 1405,1353 1494,1350 1583,1353 1673,1356 1762,1356 1851,1359 1941,1359"/>
+                <TextEquiv>
+                    <Unicode>kelmann und Anna Maria Schpie geborene Tiemann, gebo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="136,1445 1953,1464 1951,1399 1647,1358 1220,1415 1126,1365 133,1406"/>
+                <Baseline points="149,1439 239,1436 330,1439 420,1439 511,1442 601,1442 692,1442 782,1442 873,1442 963,1442 1054,1442 1144,1442 1235,1442 1325,1445 1416,1445 1506,1444 1597,1442 1687,1445 1778,1445 1868,1445 1959,1448"/>
+                <TextEquiv>
+                    <Unicode>ren zu Stemshorn Königreich Hanover den 21 October 1841</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="136,1583 379,1532 1930,1558 1930,1470 1810,1514 1553,1464 345,1489 136,1447"/>
+                <Baseline points="149,1526 238,1523 327,1526 416,1529 506,1529 595,1529 684,1529 774,1529 863,1529 952,1529 1042,1529 1131,1532 1220,1529 1309,1532 1399,1532 1488,1532 1577,1535 1667,1535 1756,1538 1845,1535 1935,1532"/>
+                <TextEquiv>
+                    <Unicode>und getauft den 31 October desselben Jahres, confirmirt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="138,1638 149,1638 152,1643 168,1640 172,1645 193,1629 216,1629 223,1624 225,1627 234,1617 253,1617 255,1567 239,1569 214,1551 179,1555 152,1542 142,1542"/>
+                <Baseline points="152,1615 178,1612 205,1612 232,1611 259,1609"/>
+                <TextEquiv>
+                    <Unicode>am</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="273,1627 342,1615 503,1675 623,1620 701,1659 781,1622 1112,1636 1112,1569 912,1535 455,1560 379,1532 273,1576"/>
+                <Baseline points="286,1615 327,1612 369,1612 410,1614 452,1615 493,1615 535,1617 576,1618 618,1618 659,1618 701,1617 743,1615 784,1615 826,1615 867,1615 909,1618 950,1618 992,1616 1033,1615 1075,1617 1117,1621"/>
+                <TextEquiv>
+                    <Unicode>Sonntage Palmarum 1855.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="264,1707 462,1709 607,1746 680,1714 756,1748 988,1716 988,1631 848,1675 790,1640 687,1675 595,1631 508,1677 361,1620 264,1654"/>
+                <Baseline points="277,1699 312,1699 348,1701 384,1703 420,1705 456,1705 492,1705 527,1705 563,1706 599,1708 635,1708 671,1706 707,1705 743,1706 778,1707 814,1705 850,1705 886,1705 922,1705 958,1706 994,1708"/>
+                <TextEquiv>
+                    <Unicode>Kinder dieser Ehe sind:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="358,1804 924,1799 997,1849 1117,1799 1470,1799 1721,1852 1944,1799 1944,1735 1778,1748 1684,1698 1532,1748 1284,1712 1130,1758 358,1714"/>
+                <Baseline points="370,1789 449,1794 528,1795 607,1797 686,1795 765,1795 844,1795 923,1796 1002,1798 1081,1798 1160,1798 1239,1798 1318,1798 1397,1798 1476,1798 1555,1799 1634,1800 1713,1801 1792,1802 1871,1799 1950,1795"/>
+                <TextEquiv>
+                    <Unicode>Friedrich Heinrich geboren den 9 Januar und getauft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="237,1934 324,1891 811,1902 862,1946 1103,1895 1939,1928 1939,1847 1436,1813 1337,1859 1195,1813 1130,1866 871,1813 620,1872 545,1810 237,1854"/>
+                <Baseline points="250,1887 334,1887 419,1892 504,1891 588,1890 673,1890 758,1890 842,1890 927,1890 1012,1893 1097,1893 1181,1892 1266,1892 1351,1893 1435,1895 1520,1893 1605,1892 1689,1893 1774,1896 1859,1899 1944,1899"/>
+                <TextEquiv>
+                    <Unicode>den 19 Januar 1862. Pathen: Johann Heinrich Bleeke und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="244,2006 296,1983 616,2001 692,1983 783,1987 843,2024 919,1990 919,1967 880,1967 783,1900 733,1918 616,1893 538,1923 482,1907 437,1937 324,1891 244,1925"/>
+                <Baseline points="256,1977 289,1977 322,1977 356,1978 389,1980 423,1980 456,1980 490,1980 523,1980 557,1980 590,1980 623,1979 657,1977 690,1979 724,1980 757,1980 791,1980 824,1980 858,1981 891,1983 925,1983"/>
+                <TextEquiv>
+                    <Unicode>Fridrich Koldewey.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="250,2111 1696,2079 1872,2123 1872,1997 1686,1980 1268,2040 250,2003"/>
+                <Baseline points="262,2069 342,2068 423,2069 504,2069 585,2069 666,2069 746,2069 827,2066 908,2066 989,2069 1070,2072 1150,2071 1231,2072 1312,2072 1393,2072 1474,2072 1554,2072 1635,2072 1716,2073 1797,2072 1878,2069"/>
+                <TextEquiv>
+                    <Unicode>Emma Maria Catharina geboren den 23 December</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="237,2180 503,2167 597,2231 777,2162 1893,2203 1893,2125 1794,2086 1689,2137 1464,2088 1052,2118 981,2075 237,2132"/>
+                <Baseline points="250,2156 332,2158 414,2157 497,2159 579,2159 662,2158 744,2156 827,2156 909,2159 992,2159 1074,2156 1156,2159 1239,2159 1321,2159 1404,2159 1486,2162 1569,2163 1651,2165 1734,2165 1816,2165 1899,2159"/>
+                <TextEquiv>
+                    <Unicode>und getauft den 25 December 1862. Pathen: Maria</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="232,2254 928,2295 1413,2265 1413,2217 1137,2162 1032,2222 855,2167 705,2164 597,2231 545,2192 395,2212 335,2162 232,2185"/>
+                <Baseline points="244,2246 302,2246 361,2246 420,2246 478,2246 537,2248 596,2246 654,2246 713,2249 772,2247 831,2246 889,2247 948,2247 1007,2246 1065,2246 1124,2246 1183,2246 1241,2246 1300,2246 1359,2249 1418,2249"/>
+                <TextEquiv>
+                    <Unicode>Tiemann und Catharina Koldewey.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="253,2348 783,2380 836,2339 1496,2332 1647,2383 1895,2348 1895,2279 1797,2235 1489,2311 1326,2265 1197,2302 1133,2256 981,2309 758,2300 607,2252 517,2307 253,2256"/>
+                <Baseline points="265,2329 346,2329 428,2329 510,2330 592,2329 674,2329 756,2332 837,2332 919,2332 1001,2332 1083,2332 1165,2332 1247,2332 1329,2332 1410,2331 1492,2330 1574,2333 1656,2335 1738,2338 1820,2336 1902,2335"/>
+                <TextEquiv>
+                    <Unicode>Louise Maria geboren den 22 Januar und getauft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="241,2440 866,2438 944,2488 1101,2426 1378,2426 1535,2490 1790,2440 1762,2343 1656,2383 1496,2334 1367,2387 1259,2343 241,2371"/>
+                <Baseline points="253,2428 330,2423 407,2423 484,2422 561,2422 638,2422 715,2422 792,2422 869,2422 946,2422 1024,2422 1101,2422 1178,2422 1255,2422 1332,2422 1409,2422 1486,2425 1563,2425 1640,2425 1717,2427 1795,2428"/>
+                <TextEquiv>
+                    <Unicode>den 28. Januar 1866. Pathen: Louise Wittfeld und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="241,2553 365,2543 402,2564 547,2520 611,2548 652,2523 710,2532 710,2451 659,2428 630,2445 554,2428 480,2461 379,2458 345,2440 280,2472 241,2463"/>
+                <Baseline points="253,2517 278,2515 304,2512 329,2511 355,2511 380,2511 406,2511 431,2511 457,2511 483,2511 508,2511 534,2511 559,2511 585,2511 610,2511 636,2511 661,2511 687,2511 713,2511"/>
+                <TextEquiv>
+                    <Unicode>Maria Thile.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="2016,14 2016,169 2093,169 2093,14"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2003,133 2029,138 2045,154 2061,145 2084,149 2088,7 2068,11 2061,5 2045,7 2038,0 2026,5 2024,0 2008,0"/>
+                <Baseline points="2016,119 2041,114 2067,114 2093,116"/>
+                <TextEquiv>
+                    <Unicode>41</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

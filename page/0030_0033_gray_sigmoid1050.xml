@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.27.0:model_id=309593:date=08_06_2025_21:29</Creator>
+        <Created>2025-06-08T18:52:53.802+02:00</Created>
+        <LastChange>2025-06-08T21:29:23.093+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0030_0033_gray_sigmoid1050.jpg" imageWidth="2106" imageHeight="3656">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1750185953360" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="340,207 340,372 1235,372 1235,207"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="334,360 1232,344 1232,208 953,262 776,209 461,237 334,205"/>
+                <Baseline points="340,307 384,319 429,319 474,319 519,322 563,322 608,319 653,319 698,316 742,319 787,319 832,319 877,319 921,322 966,322 1011,316 1056,319 1100,319 1145,316 1190,319 1235,316"/>
+                <TextEquiv>
+                    <Unicode>Christian Wilhelm Fells.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="1930,31 1930,187 2023,187 2023,31"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1926,169 1949,161 1970,167 1997,157 2012,141 2022,142 2013,9 1991,19 1976,8 1970,12 1935,0 1916,6"/>
+                <Baseline points="1930,131 1961,133 1992,135 2023,137"/>
+                <TextEquiv>
+                    <Unicode>47</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

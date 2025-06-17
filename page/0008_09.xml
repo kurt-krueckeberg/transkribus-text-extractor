@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.27.0:model_id=309593:date=09_06_2025_17:10</Creator>
+        <Created>2025-06-09T17:08:51.388+02:00</Created>
+        <LastChange>2025-06-17T16:28:36.999+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0008_09.jpg" imageWidth="2167" imageHeight="3572">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1750185953082" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="41,2877 41,3314 176,3314 176,2877"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="84,3048 101,3043 117,3046 122,3041 129,3046 147,3041 161,3027 175,3029 166,2903 154,2903 145,2913 131,2908 115,2924 89,2910 75,2913"/>
+                <Baseline points="92,2977 120,2979 148,2981 176,2983"/>
+                <TextEquiv>
+                    <Unicode>d)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="35,3298 49,3296 63,3305 70,3301 117,3319 140,3308 157,3308 136,3163 117,3172 98,3167 91,3174 61,3165 35,3186 19,3188"/>
+                <Baseline points="41,3249 69,3257 98,3262 126,3264 155,3264"/>
+                <TextEquiv>
+                    <Unicode>b 11</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="209,377 209,3448 2078,3448 2078,377"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="220,421 842,475 963,435 1113,486 1636,425 1760,470 1891,416 1891,355 1727,320 1632,372 993,320 619,381 220,339"/>
+                <Baseline points="232,418 315,421 398,421 481,422 564,421 648,421 731,421 814,421 897,421 980,421 1064,421 1147,421 1230,423 1313,421 1396,424 1480,421 1563,418 1646,418 1729,418 1812,418 1896,421"/>
+                <TextEquiv>
+                    <Unicode>Pastors bei Abänderung oder Zusetzung zur Kirchenordnung in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="220,521 1330,573 1419,517 1559,568 1896,517 1896,465 1819,435 1230,496 220,421"/>
+                <Baseline points="232,513 315,512 399,513 482,513 566,513 649,513 733,513 816,515 900,516 983,516 1067,516 1150,516 1234,516 1317,516 1401,513 1484,511 1568,510 1651,510 1735,510 1818,510 1902,510"/>
+                <TextEquiv>
+                    <Unicode>diesen beiden angeführten Stücken müßen zwei Drittheil der Stimm-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="229,645 570,603 774,666 874,624 1173,671 1575,610 1910,640 1886,517 1711,580 1431,524 1332,568 1071,524 746,570 524,521 229,547"/>
+                <Baseline points="241,603 324,603 408,603 491,603 575,603 659,603 742,606 826,606 910,608 993,608 1077,606 1161,606 1244,606 1328,606 1412,603 1495,604 1579,603 1663,605 1746,603 1830,603 1914,600"/>
+                <TextEquiv>
+                    <Unicode>berechtigten Gemeindeglieder beisammen sein und von diesen müßen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="236,741 325,694 449,706 498,743 568,706 673,748 743,711 989,725 989,633 767,664 722,636 640,654 566,605 514,645 463,624 402,659 339,636 236,652"/>
+                <Baseline points="250,689 287,689 324,691 361,692 398,693 436,695 473,698 510,698 547,696 584,695 622,695 659,695 696,695 733,695 770,695 808,696 845,697 882,695 919,695 956,693 994,689"/>
+                <TextEquiv>
+                    <Unicode>zwei drittheil dafür stimmen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="220,811 1393,783 1641,846 1769,785 1893,799 1802,736 1402,699 220,732"/>
+                <Baseline points="232,779 315,779 398,782 482,782 565,782 648,782 732,785 815,785 898,785 982,785 1065,784 1148,782 1232,782 1315,782 1398,782 1482,782 1565,782 1648,782 1732,781 1815,779 1899,779"/>
+                <TextEquiv>
+                    <Unicode>Jeder nicht Anwesende leistet auf den Fall seines Nicht erscheinens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="231,916 288,940 570,879 654,916 734,884 790,926 947,884 944,795 923,792 858,825 727,802 624,832 563,806 458,839 229,797"/>
+                <Baseline points="244,869 279,869 314,869 350,869 385,869 421,869 456,871 491,872 527,872 562,872 598,872 633,872 668,872 704,873 739,875 775,875 810,875 845,874 881,873 916,875 952,875"/>
+                <TextEquiv>
+                    <Unicode>auf sein Stimmrecht verzicht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="222,975 680,968 748,1012 851,970 935,1014 1351,970 1414,1012 1884,958 1884,867 1561,919 1445,872 222,928"/>
+                <Baseline points="235,955 317,955 400,957 483,958 566,955 648,955 731,955 814,955 897,958 979,957 1062,958 1145,958 1228,958 1310,955 1393,955 1476,955 1559,958 1641,955 1724,955 1807,952 1890,952"/>
+                <TextEquiv>
+                    <Unicode>Der anberaumte Tag der Gemeindeversam̅lung soll mindestens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="224,1089 1166,1050 1496,1106 1975,1087 1975,977 1851,1024 1676,970 1295,1019 1120,972 930,1017 851,972 753,1017 664,972 224,975"/>
+                <Baseline points="238,1048 325,1045 412,1045 499,1045 586,1048 673,1048 760,1048 847,1048 934,1051 1021,1048 1109,1048 1196,1048 1283,1047 1370,1047 1457,1045 1544,1045 1631,1048 1718,1048 1805,1048 1892,1048 1980,1042"/>
+                <TextEquiv>
+                    <Unicode>den Sonntag vorher vor versammelter Gemeinde angezeigt werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="783,1155 813,1155 830,1143 886,1183 933,1145 982,1148 1010,1164 1040,1159 1040,1080 989,1094 928,1052 916,1066 870,1061 809,1103 783,1103"/>
+                <Baseline points="797,1143 824,1141 852,1140 879,1140 907,1140 934,1140 962,1140 989,1141 1017,1143 1045,1143"/>
+                <TextEquiv>
+                    <Unicode>15., St.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="725,1239 757,1237 820,1274 863,1258 949,1267 989,1237 1010,1258 1043,1262 1089,1239 1089,1173 1057,1159 1000,1157 970,1173 933,1148 886,1183 856,1155 804,1148 725,1169"/>
+                <Baseline points="737,1227 762,1225 788,1224 813,1224 839,1224 865,1224 890,1224 916,1224 942,1224 967,1224 993,1224 1019,1224 1044,1224 1070,1224 1096,1224"/>
+                <TextEquiv>
+                    <Unicode>Kirchenzucht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="224,1309 654,1365 1646,1356 1746,1309 2006,1356 2006,1225 1945,1216 1452,1281 1204,1220 986,1297 701,1218 224,1262"/>
+                <Baseline points="238,1305 326,1306 415,1308 504,1310 592,1311 681,1310 770,1310 858,1311 947,1311 1036,1312 1125,1313 1213,1311 1302,1308 1391,1308 1479,1308 1568,1305 1657,1308 1745,1305 1834,1302 1923,1302 2012,1299"/>
+                <TextEquiv>
+                    <Unicode>Sollte ein Kirchenmitglied sich versündigen gegen die Lehre und Zucht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="231,1428 1064,1402 1148,1461 1971,1417 1971,1365 1683,1328 231,1337"/>
+                <Baseline points="244,1397 330,1394 417,1396 503,1397 590,1396 676,1394 763,1394 849,1394 936,1394 1022,1397 1109,1395 1195,1397 1282,1397 1368,1398 1455,1397 1541,1394 1628,1394 1714,1396 1801,1394 1887,1397 1974,1394"/>
+                <TextEquiv>
+                    <Unicode>der Gemeinde, so ist jedes Gemeindeglied, welches es siehet verpflichtet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="229,1515 809,1538 877,1487 1372,1543 1578,1489 1800,1536 2022,1508 2022,1400 1143,1463 912,1400 229,1426"/>
+                <Baseline points="241,1481 330,1484 419,1484 508,1484 598,1484 687,1484 776,1484 866,1484 955,1484 1044,1484 1134,1484 1223,1484 1312,1484 1401,1481 1491,1481 1580,1481 1669,1481 1759,1481 1848,1484 1937,1484 2027,1484"/>
+                <TextEquiv>
+                    <Unicode>das sündigende Glied in Liebe zu ermahnen, hört es dasselbe nicht, so soll</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="229,1622 341,1578 650,1627 898,1573 1173,1627 1393,1573 1529,1634 1627,1587 2043,1601 2043,1522 1989,1508 1809,1543 1592,1496 1321,1554 1017,1501 881,1550 229,1515"/>
+                <Baseline points="241,1573 331,1571 421,1571 512,1568 602,1570 692,1570 783,1570 873,1571 963,1573 1054,1573 1144,1570 1234,1570 1325,1573 1415,1573 1505,1567 1596,1570 1686,1570 1776,1573 1867,1573 1957,1570 2048,1567"/>
+                <TextEquiv>
+                    <Unicode>es noch 2 dazu nehmen und die Vermahnung wiederhohlen, finden die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="234,1683 2022,1697 2022,1573 1410,1636 823,1578 234,1625"/>
+                <Baseline points="247,1663 336,1660 425,1660 514,1660 603,1658 692,1661 781,1662 870,1663 959,1663 1048,1660 1137,1657 1226,1657 1315,1660 1404,1657 1493,1654 1582,1654 1671,1654 1760,1654 1849,1654 1938,1657 2027,1660"/>
+                <TextEquiv>
+                    <Unicode>3 kein Gehör so sollen sie es vor die Gemeinde bringen, erfolgt nun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="234,1812 1064,1755 1374,1809 1978,1784 1980,1683 236,1697"/>
+                <Baseline points="247,1750 333,1750 420,1750 507,1747 594,1750 681,1750 767,1750 854,1749 941,1750 1028,1749 1115,1745 1201,1747 1288,1747 1375,1746 1462,1744 1549,1742 1635,1747 1722,1747 1809,1744 1896,1741 1983,1741"/>
+                <TextEquiv>
+                    <Unicode>auch vor versammelter Gemeinde keine Buße, so soll das sündigende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="1512,1921 1744,1844 1900,1863 2034,1912 2031,1784 1851,1772 1807,1793 1748,1760 1674,1791 1622,1772 1508,1798"/>
+                <Baseline points="1523,1842 1548,1840 1574,1839 1600,1839 1626,1839 1652,1839 1677,1839 1703,1839 1729,1839 1755,1840 1781,1841 1806,1843 1832,1845 1858,1844 1884,1842 1910,1844 1935,1846 1961,1847 1987,1848 2013,1848 2039,1851"/>
+                <TextEquiv>
+                    <Unicode>Gemeinde bis es beste</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="243,1900 318,1844 605,1896 795,1856 1068,1884 1155,1844 1251,1896 1494,1879 1494,1774 1255,1814 1068,1758 1010,1793 694,1774 556,1809 486,1767 243,1805"/>
+                <Baseline points="256,1845 318,1843 380,1842 442,1843 504,1845 566,1842 628,1844 691,1842 753,1843 815,1845 877,1845 939,1848 1001,1845 1063,1844 1126,1842 1188,1842 1250,1845 1312,1845 1374,1845 1436,1843 1499,1842"/>
+                <TextEquiv>
+                    <Unicode>Glied ausgeschloßen werden von der versamelten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="215,1945 367,1942 477,1996 545,1959 605,1980 713,1942 785,1971 788,1882 692,1861 605,1896 458,1872 397,1919 297,1872 217,1896"/>
+                <Baseline points="229,1941 257,1941 285,1939 313,1938 342,1938 370,1938 398,1938 426,1938 455,1937 483,1935 511,1935 539,1935 568,1935 596,1933 624,1933 652,1934 681,1935 709,1935 737,1935 765,1936 794,1938"/>
+                <TextEquiv>
+                    <Unicode>thut und sich bessert.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="236,2076 636,2087 851,2024 1402,2090 1849,2017 1940,2050 1919,1914 1788,1975 1601,1940 1309,1987 1129,1928 470,1999 367,1940 236,1949"/>
+                <Baseline points="250,2012 334,2021 419,2021 504,2021 589,2021 674,2022 759,2023 843,2021 928,2021 1013,2021 1098,2021 1183,2021 1268,2021 1353,2018 1437,2021 1522,2021 1607,2018 1692,2015 1777,2018 1862,2015 1947,2018"/>
+                <TextEquiv>
+                    <Unicode>Gröbe öffendliche Sünden sollen auch öffendlich gestraft werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="797,2155 820,2160 830,2150 844,2160 867,2143 879,2150 893,2139 905,2150 947,2113 963,2120 1033,2113 1033,2045 977,2041 942,2066 909,2048 902,2055 853,2024 839,2036 797,2024"/>
+                <Baseline points="809,2108 834,2108 860,2108 885,2108 911,2108 936,2108 962,2107 987,2105 1013,2108 1039,2111"/>
+                <TextEquiv>
+                    <Unicode>16 Ar.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="456,2197 566,2256 870,2195 919,2230 1038,2197 1096,2242 1323,2214 1325,2118 1220,2087 947,2113 888,2165 552,2108 456,2150"/>
+                <Baseline points="468,2192 511,2195 554,2195 597,2195 640,2195 684,2195 727,2195 770,2195 813,2195 856,2195 900,2193 943,2194 986,2197 1029,2196 1072,2195 1116,2195 1159,2194 1202,2192 1245,2192 1288,2192 1332,2192"/>
+                <TextEquiv>
+                    <Unicode>Aufnahme neuer Mitglieder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="206,2307 963,2284 1101,2333 1204,2279 1739,2347 2022,2302 2022,2237 1727,2244 1615,2193 566,2253 206,2190"/>
+                <Baseline points="218,2281 308,2278 398,2278 489,2278 579,2281 670,2281 760,2281 851,2278 941,2278 1032,2275 1122,2278 1212,2278 1303,2278 1393,2275 1484,2278 1574,2278 1665,2278 1755,2275 1846,2278 1936,2275 2027,2272"/>
+                <TextEquiv>
+                    <Unicode>Diejenigen lutheraner, welche begehren in die Gemeinde aufgenommen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="224,2415 344,2368 722,2436 1372,2368 1959,2391 1933,2321 1442,2335 1208,2281 1099,2335 699,2291 224,2340"/>
+                <Baseline points="238,2374 324,2370 410,2370 497,2368 583,2368 669,2368 756,2368 842,2368 928,2368 1015,2365 1101,2368 1187,2368 1274,2366 1360,2366 1446,2365 1533,2368 1619,2368 1705,2365 1792,2365 1878,2365 1965,2362"/>
+                <TextEquiv>
+                    <Unicode>zu werden haben sich bei dem Pastor oder Aeltesten zu melten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="224,2522 435,2464 832,2513 1166,2461 1501,2510 2013,2468 2013,2375 1685,2436 1374,2368 1043,2426 493,2375 224,2424"/>
+                <Baseline points="238,2460 327,2457 416,2454 505,2455 594,2455 683,2457 772,2458 861,2460 950,2457 1039,2455 1128,2455 1217,2455 1306,2455 1395,2455 1484,2452 1573,2455 1662,2455 1751,2455 1840,2455 1929,2455 2018,2455"/>
+                <TextEquiv>
+                    <Unicode>und durch diese ihre Gesuch an die Gemeinde zu bringen, in Fall</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="234,2560 500,2592 666,2548 762,2595 1227,2539 1498,2597 2003,2541 1980,2464 832,2515 432,2464 234,2513"/>
+                <Baseline points="247,2541 335,2536 423,2536 511,2538 599,2535 687,2536 775,2538 863,2538 951,2538 1039,2537 1128,2535 1216,2534 1304,2532 1392,2532 1480,2532 1568,2535 1656,2535 1744,2535 1832,2538 1920,2538 2009,2532"/>
+                <TextEquiv>
+                    <Unicode>nun die Gemeinde gaftig Kenntniß von ihrem Vorhalten hat und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="208,2653 2022,2653 2022,2555 493,2599 208,2546"/>
+                <Baseline points="221,2628 311,2622 401,2620 491,2621 582,2622 672,2620 762,2619 853,2620 943,2619 1033,2621 1124,2622 1214,2619 1304,2619 1394,2619 1485,2619 1575,2619 1665,2619 1756,2622 1846,2625 1936,2622 2027,2619"/>
+                <TextEquiv>
+                    <Unicode>nichts gegen sie einzuwenden ist, so können sie, nachdem sie mit der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="1508,2754 1550,2772 1660,2730 1720,2737 1788,2779 1870,2728 2031,2723 2031,2688 1942,2651 1882,2688 1809,2651 1692,2679 1604,2630 1531,2686 1508,2683"/>
+                <Baseline points="1520,2714 1545,2712 1571,2711 1597,2713 1623,2714 1649,2714 1674,2715 1700,2717 1726,2715 1752,2714 1778,2714 1803,2715 1829,2717 1855,2716 1881,2714 1907,2714 1932,2714 1958,2714 1984,2714 2010,2714 2036,2714"/>
+                <TextEquiv>
+                    <Unicode>sogleich aufgenom̅en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="210,2758 323,2772 383,2728 563,2770 718,2721 1052,2782 1136,2740 1484,2735 1484,2669 1410,2639 1251,2683 1162,2641 972,2683 774,2637 210,2658"/>
+                <Baseline points="223,2720 286,2717 349,2715 413,2714 476,2714 539,2714 603,2714 666,2714 729,2714 793,2711 856,2714 919,2714 983,2714 1046,2714 1109,2716 1173,2714 1236,2714 1299,2714 1363,2714 1426,2714 1490,2711"/>
+                <TextEquiv>
+                    <Unicode>Kirchenordnung bekannt gemacht worden sind</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="213,2833 1040,2870 1393,2821 1578,2873 1912,2810 2022,2854 2022,2756 1952,2737 1809,2786 1660,2730 1064,2782 213,2758"/>
+                <Baseline points="226,2807 316,2807 406,2804 496,2804 586,2804 676,2804 766,2804 856,2804 946,2804 1036,2801 1126,2804 1216,2804 1306,2804 1396,2801 1486,2801 1576,2804 1666,2804 1756,2807 1846,2804 1936,2801 2027,2810"/>
+                <TextEquiv>
+                    <Unicode>werden, welche sie zum Zeugniß ihrer Übereinstimmung zu un-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="213,2917 318,2896 386,2929 453,2903 570,2952 654,2896 767,2901 767,2814 748,2810 685,2845 645,2833 563,2856 491,2824 421,2849 320,2812 215,2831"/>
+                <Baseline points="229,2900 256,2896 283,2894 310,2894 337,2894 365,2894 392,2894 419,2894 446,2894 473,2894 501,2894 528,2894 555,2894 582,2894 609,2893 637,2891 664,2889 691,2888 718,2888 745,2889 773,2891"/>
+                <TextEquiv>
+                    <Unicode>terschreiben haben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="208,3018 358,2976 683,3041 916,2976 1101,3041 1241,2987 1786,3020 1971,2992 1971,2917 1297,2852 1092,2908 727,2889 570,2952 208,2922"/>
+                <Baseline points="221,2974 308,2976 396,2974 483,2974 571,2974 659,2974 746,2977 834,2975 922,2974 1009,2974 1097,2972 1185,2974 1272,2974 1360,2974 1448,2973 1535,2971 1623,2972 1711,2974 1798,2971 1886,2971 1974,2971"/>
+                <TextEquiv>
+                    <Unicode>Sollte aber die Gemeinde in ihrer Mehr oder Minderzahl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="196,3076 626,3123 1021,3069 1204,3132 1655,3069 1737,3114 2071,3086 2071,2957 1863,3034 1578,2980 1103,3043 930,2976 722,3036 351,2983 196,3029"/>
+                <Baseline points="209,3070 302,3070 395,3070 489,3070 582,3070 676,3067 769,3065 863,3064 956,3064 1050,3064 1143,3064 1236,3064 1330,3067 1423,3070 1517,3066 1610,3067 1704,3067 1797,3067 1891,3067 1984,3070 2078,3073"/>
+                <TextEquiv>
+                    <Unicode>Bedenken tragen, die Bittenden sogleich aufzunehmen, so müßen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="213,3188 1781,3181 1781,3107 1685,3088 1297,3132 863,3062 619,3121 213,3097"/>
+                <Baseline points="226,3159 304,3156 382,3157 460,3158 538,3156 616,3156 694,3156 772,3155 850,3153 928,3150 1006,3152 1084,3153 1162,3153 1240,3153 1318,3153 1396,3153 1474,3153 1552,3153 1630,3153 1708,3153 1786,3156"/>
+                <TextEquiv>
+                    <Unicode>sie sich eine vierteljährige Probezeit gefallen lassen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="196,3258 662,3280 834,3244 970,3305 1068,3265 1473,3268 1473,3179 1190,3212 1089,3163 942,3198 905,3167 732,3216 570,3158 372,3214 276,3167 196,3205"/>
+                <Baseline points="209,3246 272,3246 335,3246 399,3246 462,3243 526,3243 589,3240 653,3240 716,3240 780,3240 843,3240 906,3241 970,3241 1033,3237 1097,3237 1160,3237 1224,3237 1287,3237 1351,3237 1414,3237 1478,3237"/>
+                <TextEquiv>
+                    <Unicode>Lutheraner hier zu lande, sollen angehalten </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="1496,3247 1706,3275 1805,3242 1900,3247 1928,3270 1964,3247 2027,3263 2027,3205 1884,3165 1751,3198 1685,3163 1618,3212 1566,3179 1496,3191"/>
+                <Baseline points="1508,3240 1534,3240 1560,3240 1586,3242 1613,3242 1639,3240 1665,3240 1691,3240 1718,3240 1744,3241 1770,3243 1796,3242 1823,3240 1849,3242 1875,3243 1901,3243 1928,3243 1954,3243 1980,3243 2006,3243 2033,3246"/>
+                <TextEquiv>
+                    <Unicode>werden, von ihren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="206,3338 715,3394 811,3343 870,3382 1106,3329 1260,3385 1501,3343 1681,3382 1681,3291 1505,3240 1262,3298 1071,3263 968,3305 743,3242 206,3294"/>
+                <Baseline points="218,3339 291,3336 364,3334 438,3333 511,3333 585,3330 658,3330 732,3327 805,3327 879,3327 952,3325 1025,3325 1099,3327 1172,3327 1246,3327 1319,3325 1393,3327 1466,3327 1540,3328 1613,3328 1687,3333"/>
+                <TextEquiv>
+                    <Unicode>bisherigen Seelsorgern Zeugniße beizubringen, nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_38" custom="readingOrder {index:37;}">
+                <Coords points="1823,3368 1877,3389 1898,3389 1945,3352 1978,3368 2008,3354 2008,3268 1956,3251 1921,3270 1898,3294 1861,3277 1847,3287 1823,3280"/>
+                <Baseline points="1836,3333 1861,3335 1886,3336 1911,3336 1936,3335 1961,3334 1986,3334 2012,3336"/>
+                <TextEquiv>
+                    <Unicode>welchen für so-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_39" custom="readingOrder {index:38;}">
+                <Coords points="210,3455 477,3495 1239,3413 1239,3366 1108,3326 870,3382 816,3343 722,3387 491,3357 213,3382"/>
+                <Baseline points="223,3428 276,3424 330,3422 383,3422 437,3419 491,3417 544,3418 598,3418 652,3417 705,3413 759,3413 812,3413 866,3413 920,3413 973,3410 1027,3410 1081,3410 1134,3410 1188,3410 1242,3410"/>
+                <TextEquiv>
+                    <Unicode>gleich auf genommen werden können</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

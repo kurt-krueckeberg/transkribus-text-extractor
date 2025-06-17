@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.27.0:model_id=309593:date=08_06_2025_21:29</Creator>
+        <Created>2025-06-08T18:53:05.796+02:00</Created>
+        <LastChange>2025-06-08T21:29:36.083+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0128_0132_gray_sigmoid1050.jpg" imageWidth="2213" imageHeight="3621">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1750185955866" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+                <RegionRefIndexed index="2" regionRef="tr_3"/>
+                <RegionRefIndexed index="3" regionRef="tr_5"/>
+                <RegionRefIndexed index="4" regionRef="tr_4"/>
+                <RegionRefIndexed index="5" regionRef="tr_6"/>
+                <RegionRefIndexed index="6" regionRef="tr_7"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="95,40 95,193 235,193 235,40"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="90,174 110,176 143,163 172,173 188,167 198,176 234,157 233,25 204,15 182,19 173,10 148,17 136,11 122,23 89,16"/>
+                <Baseline points="95,140 123,140 151,140 179,140 207,140 235,143"/>
+                <TextEquiv>
+                    <Unicode>208</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="155,1843 155,3618 271,3618 271,1843"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="153,1924 160,1927 172,1918 186,1918 191,1913 198,1918 213,1911 228,1915 235,1834 218,1828 207,1833 197,1831 189,1838 173,1832 170,1835 161,1833"/>
+                <Baseline points="161,1892 196,1888 232,1886"/>
+                <TextEquiv>
+                    <Unicode>17.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="164,2023 175,2021 184,2026 194,2019 212,2031 219,2027 229,2031 235,2027 244,2029 239,1921 185,1957 161,1965"/>
+                <Baseline points="167,1979 192,1981 218,1982 244,1982"/>
+                <TextEquiv>
+                    <Unicode>18.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="156,2198 167,2199 183,2185 198,2181 210,2171 223,2172 233,2168 233,2125 220,2128 204,2120 175,2133 156,2125"/>
+                <Baseline points="161,2158 198,2158 235,2158"/>
+                <TextEquiv>
+                    <Unicode>20</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="151,2353 185,2347 207,2357 228,2342 235,2344 232,2277 186,2279 171,2274 148,2287"/>
+                <Baseline points="155,2319 181,2321 208,2322 235,2322"/>
+                <TextEquiv>
+                    <Unicode>22.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="154,2463 164,2466 179,2457 200,2464 209,2455 218,2460 231,2460 235,2379 222,2380 215,2374 199,2376 193,2370 185,2375 174,2365 159,2367"/>
+                <Baseline points="161,2423 198,2423 235,2420"/>
+                <TextEquiv>
+                    <Unicode>23</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="162,2534 179,2540 184,2537 204,2556 224,2550 236,2553 247,2466 211,2456 195,2464 172,2453"/>
+                <Baseline points="170,2513 207,2509 244,2504"/>
+                <TextEquiv>
+                    <Unicode>24</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="162,2689 178,2694 189,2690 202,2692 212,2687 229,2702 236,2701 236,2635 220,2632 216,2636 202,2636 175,2653 162,2654"/>
+                <Baseline points="167,2680 202,2680 238,2680"/>
+                <TextEquiv>
+                    <Unicode>26</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="156,2781 170,2782 176,2788 181,2784 192,2786 201,2777 213,2777 221,2782 227,2779 238,2786 245,2784 243,2721 235,2724 212,2721 167,2746 155,2740"/>
+                <Baseline points="161,2767 189,2769 218,2770 247,2770"/>
+                <TextEquiv>
+                    <Unicode>27.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="154,3054 164,3055 189,3043 219,3063 228,3061 231,2987 214,2994 204,2986 192,2983 179,2986 169,2975 158,2978"/>
+                <Baseline points="161,3023 196,3025 232,3020"/>
+                <TextEquiv>
+                    <Unicode>30</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="165,3142 174,3137 191,3141 203,3133 209,3138 221,3135 228,3141 237,3138 230,3079 221,3081 218,3086 204,3081 195,3085 181,3080 172,3091 159,3093"/>
+                <Baseline points="167,3113 202,3121 238,3122"/>
+                <TextEquiv>
+                    <Unicode>31.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="170,3244 180,3241 191,3244 214,3231 228,3239 246,3232 243,3164 234,3164 226,3173 218,3172 207,3179 194,3175 188,3182 167,3190"/>
+                <Baseline points="173,3206 210,3209 247,3209"/>
+                <TextEquiv>
+                    <Unicode>32.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="149,3613 3620,3620 155,3506"/>
+                <Baseline points="155,3594 184,3588 213,3588 242,3587 271,3585"/>
+                <TextEquiv>
+                    <Unicode>—</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_3" custom="readingOrder {index:2;}">
+            <Coords points="250,423 250,3495 853,3495 853,423"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="244,504 348,495 395,513 448,485 527,502 762,464 753,398 606,409 573,434 360,422 310,443 246,428"/>
+                <Baseline points="250,468 275,468 301,470 327,472 352,473 378,473 404,471 429,471 455,471 481,471 507,470 532,469 558,467 584,465 609,465 635,465 661,465 686,465 712,465 738,465 764,465"/>
+                <TextEquiv>
+                    <Unicode>Carb Wilhelm Weiland</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="248,580 311,573 386,610 453,575 774,565 775,523 590,482 446,529 348,496 249,505"/>
+                <Baseline points="253,558 279,558 305,558 331,560 357,561 383,561 409,562 436,564 462,562 488,560 514,559 540,558 566,558 592,558 619,558 645,558 671,558 697,558 723,558 749,558 776,558"/>
+                <TextEquiv>
+                    <Unicode>Abraham Stundler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="260,673 492,651 599,670 717,655 717,619 556,583 516,585 421,639 348,600 260,611"/>
+                <Baseline points="265,647 290,649 315,650 340,650 365,651 391,652 416,653 441,653 466,652 492,650 517,650 542,650 567,650 592,650 618,650 643,650 668,650 693,650 719,647"/>
+                <TextEquiv>
+                    <Unicode>Maria Steudler.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="271,799 501,741 624,762 662,744 756,751 756,700 689,688 637,713 583,673 482,730 430,699 391,714 346,667 272,709"/>
+                <Baseline points="277,740 302,743 327,746 352,746 378,746 403,746 428,745 454,743 479,741 504,740 530,742 555,743 580,743 606,743 631,743 656,742 682,740 707,740 732,740 758,740"/>
+                <TextEquiv>
+                    <Unicode>Christian Blücke.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="257,841 683,830 738,851 812,831 812,779 726,779 685,751 556,811 493,771 430,808 384,812 348,784 257,799"/>
+                <Baseline points="262,826 289,826 317,826 344,826 372,826 400,826 427,826 455,826 482,826 510,826 538,826 565,826 593,826 620,826 648,825 676,823 703,825 731,826 758,826 786,825 814,823"/>
+                <TextEquiv>
+                    <Unicode>Anna Maria Blenke.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="263,936 364,923 444,960 503,922 670,929 723,916 724,868 676,851 637,864 600,839 454,882 394,845 321,842 264,866"/>
+                <Baseline points="268,913 293,914 318,916 344,916 369,916 394,916 420,916 445,916 471,915 496,913 521,914 547,916 572,916 598,916 623,916 648,915 674,913 699,912 725,910"/>
+                <TextEquiv>
+                    <Unicode>Friedrich Blanke.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="269,1022 699,1008 700,967 651,946 603,956 550,929 418,989 270,945"/>
+                <Baseline points="274,1003 299,1005 324,1004 349,1003 374,1003 399,1003 424,1003 449,1003 474,1003 500,1003 525,1003 550,1001 575,1000 600,1000 625,1000 650,1000 675,999 701,997"/>
+                <TextEquiv>
+                    <Unicode>Maria Blenke.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="256,1147 370,1099 459,1098 527,1142 580,1106 672,1097 756,1132 827,1102 814,1036 699,1080 563,1034 450,1067 337,1024 257,1068"/>
+                <Baseline points="262,1095 290,1095 318,1095 347,1095 375,1095 403,1095 432,1095 460,1093 488,1092 517,1092 545,1092 573,1093 602,1095 630,1095 658,1094 687,1093 715,1092 743,1092 772,1092 800,1091 829,1089"/>
+                <TextEquiv>
+                    <Unicode>Christian Schamerloh.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="254,1193 297,1208 473,1183 533,1227 648,1185 703,1193 740,1226 813,1200 813,1136 771,1124 675,1167 566,1116 479,1167 420,1135 388,1159 305,1131 254,1148"/>
+                <Baseline points="259,1179 286,1183 314,1184 342,1184 370,1182 397,1182 425,1182 453,1182 481,1180 508,1179 536,1179 564,1180 592,1182 619,1182 647,1182 675,1182 703,1180 730,1179 758,1177 786,1176 814,1176"/>
+                <TextEquiv>
+                    <Unicode>Caroline Schamerloh.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="263,1288 478,1268 598,1288 624,1312 673,1274 837,1271 838,1226 772,1247 712,1212 570,1202 534,1227 380,1249 264,1195"/>
+                <Baseline points="268,1268 296,1268 325,1268 353,1268 382,1268 410,1267 439,1265 467,1267 496,1268 524,1268 553,1268 581,1268 610,1268 638,1268 667,1267 695,1266 724,1265 752,1265 781,1263 809,1261 838,1259"/>
+                <TextEquiv>
+                    <Unicode>Maria Bibelheimer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="278,1411 401,1383 439,1400 538,1361 724,1360 797,1385 852,1369 853,1324 771,1303 724,1319 671,1285 584,1329 501,1289 279,1321"/>
+                <Baseline points="283,1355 311,1355 340,1355 368,1355 397,1355 425,1354 454,1352 482,1352 511,1352 539,1352 568,1352 596,1352 625,1352 653,1352 682,1351 710,1350 739,1349 767,1349 796,1347 824,1347 853,1349"/>
+                <TextEquiv>
+                    <Unicode>G. Wilhelm Reinking.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="274,1495 430,1448 626,1459 689,1440 767,1459 801,1448 802,1420 723,1382 685,1397 586,1386 491,1427 448,1401 396,1432 338,1401 276,1413"/>
+                <Baseline points="280,1444 306,1444 332,1444 358,1444 384,1444 410,1443 436,1442 463,1441 489,1441 515,1439 541,1438 567,1438 593,1437 619,1435 646,1435 672,1435 698,1435 724,1435 750,1435 776,1435 803,1435"/>
+                <TextEquiv>
+                    <Unicode>Einmalina Rabenahl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="262,1562 447,1545 520,1569 601,1531 672,1548 822,1531 823,1456 796,1448 734,1481 673,1456 576,1485 504,1469 394,1514 263,1493"/>
+                <Baseline points="268,1528 295,1529 323,1530 351,1531 379,1531 406,1529 434,1528 462,1528 490,1528 517,1528 545,1528 573,1527 601,1525 628,1525 656,1525 684,1525 712,1525 739,1525 767,1525 795,1524 823,1522"/>
+                <TextEquiv>
+                    <Unicode>Christen Wilhelm Felbs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="277,1669 376,1644 457,1658 551,1625 589,1640 643,1614 697,1631 699,1551 621,1570 566,1554 514,1596 495,1580 450,1592 388,1557 279,1568"/>
+                <Baseline points="283,1620 308,1620 334,1620 360,1620 386,1620 412,1620 438,1620 464,1620 490,1619 516,1617 542,1615 568,1614 594,1614 620,1613 646,1611 672,1612 698,1614"/>
+                <TextEquiv>
+                    <Unicode>Elisabeth Falls.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="281,1719 320,1705 446,1740 509,1727 536,1741 602,1709 732,1714 722,1664 656,1694 549,1648 442,1693 394,1694 333,1651 280,1667"/>
+                <Baseline points="286,1698 312,1701 338,1704 365,1704 391,1704 417,1704 444,1706 470,1707 496,1705 523,1705 549,1707 575,1707 602,1707 628,1705 654,1704 681,1704 707,1703 734,1701"/>
+                <TextEquiv>
+                    <Unicode>Ämnas Thiene.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="263,1842 314,1838 360,1801 442,1803 522,1833 727,1799 727,1771 664,1779 552,1735 263,1748"/>
+                <Baseline points="268,1791 293,1793 319,1794 344,1796 370,1796 395,1794 421,1794 446,1794 472,1794 498,1794 523,1794 549,1794 574,1794 600,1794 625,1794 651,1794 676,1794 702,1792 728,1791"/>
+                <TextEquiv>
+                    <Unicode>Christine Schiene.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="266,1911 320,1924 343,1903 391,1937 434,1920 458,1938 518,1915 555,1932 598,1901 651,1891 651,1837 548,1880 491,1875 400,1835 266,1839"/>
+                <Baseline points="271,1889 296,1892 321,1892 347,1892 372,1892 398,1892 423,1892 449,1891 474,1889 500,1891 525,1892 551,1892 576,1891 602,1889 627,1888 653,1886"/>
+                <TextEquiv>
+                    <Unicode>August jangk.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="292,2021 355,1985 405,2023 461,2000 523,2032 574,2010 613,2020 666,1984 702,1987 703,1927 624,1912 499,1964 439,1931 343,1973 293,1950"/>
+                <Baseline points="298,1982 323,1983 348,1985 374,1983 399,1982 424,1982 450,1982 475,1982 501,1981 526,1979 551,1981 577,1982 602,1980 627,1979 653,1979 678,1978 704,1976"/>
+                <TextEquiv>
+                    <Unicode>Dorathen Haügk.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="283,2120 374,2089 420,2112 515,2073 667,2107 756,2082 756,2048 680,2050 628,2022 574,2054 533,2027 427,2040 332,2015 284,2032"/>
+                <Baseline points="289,2065 315,2068 341,2071 367,2071 393,2070 419,2068 445,2068 471,2068 497,2068 523,2067 549,2066 575,2065 601,2065 627,2065 653,2065 679,2065 705,2065 731,2065 758,2065"/>
+                <TextEquiv>
+                    <Unicode>Heinrich Breiteberg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="269,2180 407,2190 452,2162 604,2155 749,2192 750,2133 668,2108 638,2120 572,2089 495,2096 457,2120 355,2096 306,2136 270,2138"/>
+                <Baseline points="274,2155 299,2158 324,2158 349,2158 374,2156 399,2155 424,2155 450,2154 475,2153 500,2152 525,2152 550,2151 575,2149 601,2149 626,2149 651,2149 676,2149 701,2149 726,2150 752,2152"/>
+                <TextEquiv>
+                    <Unicode>Ferdinant Rünking.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="275,2245 354,2262 479,2245 615,2280 639,2265 672,2272 672,2194 655,2188 525,2198 486,2179 443,2194 366,2176 275,2180"/>
+                <Baseline points="280,2235 306,2238 332,2241 358,2243 385,2243 411,2241 437,2241 463,2241 490,2241 516,2240 542,2238 568,2238 595,2238 621,2238 647,2238 674,2238"/>
+                <TextEquiv>
+                    <Unicode>Maria Reinkirz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="290,2344 789,2334 790,2288 746,2274 691,2298 639,2265 615,2280 533,2261 428,2296 341,2264 291,2270"/>
+                <Baseline points="295,2325 321,2324 347,2325 373,2325 399,2325 425,2325 451,2325 477,2325 503,2325 529,2325 556,2323 582,2322 608,2322 634,2322 660,2322 686,2320 712,2319 738,2319 764,2319 791,2319"/>
+                <TextEquiv>
+                    <Unicode>Marie Leuthe Blaute!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="271,2429 358,2456 420,2425 496,2456 570,2434 663,2452 723,2421 713,2375 644,2369 565,2393 519,2364 426,2367 345,2335 273,2344"/>
+                <Baseline points="277,2414 303,2416 329,2417 356,2417 382,2417 408,2417 435,2417 461,2417 487,2415 514,2414 540,2414 566,2414 593,2414 619,2413 645,2411 672,2410 698,2410 725,2412"/>
+                <TextEquiv>
+                    <Unicode>Wilhelm Schamerlich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="423,2518 503,2511 553,2535 598,2506 657,2505 713,2549 755,2526 779,2531 781,2448 752,2446 660,2485 612,2473 580,2446 477,2492 424,2484"/>
+                <Baseline points="428,2514 453,2509 478,2504 503,2504 529,2504 554,2504 579,2504 605,2504 630,2503 655,2501 680,2501 706,2501 731,2501 756,2501 782,2501"/>
+                <TextEquiv>
+                    <Unicode>eine Schamerloh.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="333,2594 414,2626 448,2602 552,2622 610,2593 824,2596 824,2566 762,2536 719,2555 662,2528 510,2559 466,2536 334,2532"/>
+                <Baseline points="338,2586 363,2585 389,2585 415,2587 440,2588 466,2588 492,2588 517,2588 543,2588 569,2588 594,2588 620,2587 646,2585 671,2585 697,2585 723,2585 748,2585 774,2585 800,2584 826,2582"/>
+                <TextEquiv>
+                    <Unicode>löne Heinrich Blenke.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="277,2713 344,2684 364,2702 403,2680 471,2691 494,2677 697,2676 697,2629 657,2615 599,2651 524,2615 462,2655 426,2658 342,2604 278,2626"/>
+                <Baseline points="283,2668 308,2670 334,2671 360,2671 386,2671 412,2671 438,2671 464,2671 490,2671 516,2671 542,2671 568,2671 594,2671 620,2669 646,2668 672,2666 698,2668"/>
+                <TextEquiv>
+                    <Unicode>Christian Bleeke.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="274,2816 399,2774 520,2786 588,2767 701,2775 703,2720 601,2693 551,2715 482,2709 442,2736 413,2715 362,2739 275,2725"/>
+                <Baseline points="280,2764 306,2767 333,2767 359,2766 386,2764 412,2764 439,2764 465,2764 492,2764 518,2764 545,2763 571,2761 598,2761 624,2761 651,2761 677,2759 704,2755"/>
+                <TextEquiv>
+                    <Unicode>Gottfried Riedel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="275,2859 314,2872 346,2861 377,2869 419,2853 474,2881 538,2842 550,2846 552,2810 444,2800 387,2814 364,2795 326,2792 277,2817"/>
+                <Baseline points="280,2850 307,2853 334,2853 361,2853 388,2852 416,2850 443,2848 470,2846 497,2845 524,2843 552,2841"/>
+                <TextEquiv>
+                    <Unicode>Jakob Stihr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="285,2989 338,2963 403,2959 437,2974 508,2945 539,2970 577,2945 632,2950 634,2897 553,2901 537,2888 497,2896 451,2884 348,2902 289,2879"/>
+                <Baseline points="292,2943 318,2943 344,2943 371,2943 397,2943 423,2942 450,2940 476,2940 503,2940 529,2938 555,2936 582,2935 608,2933 635,2931"/>
+                <TextEquiv>
+                    <Unicode>Elisabeth Stöhr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="275,3039 641,3022 752,3062 802,3034 803,2993 647,2972 615,2946 426,3004 323,2969 276,2992"/>
+                <Baseline points="280,3026 306,3024 332,3023 358,3023 385,3023 411,3022 437,3021 463,3020 490,3020 516,3020 542,3020 568,3020 595,3020 621,3020 647,3019 673,3017 700,3017 726,3017 752,3017 778,3016 805,3015"/>
+                <TextEquiv>
+                    <Unicode>Heinrich Krükeberg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="256,3150 395,3117 511,3141 569,3121 845,3177 847,3081 805,3088 761,3058 578,3046 440,3072 344,3033 303,3063 258,3059"/>
+                <Baseline points="262,3113 291,3116 320,3119 349,3119 379,3117 408,3116 437,3116 466,3115 496,3113 525,3113 554,3113 583,3113 613,3113 642,3112 671,3110 700,3108 730,3107 759,3107 788,3107 817,3107 847,3107"/>
+                <TextEquiv>
+                    <Unicode>Caroline Krückeberg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="281,3221 330,3215 377,3240 415,3211 515,3230 598,3205 656,3231 700,3207 700,3170 646,3151 506,3161 462,3143 357,3172 334,3151 281,3169"/>
+                <Baseline points="286,3206 311,3206 337,3206 363,3205 389,3203 415,3203 441,3202 467,3201 493,3200 519,3200 545,3200 571,3200 597,3202 623,3202 649,3200 675,3200 701,3200"/>
+                <TextEquiv>
+                    <Unicode>Wilhelm Rieting</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="274,3308 357,3296 407,3326 533,3294 583,3319 632,3304 658,3325 731,3321 732,3242 691,3229 613,3255 454,3219 400,3241 275,3241"/>
+                <Baseline points="280,3292 305,3292 330,3292 355,3290 380,3289 406,3289 431,3289 456,3289 481,3289 507,3289 532,3289 557,3289 582,3289 607,3289 633,3289 658,3289 683,3289 708,3288 734,3286"/>
+                <TextEquiv>
+                    <Unicode>Bertha Reinking.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="281,3391 396,3420 530,3384 654,3424 732,3402 732,3356 661,3349 602,3317 524,3309 453,3344 360,3307 282,3322"/>
+                <Baseline points="286,3382 312,3384 338,3385 365,3385 391,3384 417,3382 444,3382 470,3382 496,3382 523,3381 549,3379 575,3379 602,3379 628,3381 654,3381 681,3380 707,3379 734,3379"/>
+                <TextEquiv>
+                    <Unicode>Ludwig Kaldewey.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="280,3497 328,3520 373,3496 447,3486 483,3498 539,3477 624,3518 669,3508 670,3452 629,3450 568,3403 516,3413 477,3394 403,3424 283,3389"/>
+                <Baseline points="286,3474 311,3471 337,3471 363,3471 388,3471 414,3471 440,3471 465,3470 491,3468 517,3466 542,3465 568,3467 594,3467 619,3465 645,3465 671,3465"/>
+                <TextEquiv>
+                    <Unicode>Sophie Kolderey.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_5" custom="readingOrder {index:3;}">
+            <Coords points="776,134 776,3479 1513,3479 1513,134"/>
+            <TextLine id="tr_5_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="900,228 982,229 1015,246 1078,224 1123,251 1306,204 1311,105 1248,106 1161,152 1082,165 995,104 928,81 908,90"/>
+                <Baseline points="907,197 932,197 957,197 982,197 1007,197 1032,197 1058,197 1083,197 1108,196 1133,194 1158,190 1184,188 1209,188 1234,186 1259,183 1284,179 1310,176"/>
+                <TextEquiv>
+                    <Unicode>Verzeichnis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="771,313 1180,317 1239,295 1337,317 1396,289 1485,311 1486,240 1434,253 1359,215 1110,272 1059,236 954,229 860,281 771,273"/>
+                <Baseline points="776,298 811,298 847,296 882,293 918,291 953,289 989,292 1024,292 1060,292 1095,292 1131,292 1166,292 1202,290 1237,289 1273,289 1308,289 1344,289 1379,287 1415,286 1450,286 1486,286"/>
+                <TextEquiv>
+                    <Unicode>der Communikanten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="967,466 1059,476 1118,461 1206,484 1245,463 1280,480 1328,457 1373,457 1374,398 1113,383 1089,400 1060,385 968,402"/>
+                <Baseline points="973,453 998,456 1023,459 1048,459 1073,460 1098,461 1124,461 1149,459 1174,459 1199,459 1224,459 1250,458 1275,457 1300,455 1325,453 1350,454 1376,456"/>
+                <TextEquiv>
+                    <Unicode>Coerad Falls.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="974,569 1406,560 1406,496 1268,476 1227,495 1144,470 1047,480 1010,505 974,497"/>
+                <Baseline points="979,546 1004,549 1029,552 1054,552 1079,552 1105,552 1130,552 1155,552 1180,553 1206,555 1231,555 1256,554 1281,553 1307,552 1332,552 1357,549 1382,546 1408,549"/>
+                <TextEquiv>
+                    <Unicode>Caroline Falls.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="989,649 1161,646 1210,663 1270,646 1306,665 1379,646 1451,671 1451,599 1405,580 1322,586 1286,568 1204,618 1133,622 1054,585 989,579"/>
+                <Baseline points="994,641 1019,641 1045,641 1070,641 1096,641 1121,641 1147,641 1172,641 1198,641 1223,641 1249,643 1274,644 1300,644 1325,643 1351,641 1376,641 1402,641 1427,641 1453,641"/>
+                <TextEquiv>
+                    <Unicode>Maria Felder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="974,741 1095,754 1154,737 1340,771 1418,741 1420,677 1318,698 1295,678 1200,672 1145,704 1042,661 975,690"/>
+                <Baseline points="979,731 1004,735 1030,737 1056,737 1082,736 1108,734 1134,734 1160,734 1186,734 1212,734 1238,734 1264,732 1290,731 1316,729 1342,728 1368,728 1394,728 1420,728"/>
+                <TextEquiv>
+                    <Unicode>Caroline Bischoff</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="997,863 1078,839 1131,857 1182,825 1233,825 1274,848 1356,830 1379,839 1381,775 1345,784 1284,763 1219,773 1202,761 1158,777 999,750"/>
+                <Baseline points="1003,826 1028,826 1053,826 1078,825 1104,824 1129,823 1154,823 1179,822 1205,820 1230,820 1255,820 1280,820 1306,820 1331,820 1356,819 1382,817"/>
+                <TextEquiv>
+                    <Unicode>Heinrich Rücklos.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="973,925 1373,909 1474,935 1475,865 1340,832 1253,875 1185,850 1047,843 974,880"/>
+                <Baseline points="979,904 1005,906 1031,908 1057,909 1083,910 1110,910 1136,908 1162,907 1188,907 1214,907 1241,907 1267,906 1293,904 1319,904 1345,904 1372,904 1398,904 1424,904 1450,906 1477,907"/>
+                <TextEquiv>
+                    <Unicode>Friederike Rücklos.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="977,995 1167,1013 1259,993 1370,1027 1409,1004 1409,962 1323,943 1290,955 1201,923 1119,951 1029,925 977,955"/>
+                <Baseline points="982,988 1007,991 1032,994 1057,992 1082,991 1108,991 1133,991 1158,991 1183,991 1209,991 1234,989 1259,988 1284,988 1310,988 1335,988 1360,988 1385,988 1411,991"/>
+                <TextEquiv>
+                    <Unicode>Carl Krückeberg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="986,1110 1118,1107 1183,1084 1352,1103 1409,1085 1482,1129 1505,1119 1505,1033 1457,1050 1395,1009 1346,1034 1298,1014 1251,1038 1203,1021 1106,1032 1085,1012 986,1003"/>
+                <Baseline points="991,1077 1016,1079 1042,1080 1068,1080 1094,1080 1120,1080 1145,1080 1171,1080 1197,1080 1223,1080 1249,1080 1274,1080 1300,1080 1326,1080 1352,1080 1378,1080 1403,1080 1429,1080 1455,1080 1481,1080 1507,1077"/>
+                <TextEquiv>
+                    <Unicode>Caroline Krückeberg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="1013,1227 1137,1183 1209,1206 1253,1188 1293,1188 1314,1179 1316,1125 1192,1116 1016,1126"/>
+                <Baseline points="1020,1176 1046,1176 1073,1176 1100,1176 1127,1175 1154,1173 1181,1171 1208,1170 1235,1170 1262,1170 1289,1170 1316,1167"/>
+                <TextEquiv>
+                    <Unicode>Elise Steger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="1008,1362 1089,1353 1141,1387 1266,1348 1333,1378 1387,1345 1409,1352 1409,1320 1366,1318 1326,1289 1286,1309 1195,1302 1174,1285 1138,1302 1083,1283 1009,1300"/>
+                <Baseline points="1014,1346 1040,1346 1066,1345 1093,1343 1119,1342 1146,1340 1172,1342 1199,1342 1225,1340 1252,1341 1278,1343 1305,1341 1331,1340 1358,1340 1384,1339 1411,1337"/>
+                <TextEquiv>
+                    <Unicode>Am Charfreitage</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="1152,1421 1173,1418 1187,1406 1202,1415 1224,1412 1247,1424 1289,1418 1291,1358 1275,1354 1263,1364 1241,1352 1225,1357 1204,1376 1194,1367 1162,1393 1153,1391"/>
+                <Baseline points="1158,1403 1184,1401 1211,1400 1238,1400 1265,1399 1292,1397"/>
+                <TextEquiv>
+                    <Unicode>1867.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="961,1567 1012,1565 1108,1524 1241,1532 1264,1552 1319,1537 1338,1552 1404,1528 1405,1454 1317,1480 1232,1456 1158,1505 1075,1455 963,1449"/>
+                <Baseline points="967,1516 992,1518 1018,1519 1044,1519 1070,1519 1096,1519 1121,1519 1147,1519 1173,1519 1199,1519 1225,1519 1251,1517 1276,1516 1302,1516 1328,1515 1354,1513 1380,1513 1406,1513"/>
+                <TextEquiv>
+                    <Unicode>Christian Bischoff.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="962,1615 1025,1629 1146,1612 1318,1645 1392,1624 1385,1550 1304,1568 1260,1549 1207,1571 1084,1572 1049,1550 962,1566"/>
+                <Baseline points="967,1609 992,1609 1017,1609 1042,1609 1067,1609 1092,1611 1117,1611 1142,1611 1167,1611 1193,1611 1218,1611 1243,1611 1268,1610 1293,1609 1318,1609 1343,1608 1368,1606 1394,1609"/>
+                <TextEquiv>
+                    <Unicode>Caroline Bischoff.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="997,1731 1037,1711 1139,1743 1193,1699 1339,1701 1395,1735 1462,1731 1463,1659 1263,1635 1102,1657 998,1646"/>
+                <Baseline points="1003,1698 1028,1698 1054,1698 1080,1698 1105,1698 1131,1698 1157,1698 1182,1698 1208,1698 1234,1698 1259,1698 1285,1698 1311,1698 1336,1698 1362,1698 1388,1696 1413,1693 1439,1691 1465,1689"/>
+                <TextEquiv>
+                    <Unicode>Heinrich Krückeberg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="974,1800 1093,1787 1242,1811 1375,1793 1446,1823 1478,1800 1511,1808 1512,1762 1320,1704 1166,1775 1066,1719 975,1750"/>
+                <Baseline points="979,1782 1005,1786 1032,1787 1059,1785 1085,1786 1112,1788 1139,1786 1165,1785 1192,1785 1219,1785 1246,1785 1272,1783 1299,1782 1326,1782 1352,1782 1379,1782 1406,1782 1432,1781 1459,1780 1486,1778 1513,1776"/>
+                <TextEquiv>
+                    <Unicode>Caroline Krückeberg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="974,1897 1050,1925 1114,1882 1181,1907 1359,1893 1408,1926 1484,1899 1484,1846 1454,1855 1389,1818 1333,1846 1250,1824 1184,1860 1047,1821 974,1842"/>
+                <Baseline points="979,1877 1004,1880 1029,1883 1055,1881 1080,1880 1105,1880 1131,1880 1156,1880 1181,1880 1207,1880 1232,1878 1257,1877 1283,1877 1308,1877 1333,1877 1359,1877 1384,1877 1409,1875 1435,1874 1460,1874 1486,1877"/>
+                <TextEquiv>
+                    <Unicode>Wilhelm Reinking.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="971,1987 1038,1983 1099,2016 1165,1980 1472,1972 1473,1911 1404,1927 1357,1892 1289,1890 1244,1909 1134,1897 1053,1926 972,1918"/>
+                <Baseline points="976,1967 1002,1968 1028,1970 1054,1970 1080,1969 1107,1968 1133,1968 1159,1970 1185,1970 1211,1970 1238,1970 1264,1969 1290,1967 1316,1967 1342,1967 1369,1967 1395,1966 1421,1965 1447,1964 1474,1964"/>
+                <TextEquiv>
+                    <Unicode>E. Wilhelm Weiland</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="985,2080 1038,2080 1104,2113 1179,2063 1448,2057 1448,2020 1376,1994 1308,2007 1245,1992 1195,2015 1156,2000 1096,2016 1043,1992 987,2004"/>
+                <Baseline points="991,2059 1016,2056 1042,2056 1067,2056 1093,2056 1118,2054 1144,2053 1169,2055 1195,2056 1220,2056 1246,2056 1271,2056 1297,2054 1322,2053 1348,2053 1373,2052 1399,2050 1424,2049 1450,2047"/>
+                <TextEquiv>
+                    <Unicode>Abraham Steudler.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="989,2161 1075,2147 1108,2173 1142,2153 1211,2171 1371,2158 1416,2176 1458,2153 1458,2095 1410,2102 1365,2074 1338,2093 1285,2071 1246,2078 1145,2128 1053,2087 989,2095"/>
+                <Baseline points="994,2146 1019,2146 1045,2146 1071,2145 1097,2143 1123,2143 1149,2143 1174,2143 1200,2142 1226,2141 1252,2140 1278,2140 1304,2142 1329,2143 1355,2143 1381,2143 1407,2143 1433,2143 1459,2143"/>
+                <TextEquiv>
+                    <Unicode>Maria Steudler.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="977,2252 1041,2237 1220,2250 1374,2236 1374,2184 1287,2159 1226,2178 1179,2172 1104,2219 1030,2165 1000,2182 977,2173"/>
+                <Baseline points="982,2220 1008,2225 1034,2229 1060,2229 1087,2229 1113,2229 1139,2229 1165,2229 1192,2229 1218,2229 1244,2229 1270,2229 1297,2229 1323,2227 1349,2226 1376,2226"/>
+                <TextEquiv>
+                    <Unicode>Conrad Falls.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="983,2329 1034,2335 1083,2315 1302,2336 1389,2318 1415,2334 1415,2269 1293,2248 1204,2301 1148,2268 1109,2284 1040,2254 1008,2282 983,2277"/>
+                <Baseline points="988,2310 1013,2313 1038,2316 1063,2314 1088,2314 1114,2315 1139,2316 1164,2316 1189,2316 1215,2316 1240,2316 1265,2316 1290,2316 1316,2317 1341,2319 1366,2316 1391,2313 1417,2313"/>
+                <TextEquiv>
+                    <Unicode>Caroline Falls.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="980,2417 1080,2457 1204,2415 1246,2426 1284,2410 1352,2438 1479,2418 1480,2358 1380,2343 1046,2362 1025,2345 981,2363"/>
+                <Baseline points="985,2409 1011,2409 1037,2409 1063,2409 1089,2408 1115,2406 1141,2406 1167,2406 1193,2406 1219,2406 1245,2406 1271,2406 1297,2406 1323,2406 1349,2406 1375,2404 1401,2404 1427,2405 1453,2406 1480,2406"/>
+                <TextEquiv>
+                    <Unicode>Wilhelm Weiland.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="974,2529 1078,2494 1119,2511 1190,2493 1300,2518 1367,2493 1493,2512 1494,2435 1428,2452 1313,2432 1237,2477 1153,2443 974,2451"/>
+                <Baseline points="979,2495 1004,2495 1030,2495 1056,2494 1082,2493 1108,2493 1133,2495 1159,2494 1185,2492 1211,2492 1237,2492 1262,2492 1288,2492 1314,2492 1340,2492 1366,2492 1391,2490 1417,2489 1443,2489 1469,2489 1495,2489"/>
+                <TextEquiv>
+                    <Unicode>Willelmene Weiland.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="980,2584 1023,2599 1085,2577 1390,2585 1422,2612 1490,2583 1490,2557 1336,2504 1302,2526 1274,2515 1224,2559 1081,2494 1029,2530 980,2523"/>
+                <Baseline points="985,2579 1010,2579 1035,2579 1061,2578 1086,2576 1111,2576 1137,2576 1162,2576 1187,2576 1213,2576 1238,2577 1263,2579 1289,2579 1314,2579 1339,2577 1365,2576 1390,2574 1415,2573 1441,2573 1466,2573 1492,2573"/>
+                <TextEquiv>
+                    <Unicode>Wilhelm Reinkinge.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="980,2669 1007,2666 1069,2703 1108,2673 1262,2662 1369,2697 1451,2666 1451,2635 1377,2635 1340,2603 1244,2616 1179,2590 1098,2607 1062,2636 980,2646"/>
+                <Baseline points="985,2653 1011,2656 1037,2656 1063,2656 1089,2656 1115,2655 1141,2653 1167,2655 1193,2656 1219,2656 1245,2656 1271,2656 1297,2656 1323,2656 1349,2656 1375,2655 1401,2653 1427,2652 1453,2650"/>
+                <TextEquiv>
+                    <Unicode>werthe Reinking.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="973,2774 1033,2777 1065,2808 1150,2759 1235,2801 1302,2767 1423,2791 1493,2768 1494,2690 1474,2683 1338,2733 1248,2684 1076,2715 1026,2691 974,2720"/>
+                <Baseline points="979,2758 1004,2758 1030,2756 1056,2754 1082,2753 1108,2753 1133,2755 1159,2755 1185,2755 1211,2757 1237,2757 1262,2756 1288,2754 1314,2752 1340,2752 1366,2752 1391,2752 1417,2751 1443,2749 1469,2748 1495,2746"/>
+                <TextEquiv>
+                    <Unicode>Wilhelm Schamerloh.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="980,2892 1040,2868 1096,2891 1173,2849 1254,2903 1309,2852 1370,2841 1453,2884 1498,2876 1511,2773 1390,2821 1285,2772 1173,2830 1083,2795 1065,2808 1033,2777 981,2786"/>
+                <Baseline points="985,2835 1011,2839 1037,2841 1064,2841 1090,2841 1117,2841 1143,2843 1169,2845 1196,2847 1222,2846 1249,2844 1275,2842 1301,2841 1328,2841 1354,2840 1381,2838 1407,2836 1433,2835 1460,2835 1486,2834 1513,2832"/>
+                <TextEquiv>
+                    <Unicode>Philippine Schamerloh.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="977,2957 1038,2957 1087,2934 1137,2962 1334,2926 1373,2948 1408,2941 1411,2854 1329,2880 1296,2863 1229,2911 1171,2879 1076,2894 1049,2868 978,2892"/>
+                <Baseline points="982,2931 1007,2931 1032,2931 1057,2931 1082,2931 1108,2932 1133,2933 1158,2933 1183,2931 1209,2930 1234,2928 1259,2930 1284,2930 1310,2927 1335,2923 1360,2920 1385,2919 1411,2919"/>
+                <TextEquiv>
+                    <Unicode>Wilhelm Falls.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="987,3070 1107,3040 1169,3066 1222,3032 1277,3034 1342,3007 1404,3027 1406,2943 1323,2969 1289,2940 1172,2975 1091,2932 1043,2960 990,2961"/>
+                <Baseline points="994,3015 1019,3015 1045,3015 1071,3015 1097,3015 1122,3015 1148,3014 1174,3013 1200,3012 1225,3012 1251,3012 1277,3012 1303,3010 1328,3008 1354,3006 1380,3005 1406,3003"/>
+                <TextEquiv>
+                    <Unicode>Elisabeth Falls.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="974,3126 1037,3165 1113,3114 1194,3153 1261,3115 1395,3107 1442,3131 1459,3124 1461,3048 1312,3029 1208,3069 1108,3039 975,3063"/>
+                <Baseline points="979,3113 1004,3113 1029,3112 1055,3110 1080,3109 1106,3107 1131,3107 1156,3107 1182,3107 1207,3107 1233,3107 1258,3107 1284,3107 1309,3105 1334,3104 1360,3104 1385,3103 1411,3101 1436,3100 1462,3098"/>
+                <TextEquiv>
+                    <Unicode>J. Heinrich Bleeke.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="976,3248 1050,3209 1077,3229 1124,3197 1165,3197 1215,3225 1254,3198 1275,3210 1416,3185 1417,3139 1279,3129 1188,3175 1114,3148 1061,3172 1009,3139 978,3140"/>
+                <Baseline points="982,3194 1007,3194 1033,3193 1058,3191 1084,3191 1109,3191 1135,3191 1161,3190 1186,3189 1212,3189 1237,3191 1263,3189 1289,3188 1314,3188 1340,3187 1365,3186 1391,3183 1417,3179"/>
+                <TextEquiv>
+                    <Unicode>Christine Blanke.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="980,3286 1166,3286 1209,3323 1315,3281 1359,3297 1408,3278 1445,3298 1445,3239 1329,3245 1247,3207 1162,3245 1108,3211 980,3246"/>
+                <Baseline points="985,3274 1010,3276 1036,3277 1062,3275 1087,3274 1113,3274 1139,3273 1164,3271 1190,3273 1216,3275 1241,3276 1267,3278 1293,3280 1318,3279 1344,3277 1370,3277 1395,3277 1421,3277 1447,3274"/>
+                <TextEquiv>
+                    <Unicode>Andreas Thieme.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="967,3409 1005,3418 1039,3399 1074,3415 1116,3383 1166,3376 1244,3413 1321,3369 1437,3378 1437,3343 1394,3350 1280,3289 1173,3352 1122,3330 1062,3344 1030,3316 968,3347"/>
+                <Baseline points="973,3373 998,3373 1024,3373 1050,3372 1076,3370 1102,3370 1128,3370 1153,3368 1179,3366 1205,3365 1231,3365 1257,3367 1283,3367 1308,3367 1334,3367 1360,3367 1386,3367 1412,3367 1438,3367"/>
+                <TextEquiv>
+                    <Unicode>Christen Thieme.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_5_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="991,3495 1030,3479 1078,3508 1133,3515 1188,3485 1242,3502 1310,3478 1355,3483 1356,3415 1316,3427 1247,3416 1198,3379 992,3441"/>
+                <Baseline points="997,3456 1022,3458 1048,3459 1074,3457 1100,3456 1125,3456 1151,3455 1177,3453 1203,3453 1229,3453 1254,3453 1280,3454 1306,3456 1332,3455 1358,3453"/>
+                <TextEquiv>
+                    <Unicode>jakob höriger.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_4" custom="readingOrder {index:4;}">
+            <Coords points="877,3102 877,3423 949,3423 949,3102"/>
+            <TextLine id="tr_4_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="870,3214 886,3218 902,3208 907,3211 919,3206 924,3210 935,3201 946,3199 953,3158 942,3153 922,3155 904,3146 892,3150 887,3143 882,3142"/>
+                <Baseline points="877,3203 913,3198 949,3191"/>
+                <TextEquiv>
+                    <Unicode>20</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="870,3402 878,3405 895,3392 906,3392 919,3386 930,3388 939,3382 946,3384 950,3341 944,3339 941,3342 927,3329 920,3328 915,3333 904,3326 895,3327 889,3321 876,3322"/>
+                <Baseline points="877,3379 913,3378 949,3373"/>
+                <TextEquiv>
+                    <Unicode>22</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_6" custom="readingOrder {index:5;}">
+            <Coords points="1552,410 1552,2853 1650,2853 1650,410"/>
+            <TextLine id="tr_6_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1550,469 1565,465 1571,470 1576,464 1589,470 1595,467 1603,474 1628,461 1636,464 1635,404 1629,404 1624,410 1618,406 1604,407 1570,433 1550,436"/>
+                <Baseline points="1555,453 1582,453 1610,454 1638,456"/>
+                <TextEquiv>
+                    <Unicode>24.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1556,555 1575,549 1599,565 1604,562 1618,570 1642,557 1642,500 1618,496 1614,492 1608,495 1603,490 1591,497 1579,491 1556,497"/>
+                <Baseline points="1561,543 1588,543 1616,543 1644,543"/>
+                <TextEquiv>
+                    <Unicode>25.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1547,637 1559,636 1574,652 1580,649 1589,657 1616,640 1633,645 1636,564 1610,576 1585,554 1550,554"/>
+                <Baseline points="1552,635 1579,635 1607,634 1635,632"/>
+                <TextEquiv>
+                    <Unicode>26</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1553,750 1566,748 1586,766 1595,769 1599,766 1603,770 1615,759 1638,757 1640,680 1627,685 1617,683 1608,689 1588,678 1569,690 1554,692"/>
+                <Baseline points="1558,728 1585,726 1613,725 1641,725"/>
+                <TextEquiv>
+                    <Unicode>27.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1553,830 1568,824 1578,825 1586,832 1608,823 1642,825 1642,758 1627,766 1615,764 1605,771 1598,766 1562,796 1553,798"/>
+                <Baseline points="1558,805 1586,807 1615,807 1644,805"/>
+                <TextEquiv>
+                    <Unicode>28.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1563,996 1578,997 1582,993 1587,998 1605,990 1614,995 1623,985 1639,985 1638,949 1627,952 1616,950 1613,953 1609,949 1595,947 1578,949 1568,958 1561,958"/>
+                <Baseline points="1567,976 1604,981 1641,979"/>
+                <TextEquiv>
+                    <Unicode>30.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1565,1174 1570,1174 1575,1181 1589,1178 1606,1190 1638,1197 1641,1125 1628,1117 1616,1121 1611,1117 1600,1120 1591,1115 1581,1120 1575,1114 1567,1114"/>
+                <Baseline points="1570,1161 1605,1163 1641,1158"/>
+                <TextEquiv>
+                    <Unicode>32.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1562,1261 1571,1260 1579,1266 1588,1262 1606,1263 1612,1268 1623,1262 1635,1272 1641,1271 1644,1199 1629,1196 1620,1202 1606,1196 1598,1200 1582,1199 1571,1207 1565,1205"/>
+                <Baseline points="1567,1253 1592,1253 1618,1252 1644,1250"/>
+                <TextEquiv>
+                    <Unicode>33.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1563,1352 1573,1353 1581,1345 1609,1356 1630,1357 1642,1351 1639,1286 1633,1285 1622,1296 1598,1289 1594,1294 1583,1293 1570,1301 1561,1298"/>
+                <Baseline points="1567,1334 1592,1336 1618,1337 1644,1337"/>
+                <TextEquiv>
+                    <Unicode>34.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1565,1535 1587,1535 1591,1531 1597,1537 1615,1540 1621,1546 1632,1539 1640,1540 1643,1472 1630,1470 1618,1476 1604,1470 1594,1473 1580,1466 1567,1470"/>
+                <Baseline points="1570,1513 1607,1515 1644,1510"/>
+                <TextEquiv>
+                    <Unicode>36.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="1550,1669 1588,1637 1596,1634 1602,1639 1629,1629 1625,1551 1616,1553 1605,1564 1586,1567 1577,1574 1561,1573 1546,1584"/>
+                <Baseline points="1552,1597 1577,1600 1603,1602 1629,1600"/>
+                <TextEquiv>
+                    <Unicode>37</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="1559,1698 1575,1693 1612,1709 1615,1705 1633,1706 1645,1699 1643,1628 1633,1625 1602,1639 1595,1634 1590,1638 1585,1634 1572,1636 1569,1640 1557,1635"/>
+                <Baseline points="1564,1677 1591,1677 1619,1678 1647,1680"/>
+                <TextEquiv>
+                    <Unicode>38.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="1558,1982 1566,1982 1576,1988 1584,1983 1594,1990 1605,1989 1615,1983 1624,1989 1634,1987 1638,1926 1613,1917 1601,1922 1595,1916 1581,1920 1576,1916 1562,1922"/>
+                <Baseline points="1564,1964 1601,1961 1638,1958"/>
+                <TextEquiv>
+                    <Unicode>41.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="1566,2058 1575,2056 1584,2061 1593,2056 1604,2063 1619,2056 1642,2062 1639,2002 1632,2002 1626,2008 1615,2007 1603,1997 1579,2016 1564,2015"/>
+                <Baseline points="1570,2044 1607,2047 1644,2047"/>
+                <TextEquiv>
+                    <Unicode>42.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="1569,2148 1581,2141 1597,2147 1603,2142 1608,2144 1620,2140 1624,2143 1643,2139 1641,2094 1620,2089 1611,2081 1593,2093 1588,2089 1580,2094 1567,2091"/>
+                <Baseline points="1573,2128 1608,2130 1644,2131"/>
+                <TextEquiv>
+                    <Unicode>43.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="1565,2230 1580,2234 1590,2243 1595,2242 1603,2247 1639,2232 1639,2184 1601,2174 1588,2180 1578,2178 1573,2182 1565,2181"/>
+                <Baseline points="1570,2220 1605,2218 1641,2220"/>
+                <TextEquiv>
+                    <Unicode>44</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_6_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="1572,2853 1578,2854 1592,2845 1604,2845 1610,2851 1615,2847 1632,2848 1637,2852 1649,2849 1646,2785 1634,2786 1623,2796 1610,2787 1599,2789 1591,2797 1569,2793"/>
+                <Baseline points="1576,2826 1613,2831 1650,2829"/>
+                <TextEquiv>
+                    <Unicode>51</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_7" custom="readingOrder {index:6;}">
+            <Coords points="1659,401 1659,3467 2191,3467 2191,401"/>
+            <TextLine id="tr_7_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1683,497 1722,479 1758,490 1800,457 1877,491 1931,490 1990,448 2042,447 2103,487 2156,473 2157,397 2097,378 2044,369 1807,407 1739,383 1685,389"/>
+                <Baseline points="1689,444 1715,447 1741,449 1767,450 1793,450 1819,449 1845,447 1871,445 1897,444 1923,444 1949,444 1975,444 2001,442 2027,441 2053,443 2079,444 2105,444 2131,443 2158,441"/>
+                <TextEquiv>
+                    <Unicode>Christian Schamerlch.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1675,563 1705,546 1754,568 1883,549 1940,576 1997,546 2102,579 2159,566 2148,501 2032,517 1947,475 1902,506 1866,485 1810,506 1736,480 1675,513"/>
+                <Baseline points="1680,537 1705,539 1730,540 1755,542 1781,542 1806,541 1831,540 1857,540 1882,540 1907,540 1933,540 1958,540 1983,540 2009,540 2034,540 2059,540 2085,540 2110,540 2135,540 2161,540"/>
+                <TextEquiv>
+                    <Unicode>Caroline Schamerloh.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1689,689 1764,646 1848,677 1908,651 2125,656 2127,584 1971,567 1899,586 1861,618 1745,562 1691,573"/>
+                <Baseline points="1695,635 1720,635 1745,635 1771,635 1796,635 1822,634 1847,631 1873,630 1898,632 1924,632 1949,632 1975,632 2000,632 2026,630 2051,629 2077,629 2102,625 2128,620"/>
+                <TextEquiv>
+                    <Unicode>Heinrich Rücklos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1684,737 1968,720 2141,773 2132,667 1971,650 1850,678 1765,656 1684,687"/>
+                <Baseline points="1689,719 1714,717 1739,719 1764,717 1789,716 1815,716 1840,717 1865,718 1890,719 1916,719 1941,719 1966,719 1991,719 2016,719 2042,719 2067,719 2092,719 2117,718 2143,716"/>
+                <TextEquiv>
+                    <Unicode>Friderike Rücklas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1678,799 1739,827 1778,815 1824,842 1853,828 1882,835 1907,815 1934,820 1974,797 2004,809 2005,764 1870,729 1786,757 1741,738 1679,754"/>
+                <Baseline points="1683,794 1709,795 1736,797 1763,797 1790,796 1817,795 1844,794 1871,794 1898,794 1925,793 1952,792 1979,790 2006,788"/>
+                <TextEquiv>
+                    <Unicode>Carl Grote</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1677,904 1734,903 1773,933 1834,932 1859,952 1905,937 1924,955 1997,911 2027,922 2113,905 2114,828 2086,822 1997,856 1935,836 1880,865 1831,844 1799,867 1733,836 1678,847"/>
+                <Baseline points="1683,895 1708,897 1733,898 1759,898 1784,898 1810,898 1835,898 1861,898 1886,898 1912,898 1937,896 1963,896 1988,897 2014,897 2039,895 2065,895 2090,895 2116,895"/>
+                <TextEquiv>
+                    <Unicode>Caroline Grote.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1675,1021 1774,1020 1844,988 1968,1015 2027,991 2111,986 2103,930 2039,949 1965,923 1925,954 1735,925 1675,936"/>
+                <Baseline points="1680,979 1705,981 1730,982 1756,984 1781,985 1807,985 1832,984 1858,982 1883,984 1909,985 1934,985 1960,985 1985,985 2011,985 2036,985 2062,983 2087,982 2113,979"/>
+                <TextEquiv>
+                    <Unicode>Christian Bleike</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1678,1077 1800,1094 2012,1069 2109,1089 2183,1074 2183,1017 2117,996 1938,1047 1911,1021 1781,1043 1740,1014 1678,1023"/>
+                <Baseline points="1683,1065 1708,1068 1733,1071 1758,1071 1783,1071 1808,1071 1833,1071 1858,1071 1883,1071 1908,1071 1934,1071 1959,1071 1984,1069 2009,1068 2034,1068 2059,1068 2084,1068 2109,1068 2134,1068 2159,1068 2185,1068"/>
+                <TextEquiv>
+                    <Unicode>Anna Maria Blicke</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1685,1212 1712,1216 1769,1179 1835,1208 1901,1196 1931,1174 1965,1188 2009,1168 2061,1176 2060,1111 2036,1117 1996,1090 1879,1113 1832,1144 1742,1103 1684,1102"/>
+                <Baseline points="1689,1158 1715,1160 1742,1161 1768,1161 1795,1160 1822,1158 1848,1160 1875,1161 1902,1161 1928,1161 1955,1161 1982,1163 2008,1164 2035,1162 2062,1158"/>
+                <TextEquiv>
+                    <Unicode>Georg Blum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1683,1299 1714,1301 1783,1263 1846,1294 1961,1251 2118,1269 2112,1181 1977,1198 1936,1183 1810,1212 1743,1196 1684,1222"/>
+                <Baseline points="1689,1247 1714,1250 1739,1250 1764,1250 1790,1250 1815,1249 1840,1245 1866,1245 1891,1247 1916,1247 1941,1247 1967,1247 1992,1247 2017,1247 2043,1247 2068,1247 2093,1244 2119,1241"/>
+                <TextEquiv>
+                    <Unicode>Elisabeth Feldner.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="1687,1351 1732,1369 1792,1346 1842,1362 1926,1343 1987,1382 2044,1345 2166,1337 2166,1291 2130,1309 1906,1266 1864,1293 1802,1274 1687,1302"/>
+                <Baseline points="1692,1334 1717,1337 1742,1337 1767,1337 1792,1335 1817,1334 1842,1334 1867,1333 1892,1331 1917,1331 1942,1331 1967,1333 1992,1334 2017,1334 2042,1334 2067,1334 2092,1334 2117,1334 2142,1333 2167,1331"/>
+                <TextEquiv>
+                    <Unicode>David Bibelheimer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="1672,1436 1810,1446 1908,1425 1991,1477 2060,1432 2159,1425 2160,1390 2118,1405 2028,1374 1969,1380 1931,1344 1822,1397 1673,1366"/>
+                <Baseline points="1677,1426 1702,1426 1727,1425 1753,1423 1778,1423 1804,1423 1829,1421 1855,1420 1880,1420 1906,1419 1931,1417 1957,1418 1982,1420 2008,1420 2033,1420 2059,1420 2084,1420 2110,1420 2135,1420 2161,1420"/>
+                <TextEquiv>
+                    <Unicode>Maria Bibelheimer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="1681,1560 1755,1530 1772,1542 1817,1529 1867,1551 1932,1509 2001,1540 2081,1536 2081,1477 2046,1462 1990,1477 1943,1449 1860,1449 1803,1471 1759,1450 1681,1490"/>
+                <Baseline points="1686,1510 1712,1510 1738,1510 1765,1508 1791,1506 1818,1504 1844,1504 1871,1504 1897,1504 1924,1504 1950,1504 1977,1505 2003,1507 2030,1509 2056,1510 2083,1510"/>
+                <TextEquiv>
+                    <Unicode>Elisabeth Belz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="1689,1628 1825,1598 1866,1604 1908,1630 1970,1586 2017,1587 2020,1541 1979,1557 1946,1536 1906,1532 1871,1550 1814,1545 1801,1555 1781,1542 1692,1573"/>
+                <Baseline points="1695,1597 1720,1597 1745,1597 1770,1596 1795,1594 1820,1592 1845,1591 1870,1589 1895,1587 1920,1586 1945,1585 1970,1585 1995,1584 2020,1582"/>
+                <TextEquiv>
+                    <Unicode>sakob Stähr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="1677,1736 1797,1698 1868,1733 1910,1708 1970,1722 2004,1696 2072,1687 2073,1639 1998,1606 1919,1637 1850,1617 1820,1633 1740,1625 1679,1638"/>
+                <Baseline points="1683,1680 1709,1682 1735,1683 1761,1683 1787,1683 1813,1683 1839,1683 1865,1682 1891,1680 1917,1680 1943,1680 1969,1678 1995,1677 2021,1677 2047,1677 2074,1677"/>
+                <TextEquiv>
+                    <Unicode>Elisabeth Stöhr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="1666,1784 1826,1797 2002,1775 2146,1812 2167,1802 2170,1714 2065,1730 1995,1711 1896,1748 1823,1711 1667,1733"/>
+                <Baseline points="1671,1776 1697,1776 1723,1776 1749,1776 1776,1776 1802,1776 1828,1775 1854,1773 1881,1773 1907,1773 1933,1771 1959,1770 1986,1770 2012,1770 2038,1770 2064,1768 2091,1767 2117,1767 2143,1766 2170,1764"/>
+                <TextEquiv>
+                    <Unicode>Ferdinand Reinking</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="1675,1879 1959,1875 2104,1915 2114,1840 2037,1805 1974,1829 1915,1799 1843,1840 1723,1796 1676,1802"/>
+                <Baseline points="1680,1871 1705,1871 1731,1870 1756,1868 1782,1866 1808,1865 1833,1865 1859,1866 1885,1868 1910,1868 1936,1868 1962,1866 1987,1865 2013,1865 2039,1864 2064,1862 2090,1863 2116,1865"/>
+                <TextEquiv>
+                    <Unicode>Maria Reinking.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="1678,1983 1753,1984 1842,2014 1891,1974 2014,1960 2057,1972 2118,1951 2118,1916 1996,1887 1853,1912 1772,1913 1754,1893 1679,1922"/>
+                <Baseline points="1683,1958 1708,1960 1734,1960 1759,1958 1785,1958 1811,1958 1836,1956 1862,1955 1888,1955 1913,1956 1939,1958 1965,1956 1990,1955 2016,1955 2042,1954 2067,1952 2093,1951 2119,1949"/>
+                <TextEquiv>
+                    <Unicode>Fridrich Bleecke.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="1684,2060 1774,2045 1920,2045 1955,2059 2006,2040 2022,2053 2059,2044 2061,1972 2010,1978 1980,2004 1917,1971 1857,2018 1807,1998 1782,2005 1753,1984 1686,1988"/>
+                <Baseline points="1689,2044 1715,2046 1742,2044 1768,2043 1795,2041 1822,2039 1848,2038 1875,2038 1902,2038 1928,2038 1955,2036 1982,2035 2008,2035 2035,2035 2062,2035"/>
+                <TextEquiv>
+                    <Unicode>Maria Bleeken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="1678,2134 1903,2136 1940,2164 1987,2129 2189,2128 2190,2073 2082,2048 1980,2073 1920,2045 1845,2084 1711,2069 1679,2087"/>
+                <Baseline points="1683,2122 1708,2125 1733,2125 1759,2124 1784,2122 1810,2122 1835,2122 1860,2120 1886,2119 1911,2119 1937,2119 1962,2119 1987,2118 2013,2116 2038,2116 2064,2116 2089,2116 2114,2114 2140,2111 2165,2110 2191,2110"/>
+                <TextEquiv>
+                    <Unicode>Maria Louise Bleeke.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="1682,2268 1759,2235 1814,2272 1848,2241 1977,2216 2050,2217 2102,2250 2164,2223 2166,2174 2105,2178 2044,2140 1967,2181 1927,2154 1820,2176 1754,2154 1686,2166"/>
+                <Baseline points="1689,2214 1714,2216 1739,2217 1764,2217 1789,2215 1814,2214 1839,2213 1865,2212 1890,2212 1915,2211 1940,2209 1965,2209 1990,2209 2016,2209 2041,2208 2066,2207 2091,2204 2116,2201 2141,2200 2167,2200"/>
+                <TextEquiv>
+                    <Unicode>Heinrich Krückeberg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="1671,2324 1785,2332 1821,2352 1887,2310 1997,2310 2025,2291 2100,2299 2103,2246 2017,2248 1989,2223 1905,2235 1823,2274 1738,2240 1675,2267"/>
+                <Baseline points="1677,2310 1702,2307 1727,2307 1752,2306 1777,2303 1802,2300 1827,2296 1852,2295 1877,2295 1903,2295 1928,2295 1953,2293 1978,2291 2003,2290 2028,2287 2053,2284 2078,2279 2104,2274"/>
+                <TextEquiv>
+                    <Unicode>Fridrich Weiland</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="1674,2435 1740,2426 1788,2393 1898,2380 2014,2410 2079,2368 2177,2357 2179,2331 2110,2338 2052,2313 2010,2331 1955,2312 1822,2352 1760,2329 1682,2338"/>
+                <Baseline points="1683,2388 1709,2388 1735,2388 1761,2386 1787,2384 1813,2380 1839,2378 1865,2376 1891,2374 1917,2373 1944,2373 1970,2372 1996,2370 2022,2368 2048,2366 2074,2363 2100,2360 2126,2356 2152,2353 2179,2349"/>
+                <TextEquiv>
+                    <Unicode>Isabella Bibelheimer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="1676,2521 1724,2527 1785,2488 1870,2486 1904,2516 1950,2489 1967,2495 1970,2433 1941,2431 1910,2409 1797,2444 1769,2445 1737,2424 1680,2440"/>
+                <Baseline points="1683,2483 1709,2483 1735,2483 1761,2482 1787,2480 1813,2478 1839,2477 1865,2477 1891,2476 1917,2475 1943,2473 1970,2471"/>
+                <TextEquiv>
+                    <Unicode>Sährer Belz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="1678,2574 1738,2571 1768,2592 1828,2588 1856,2601 1937,2589 1953,2604 2018,2576 2018,2515 1899,2518 1826,2491 1678,2532"/>
+                <Baseline points="1683,2564 1708,2564 1734,2562 1760,2561 1786,2561 1812,2562 1838,2564 1864,2562 1890,2561 1916,2563 1942,2563 1968,2562 1994,2560 2020,2558"/>
+                <TextEquiv>
+                    <Unicode>Augus Haupt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="1678,2654 1775,2656 1818,2687 1863,2653 1912,2686 2087,2668 2089,2559 1954,2603 1901,2591 1823,2613 1746,2577 1706,2604 1679,2601"/>
+                <Baseline points="1683,2647 1708,2647 1733,2647 1759,2647 1784,2647 1809,2647 1835,2647 1860,2647 1886,2646 1911,2644 1936,2644 1962,2644 1987,2642 2012,2641 2038,2641 2063,2640 2089,2638"/>
+                <TextEquiv>
+                    <Unicode>Dorathea Haupt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="1684,2752 1799,2755 1858,2781 1900,2757 1929,2770 2051,2739 2149,2783 2153,2673 1989,2686 1972,2670 1860,2710 1831,2688 1790,2701 1741,2674 1686,2673"/>
+                <Baseline points="1689,2746 1714,2746 1740,2746 1766,2746 1791,2746 1817,2746 1843,2746 1869,2744 1894,2742 1920,2741 1946,2740 1971,2740 1997,2738 2023,2737 2049,2735 2074,2734 2100,2734 2126,2734 2152,2734"/>
+                <TextEquiv>
+                    <Unicode>Ludwig Koldewey</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="1688,2880 1818,2861 1853,2875 1891,2853 1924,2872 2025,2853 2029,2774 1916,2767 1837,2797 1784,2774 1718,2805 1691,2803"/>
+                <Baseline points="1695,2835 1720,2835 1746,2835 1772,2834 1797,2833 1823,2832 1849,2832 1874,2830 1900,2829 1926,2827 1951,2825 1977,2824 2003,2821 2029,2817"/>
+                <TextEquiv>
+                    <Unicode>Elise Steger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="1653,3003 1975,3049 2056,3013 2107,3044 2155,3027 2156,2966 2066,2981 2008,2970 1978,2942 1929,2958 1888,2939 1767,2962 1655,2931"/>
+                <Baseline points="1659,2997 1685,3000 1711,3003 1737,3003 1764,3003 1790,3003 1816,3003 1842,3003 1869,3003 1895,3003 1921,3003 1947,3002 1974,3000 2000,3000 2026,3000 2052,2998 2079,2996 2105,2995 2131,2993 2158,2991"/>
+                <TextEquiv>
+                    <Unicode>Am IV Sonntage nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="1765,3101 1802,3117 1831,3100 1876,3114 1925,3099 2091,3111 2122,3100 2126,2998 1991,3050 1924,3038 1861,3053 1809,3020 1767,3036"/>
+                <Baseline points="1770,3092 1795,3094 1820,3095 1846,3095 1871,3094 1896,3092 1922,3092 1947,3092 1972,3092 1998,3092 2023,3090 2048,3088 2074,3086 2099,3083 2125,3080"/>
+                <TextEquiv>
+                    <Unicode>Trinitatis 1867</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="1672,3292 1778,3272 1877,3335 1953,3289 2005,3311 2055,3281 2108,3285 2109,3188 2022,3203 1953,3182 1857,3219 1771,3189 1673,3192"/>
+                <Baseline points="1677,3262 1702,3265 1727,3268 1753,3270 1778,3271 1804,3271 1829,3270 1855,3268 1880,3266 1906,3265 1931,3267 1957,3268 1982,3268 2008,3267 2033,3265 2059,3263 2084,3262 2110,3262"/>
+                <TextEquiv>
+                    <Unicode>Auauf Haupt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="1689,3370 1813,3382 1845,3412 1969,3352 2062,3416 2111,3382 2146,3383 2148,3297 2039,3292 1769,3347 1735,3325 1690,3329"/>
+                <Baseline points="1695,3358 1720,3355 1745,3355 1770,3357 1795,3358 1821,3358 1846,3357 1871,3356 1896,3355 1922,3355 1947,3354 1972,3352 1997,3352 2022,3352 2048,3352 2073,3351 2098,3349 2123,3348 2149,3346"/>
+                <TextEquiv>
+                    <Unicode>Dorothea Brugk</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_7_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="1691,3506 1737,3511 1843,3455 1953,3484 1979,3460 2051,3475 2068,3464 2107,3485 2109,3418 2001,3395 1960,3420 1914,3389 1849,3414 1817,3389 1694,3386"/>
+                <Baseline points="1698,3444 1723,3445 1749,3447 1775,3445 1801,3444 1826,3446 1852,3446 1878,3445 1904,3443 1929,3441 1955,3441 1981,3441 2007,3441 2032,3440 2058,3438 2084,3435 2110,3432"/>
+                <TextEquiv>
+                    <Unicode>Gottfried Thienen</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

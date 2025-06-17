@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.27.0:model_id=309593:date=08_06_2025_21:29</Creator>
+        <Created>2025-06-08T18:52:52.798+02:00</Created>
+        <LastChange>2025-06-08T21:29:22.063+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0022_0025_gray_sigmoid1050.jpg" imageWidth="2171" imageHeight="3578">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1750185953261" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="59,244 59,2894 2048,2894 2048,244"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1910,305 1937,308 1949,320 1992,305 2019,315 2041,308 2046,206 2031,208 2014,191 1992,208 1980,201 1971,211 1937,191 1927,199 1915,196"/>
+                <Baseline points="1923,292 1948,290 1973,288 1998,286 2023,287 2048,289"/>
+                <TextEquiv>
+                    <Unicode>N° 10.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="461,366 533,344 936,354 1159,390 1214,376 1214,259 1093,221 921,262 829,213 747,252 589,211 458,245"/>
+                <Baseline points="474,316 511,323 548,325 586,325 623,326 660,328 698,328 735,328 772,328 810,328 847,328 884,328 922,331 959,331 996,331 1034,331 1071,331 1108,331 1146,334 1183,334 1221,331"/>
+                <TextEquiv>
+                    <Unicode>Christian Fridrich Blecke</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="46,477 1905,509 1905,402 906,422 635,373 458,414 46,332"/>
+                <Baseline points="59,433 151,447 244,450 336,451 429,456 522,460 614,462 707,463 799,462 892,465 985,468 1077,468 1170,468 1262,468 1355,471 1448,471 1540,471 1633,468 1725,465 1818,462 1911,453"/>
+                <TextEquiv>
+                    <Unicode>zweiter Sohn von Johann Heinrich Philipp Bleeke und Christine Ma¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="63,550 986,616 1098,570 1651,620 1898,574 1857,487 1794,526 1352,477 63,507"/>
+                <Baseline points="77,534 168,540 259,543 351,546 442,549 534,553 625,558 716,559 808,561 899,561 991,562 1082,564 1173,561 1265,563 1356,564 1448,564 1539,560 1630,561 1722,561 1813,558 1905,552"/>
+                <TextEquiv>
+                    <Unicode>rie geb. Schwier, geb: den 7 May u. get. den 13 May 1821. (siehe Seite 31 Kind</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="70,662 1869,693 1866,599 68,604"/>
+                <Baseline points="83,630 172,636 262,636 351,639 441,639 531,645 620,648 710,648 799,651 889,654 979,654 1068,654 1158,654 1247,654 1337,654 1427,651 1516,651 1606,654 1695,654 1785,651 1875,642"/>
+                <TextEquiv>
+                    <Unicode>Nr. 2.) Er verheirathete sich den 9 August 1849 mit Jungfrau Louise Valsing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="63,766 2012,749 1958,662 528,713 63,664"/>
+                <Baseline points="77,725 173,725 270,729 367,734 464,734 561,737 658,740 755,740 852,743 949,743 1046,746 1142,746 1239,746 1336,746 1433,743 1530,743 1627,743 1724,743 1821,743 1918,740 2015,737"/>
+                <TextEquiv>
+                    <Unicode>eine Richter von Fridrich Valsing und seiner Ehefrau Louise geb. (bei der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1777,780 1803,790 1818,780 1830,788 1878,785 1898,793 1929,785 1946,802 1954,797 1995,812 1992,747 1934,747 1927,754 1859,747 1849,754 1837,749 1828,759 1798,744 1777,749"/>
+                <Baseline points="1789,773 1814,775 1840,776 1866,778 1892,779 1917,779 1943,779 1969,779 1995,779"/>
+                <TextEquiv>
+                    <Unicode>Monsieur le Président</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="73,841 1035,877 1081,839 1243,892 1340,839 1891,829 1636,756 1408,797 73,759"/>
+                <Baseline points="86,809 176,812 267,815 357,821 448,821 538,824 629,827 719,827 810,830 900,830 991,830 1081,830 1172,831 1262,831 1353,832 1443,830 1534,830 1624,829 1715,826 1805,821 1896,821"/>
+                <TextEquiv>
+                    <Unicode>den 28 Juli 1833, und ges: den August 1833. Geb. in Loh Kreis Minden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="73,914 194,948 904,933 950,970 1185,933 1183,856 70,839"/>
+                <Baseline points="86,904 141,902 196,904 251,904 306,907 361,905 416,910 471,912 526,911 581,913 637,913 692,913 747,915 802,919 857,919 912,919 967,919 1022,919 1077,919 1132,919 1188,916"/>
+                <TextEquiv>
+                    <Unicode>Königreich Preusen. Kinder dieser Ehe sind:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="99,1023 1602,1020 1643,1059 1866,1018 1866,960 1731,931 99,938"/>
+                <Baseline points="113,988 205,988 298,991 390,994 483,997 575,998 668,1000 761,1001 853,1003 946,1003 1038,1006 1131,1008 1223,1009 1316,1009 1409,1006 1501,1003 1594,1006 1686,1006 1779,1005 1872,1003"/>
+                <TextEquiv>
+                    <Unicode>Marie Louise geb: den 14 November u. gut: den 8 December 1850, Pathen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="177,1108 1289,1132 1289,1062 1047,1016 948,1054 865,1011 761,1052 635,1008 441,1045 320,1006 177,1025"/>
+                <Baseline points="191,1081 246,1081 301,1081 356,1083 411,1084 466,1087 521,1090 576,1090 631,1092 686,1093 742,1093 797,1093 852,1093 907,1093 962,1096 1017,1096 1072,1096 1127,1096 1182,1096 1237,1096 1293,1096"/>
+                <TextEquiv>
+                    <Unicode>Wilhelmine Zwick und Sophie Heckmann,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="177,1185 1052,1234 1142,1195 1251,1236 1304,1197 1878,1205 1878,1137 1811,1103 1442,1151 1185,1110 1059,1156 996,1115 177,1108"/>
+                <Baseline points="191,1170 275,1173 360,1173 444,1176 529,1178 614,1179 698,1182 783,1182 868,1182 952,1179 1037,1182 1122,1185 1206,1185 1291,1185 1376,1182 1460,1184 1545,1182 1630,1182 1714,1182 1799,1179 1884,1188"/>
+                <TextEquiv>
+                    <Unicode>Sophie Louise geb. den 27 März u. get: den 28 Märn 1853. Pathen: Chri¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="177,1294 1522,1297 1522,1236 1466,1200 1054,1239 759,1195 662,1239 550,1185 487,1222 291,1190 177,1236"/>
+                <Baseline points="191,1263 257,1263 324,1263 391,1266 458,1266 525,1266 592,1269 659,1270 726,1272 793,1271 860,1269 926,1270 993,1272 1060,1272 1127,1272 1194,1272 1261,1272 1328,1274 1395,1275 1462,1272 1529,1275"/>
+                <TextEquiv>
+                    <Unicode>stine Bleeke, Christine E. Bleeke u. Louise Valsing.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="1723,1406 1789,1399 1798,1408 1806,1399 1825,1396 1837,1382 1881,1379 1878,1326 1859,1331 1847,1323 1842,1331 1791,1294 1781,1297 1750,1277 1738,1285 1728,1275 1716,1275"/>
+                <Baseline points="1735,1349 1760,1351 1785,1352 1811,1354 1836,1355 1861,1355 1887,1358"/>
+                <TextEquiv>
+                    <Unicode>Pathen:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="97,1357 604,1399 1108,1365 1159,1403 1217,1362 1532,1411 1706,1369 1704,1309 95,1302"/>
+                <Baseline points="110,1346 190,1345 270,1349 350,1349 430,1349 510,1352 590,1355 670,1355 750,1355 830,1355 910,1355 990,1355 1070,1355 1150,1358 1230,1358 1310,1358 1390,1356 1470,1358 1550,1358 1630,1355 1711,1352"/>
+                <TextEquiv>
+                    <Unicode>3. Johann Heinrich geb. den 17 Februar u. geb: den 25 Febuar 1855</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="170,1474 436,1452 545,1491 645,1447 904,1447 1328,1488 1391,1466 1391,1399 802,1367 739,1418 679,1369 507,1413 429,1360 301,1401 167,1352"/>
+                <Baseline points="182,1439 242,1439 303,1439 364,1442 425,1440 485,1442 546,1442 607,1445 668,1445 728,1445 789,1445 850,1445 911,1447 971,1447 1032,1448 1093,1445 1154,1445 1214,1445 1275,1445 1336,1445 1397,1448"/>
+                <TextEquiv>
+                    <Unicode>Johann Heinrich Bleeke und Friedrich Valsing.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="177,1563 1878,1566 1878,1464 177,1474"/>
+                <Baseline points="191,1526 275,1529 360,1529 444,1531 529,1532 614,1532 698,1532 783,1532 868,1535 952,1532 1037,1532 1122,1534 1206,1535 1291,1535 1376,1535 1460,1535 1545,1535 1630,1535 1714,1532 1799,1532 1884,1529"/>
+                <TextEquiv>
+                    <Unicode>Im Jahre darauf 1856 den 28. November ging die Mutter dieser Kinder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="70,1629 933,1687 1088,1629 1898,1668 1898,1561 1852,1554 1217,1558 1129,1605 700,1544 625,1590 485,1549 293,1590 230,1542 70,1580"/>
+                <Baseline points="83,1618 178,1615 274,1615 370,1616 465,1618 561,1621 657,1618 753,1621 848,1621 944,1621 1040,1624 1136,1623 1231,1623 1327,1624 1423,1621 1519,1621 1614,1621 1710,1624 1806,1624 1902,1627"/>
+                <TextEquiv>
+                    <Unicode>nach kurzem Leiden am Nervenfieber ein zu ihres HErrn Freude. Im Jah¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="63,1721 1241,1718 1340,1760 1428,1721 1651,1769 1883,1721 1883,1672 61,1634"/>
+                <Baseline points="77,1705 167,1705 258,1705 348,1705 439,1708 530,1708 620,1708 711,1708 802,1711 892,1711 983,1711 1074,1711 1164,1713 1255,1711 1346,1711 1436,1711 1527,1711 1618,1712 1708,1714 1799,1714 1890,1717"/>
+                <TextEquiv>
+                    <Unicode>re 1858 den 8 April verheirathete genannter Chr. Fr. Bleeke sich zum an¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="75,1808 1558,1844 1689,1796 1420,1723 1306,1764 1146,1721 1008,1762 567,1723 368,1764 75,1714"/>
+                <Baseline points="89,1794 169,1794 249,1794 330,1795 410,1794 490,1797 571,1796 651,1797 731,1797 812,1797 892,1800 972,1798 1053,1800 1133,1798 1213,1800 1294,1800 1374,1800 1454,1800 1535,1799 1615,1797 1696,1794"/>
+                <TextEquiv>
+                    <Unicode>dere Male mit Jungfrau Anna Maria Rup eine Tochter von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="957,1946 1129,1912 1246,1946 1309,1903 1583,1956 1672,1907 1740,1934 2026,1881 2029,1791 1954,1762 1643,1842 960,1825"/>
+                <Baseline points="970,1896 1023,1896 1076,1896 1129,1894 1182,1896 1235,1897 1288,1899 1342,1897 1395,1896 1448,1896 1501,1899 1554,1898 1607,1895 1660,1889 1714,1884 1767,1881 1820,1877 1873,1875 1926,1873 1979,1870 2033,1872"/>
+                <TextEquiv>
+                    <Unicode>geb. den 11. Sept. 1833 u. gut. 7.26 Nov. 1898</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="63,1932 116,1937 141,1956 235,1900 291,1905 332,1891 332,1835 259,1874 235,1874 150,1815 124,1832 63,1820"/>
+                <Baseline points="77,1890 103,1892 129,1893 155,1893 181,1893 207,1893 233,1891 259,1890 285,1890 311,1889 337,1887"/>
+                <TextEquiv>
+                    <Unicode>Rup und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="596,1954 608,1954 616,1946 623,1949 635,1937 662,1924 674,1929 686,1920 710,1917 710,1849 688,1844 669,1864 662,1859 652,1864 628,1844 620,1852 596,1847"/>
+                <Baseline points="609,1893 635,1893 662,1893 689,1893 716,1893"/>
+                <TextEquiv>
+                    <Unicode>geb.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="366,2024 417,1995 572,1992 664,2026 705,1997 880,1995 880,1932 797,1963 688,1920 591,1966 540,1922 366,1915"/>
+                <Baseline points="379,1986 404,1983 429,1983 455,1984 480,1986 506,1986 531,1986 556,1986 582,1986 607,1986 633,1986 658,1986 683,1986 709,1986 734,1986 760,1985 785,1984 810,1983 836,1983 861,1983 887,1983"/>
+                <TextEquiv>
+                    <Unicode>Cd. Ohio. confirmirt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="75,2063 92,2058 107,2060 124,2038 126,2041 145,2026 175,2024 172,1963 150,1968 124,1944 107,1946 90,1934 68,1939"/>
+                <Baseline points="83,1986 115,1988 147,1989 179,1992"/>
+                <TextEquiv>
+                    <Unicode>in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="107,2094 1903,2089 1903,2034 1811,2004 1588,1995 991,2043 262,1990 107,2034"/>
+                <Baseline points="119,2069 208,2072 297,2072 387,2072 476,2075 566,2075 655,2072 745,2075 834,2075 924,2072 1013,2069 1102,2072 1192,2075 1281,2072 1371,2072 1460,2072 1550,2075 1639,2072 1729,2072 1818,2072 1908,2075"/>
+                <TextEquiv>
+                    <Unicode>1. Christine Elise geb: den 10 Februar u. gut: den 27 Febr. 1859. Pathen Elisa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="187,2206 555,2167 1626,2177 1626,2101 1333,2114 1263,2077 926,2135 785,2080 698,2118 187,2101"/>
+                <Baseline points="200,2165 271,2165 343,2165 414,2165 486,2165 558,2162 629,2162 701,2163 773,2165 844,2163 916,2162 988,2161 1059,2162 1131,2162 1203,2160 1274,2165 1346,2162 1418,2162 1489,2162 1561,2162 1633,2165"/>
+                <TextEquiv>
+                    <Unicode>beth Rup u. Christine Heckmann, gest. den 6 April 1861.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="102,2266 446,2303 705,2257 800,2303 967,2254 1166,2298 1871,2261 1849,2208 1646,2169 1478,2210 1394,2172 102,2193"/>
+                <Baseline points="116,2251 204,2248 292,2251 380,2254 468,2254 556,2249 644,2251 732,2251 820,2250 908,2250 997,2248 1085,2248 1173,2250 1261,2253 1349,2253 1437,2253 1525,2251 1613,2251 1701,2251 1789,2251 1878,2254"/>
+                <TextEquiv>
+                    <Unicode>2. Maria Elive geb: den 23. Juni u. gut den 8 Juli 1860. Pathen: Maria</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="194,2358 303,2344 444,2395 494,2349 727,2339 873,2375 894,2370 897,2286 751,2290 700,2259 647,2276 591,2254 536,2298 497,2269 444,2303 371,2264 196,2259"/>
+                <Baseline points="209,2335 243,2335 278,2335 313,2335 348,2337 382,2338 417,2338 452,2338 487,2338 521,2338 556,2337 591,2335 626,2335 660,2335 695,2335 730,2335 765,2335 799,2335 834,2335 869,2334 904,2332"/>
+                <TextEquiv>
+                    <Unicode>Reinking und Sahra Rup.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="204,2448 1013,2433 1134,2472 1634,2431 1716,2482 1878,2446 1849,2375 1658,2351 1566,2402 1481,2339 1265,2387 204,2358"/>
+                <Baseline points="218,2434 301,2430 384,2431 467,2431 551,2430 634,2431 717,2428 801,2429 884,2428 967,2425 1051,2427 1134,2428 1217,2425 1300,2425 1384,2422 1467,2425 1550,2428 1634,2428 1717,2427 1800,2428 1884,2428"/>
+                <TextEquiv>
+                    <Unicode>Carl Fridrich geb: den 1 Oktober und get: den 9 Okrober 1861. Pathen:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="194,2550 1636,2528 1636,2472 1476,2436 1340,2475 1013,2433 465,2475 196,2450"/>
+                <Baseline points="209,2520 280,2520 352,2521 423,2523 495,2522 566,2517 638,2517 709,2517 781,2517 852,2516 924,2514 995,2514 1067,2514 1138,2514 1210,2513 1281,2511 1353,2514 1424,2511 1496,2513 1567,2511 1639,2511"/>
+                <TextEquiv>
+                    <Unicode>Carl Fridrich Wilhelm Bleeke Zwick u. Carl Heckmann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="184,2632 1854,2608 1854,2535 184,2547"/>
+                <Baseline points="197,2601 280,2601 363,2601 446,2601 529,2601 612,2599 695,2601 778,2598 861,2596 944,2596 1027,2597 1110,2595 1193,2595 1276,2592 1359,2595 1442,2596 1525,2595 1608,2595 1691,2597 1774,2595 1857,2598"/>
+                <TextEquiv>
+                    <Unicode>Fridrich Wilhelm geb. den 2 Ocktober u. art. den 9 Oktober 1863.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="172,2722 1297,2683 1721,2739 1721,2647 1658,2608 1391,2652 1226,2593 1176,2637 943,2601 172,2632"/>
+                <Baseline points="185,2690 262,2687 339,2687 416,2685 493,2686 570,2684 647,2684 724,2682 801,2681 878,2679 955,2679 1032,2679 1109,2679 1186,2679 1263,2679 1340,2679 1417,2679 1494,2679 1571,2681 1648,2680 1726,2682"/>
+                <TextEquiv>
+                    <Unicode>Pathen: C. Fridrich Wilhelm Bleeke u. Ferdinand Reinking.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="97,2814 1866,2778 1825,2712 1382,2736 1280,2690 97,2739"/>
+                <Baseline points="110,2777 198,2785 286,2784 374,2782 462,2780 550,2780 638,2780 726,2779 814,2777 902,2774 991,2777 1079,2775 1167,2777 1255,2774 1343,2776 1431,2777 1519,2774 1607,2774 1695,2774 1783,2774 1872,2774"/>
+                <TextEquiv>
+                    <Unicode>5. Johann Martin geb: den 27 Juli u. gut: den 13. September 1865.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="191,2918 400,2935 465,2887 683,2872 1457,2884 1454,2812 1176,2782 1120,2824 926,2782 824,2826 676,2785 618,2821 191,2792"/>
+                <Baseline points="206,2870 268,2871 331,2873 394,2873 457,2871 520,2870 583,2870 645,2870 708,2868 771,2868 834,2867 897,2869 960,2864 1023,2864 1085,2864 1148,2864 1211,2862 1274,2864 1337,2864 1400,2866 1463,2870"/>
+                <TextEquiv>
+                    <Unicode>Pathen: Wilhelm Fells und Wilhelm Herkmann.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

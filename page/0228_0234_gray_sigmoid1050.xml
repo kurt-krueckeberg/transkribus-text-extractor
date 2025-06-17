@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.27.0:model_id=309593:date=08_06_2025_21:29</Creator>
+        <Created>2025-06-08T18:53:18.251+02:00</Created>
+        <LastChange>2025-06-08T21:29:51.139+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0228_0234_gray_sigmoid1050.jpg" imageWidth="2279" imageHeight="3608">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1750185961608" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+                <RegionRefIndexed index="2" regionRef="tr_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="161,339 161,3141 349,3141 349,339"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="148,465 183,470 197,456 215,454 253,477 315,474 331,468 329,398 257,389 237,374 215,387 195,378 159,392 145,389"/>
+                <Baseline points="161,442 186,442 211,440 236,439 261,441 286,442 311,446 337,445"/>
+                <TextEquiv>
+                    <Unicode>4. 38.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="246,924 266,920 273,926 282,917 293,922 300,915 322,908 315,823 304,826 295,835 277,823 275,828 239,832"/>
+                <Baseline points="256,899 292,901 328,904"/>
+                <TextEquiv>
+                    <Unicode>39.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="253,1445 277,1448 291,1436 298,1436 311,1428 318,1432 327,1425 338,1428 340,1376 324,1374 313,1365 307,1372 302,1369 291,1381 255,1385"/>
+                <Baseline points="268,1418 293,1418 318,1417 343,1415"/>
+                <TextEquiv>
+                    <Unicode>40</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="262,1799 273,1799 277,1794 284,1799 293,1790 342,1790 338,1705 327,1705 322,1712 304,1705 302,1712 280,1732 275,1727 273,1730 260,1727"/>
+                <Baseline points="274,1774 299,1776 324,1777 349,1777"/>
+                <TextEquiv>
+                    <Unicode>41.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="257,2331 282,2331 300,2314 309,2320 313,2318 324,2329 345,2323 340,2238 304,2249 295,2244 289,2249 286,2246 275,2255 253,2253"/>
+                <Baseline points="268,2305 295,2307 322,2308 349,2308"/>
+                <TextEquiv>
+                    <Unicode>42.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="262,2752 277,2752 300,2768 311,2766 315,2770 327,2759 340,2759 340,2685 329,2685 322,2678 318,2683 282,2656 262,2654"/>
+                <Baseline points="274,2741 310,2741 346,2741"/>
+                <TextEquiv>
+                    <Unicode>43.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="255,3097 282,3099 309,3126 318,3128 327,3137 338,3137 340,3039 302,3039 298,3043 277,3027 271,3030 257,3027"/>
+                <Baseline points="268,3091 293,3088 318,3088 343,3088"/>
+                <TextEquiv>
+                    <Unicode>44.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="167,3000 167,3150 238,3150 238,3000"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="154,3132 183,3137 195,3130 213,3146 233,3146 233,3036 208,3041 195,3032 188,3036 175,3032 168,3039 154,3039"/>
+                <Baseline points="167,3100 202,3100 238,3100"/>
+                <TextEquiv>
+                    <Unicode>3.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_3" custom="readingOrder {index:2;}">
+            <Coords points="388,227 388,3391 2234,3391 2234,227"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="707,300 993,345 1884,324 1871,199 1459,224 1280,186 1014,239 707,188"/>
+                <Baseline points="719,271 777,275 836,279 894,280 953,280 1011,280 1070,280 1128,280 1187,283 1245,283 1304,283 1363,283 1421,283 1480,283 1538,283 1597,281 1655,280 1714,280 1772,279 1831,277 1890,277"/>
+                <TextEquiv>
+                    <Unicode>Register der Leichenbegängniße.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="405,454 1871,486 2085,452 2085,380 1926,345 1803,416 1166,354 989,405 870,342 676,414 571,362 405,398"/>
+                <Baseline points="418,451 501,448 585,448 668,448 752,445 836,448 919,448 1003,450 1086,451 1170,452 1254,451 1337,451 1421,451 1504,451 1588,451 1672,451 1755,449 1839,448 1922,445 2006,445 2090,442"/>
+                <TextEquiv>
+                    <Unicode>Hermann Fridrich Wilhelm, Söhnlein von Johann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="376,539 1087,595 1246,550 2047,548 1985,470 1808,456 1526,499 376,479"/>
+                <Baseline points="388,531 471,531 554,536 637,538 721,541 804,546 887,549 971,549 1054,546 1137,545 1221,546 1304,546 1387,546 1470,546 1554,546 1637,546 1720,543 1804,539 1887,535 1970,531 2054,528"/>
+                <TextEquiv>
+                    <Unicode>Ehrmann und dessen Ehefrau Caroline, gestorben den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="383,656 725,635 841,691 2175,629 2175,582 2065,559 1933,597 1821,555 383,573"/>
+                <Baseline points="394,624 483,627 572,630 661,630 751,633 840,633 929,636 1019,633 1108,633 1197,633 1287,633 1376,633 1465,633 1554,633 1644,630 1733,627 1822,624 1912,624 2001,624 2090,621 2180,624"/>
+                <TextEquiv>
+                    <Unicode>1t und beerdigt den 3t August 1881. Alter 6 Monate, 7 Tage.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="409,727 745,790 940,736 1148,783 1296,745 1358,774 1416,729 1745,767 1900,725 1900,676 1745,640 1654,678 1381,642 1172,714 1072,656 794,694 409,647"/>
+                <Baseline points="421,716 495,722 569,722 643,725 717,727 792,728 866,728 940,728 1014,728 1088,728 1163,728 1237,728 1311,728 1385,725 1459,725 1534,722 1608,719 1682,716 1756,717 1830,713 1905,716"/>
+                <TextEquiv>
+                    <Unicode>Text der Leichenrede: Marc. 10, 14. (Taufregister No 165.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="392,926 712,971 832,911 2175,920 2157,776 1703,873 1349,808 394,848"/>
+                <Baseline points="403,907 492,906 581,904 670,902 759,900 848,900 937,900 1026,902 1115,902 1204,902 1293,902 1382,902 1471,902 1560,904 1649,899 1738,896 1827,896 1916,893 2005,893 2094,893 2183,893"/>
+                <TextEquiv>
+                    <Unicode>Hermann Jacob Ferdinand, Söhnlein von Christian Scha-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="401,991 2177,1002 2177,946 2034,908 1575,953 779,924 720,973 401,933"/>
+                <Baseline points="412,988 500,988 588,988 677,988 765,988 854,989 942,990 1030,993 1119,988 1207,988 1296,988 1384,985 1472,987 1561,985 1649,985 1738,982 1826,982 1914,976 2003,976 2091,976 2180,979"/>
+                <TextEquiv>
+                    <Unicode>merloh und dessen Ehefrau Emilie, gestorben den 10t u. beer¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="401,1101 2195,1094 2195,1027 2025,980 1553,1040 1222,998 401,1027"/>
+                <Baseline points="412,1078 501,1078 590,1075 680,1075 769,1075 859,1078 948,1078 1038,1075 1127,1075 1217,1072 1306,1072 1395,1072 1485,1075 1574,1072 1664,1072 1753,1072 1843,1069 1932,1066 2022,1069 2111,1066 2201,1069"/>
+                <TextEquiv>
+                    <Unicode>digt den 11t October 1881. Alter 13 Tage. Text der Leichxrede:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="401,1226 622,1170 949,1210 1342,1177 1445,1228 2061,1177 2045,1074 1797,1128 1457,1078 1378,1121 884,1078 401,1110"/>
+                <Baseline points="412,1164 494,1164 577,1162 660,1162 742,1161 825,1163 908,1164 990,1164 1073,1164 1156,1167 1239,1167 1321,1167 1404,1166 1487,1161 1569,1161 1652,1164 1735,1162 1817,1161 1900,1161 1983,1158 2066,1158"/>
+                <TextEquiv>
+                    <Unicode>die dritte Bitte des hl. Vater Uesers. (Taufrezister No. 170.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1139,1347 1179,1336 1257,1356 1280,1345 1311,1360 1356,1345 1351,1273 1322,1280 1302,1266 1278,1273 1262,1266 1253,1275 1231,1271 1217,1284 1195,1269 1134,1293"/>
+                <Baseline points="1149,1332 1175,1332 1202,1333 1228,1334 1255,1336 1281,1338 1308,1340 1334,1341 1361,1344"/>
+                <TextEquiv>
+                    <Unicode>1882.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="421,1448 2159,1445 2159,1354 2065,1385 1871,1325 1537,1394 1070,1340 626,1381 421,1302"/>
+                <Baseline points="433,1424 519,1421 606,1421 692,1424 779,1424 866,1424 952,1424 1039,1429 1125,1429 1212,1427 1299,1429 1385,1424 1472,1424 1558,1424 1645,1421 1732,1421 1818,1418 1905,1424 1991,1421 2078,1419 2165,1427"/>
+                <TextEquiv>
+                    <Unicode>Maria Höriger, Ehefrau des weiland J. F. höriger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="987,1535 1468,1515 1649,1560 2193,1510 2193,1457 2090,1432 1944,1486 1781,1439 1694,1477 1269,1434 987,1468"/>
+                <Baseline points="1000,1511 1059,1510 1119,1511 1179,1510 1239,1508 1298,1508 1358,1508 1418,1510 1478,1511 1537,1508 1597,1508 1657,1508 1717,1511 1776,1509 1836,1508 1896,1507 1956,1505 2015,1502 2075,1501 2135,1499 2195,1502"/>
+                <TextEquiv>
+                    <Unicode>1810. in Pensilvanien, gestorben den 22t</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="427,1557 463,1573 530,1519 577,1521 597,1537 642,1519 752,1526 752,1468 671,1445 647,1461 568,1452 537,1477 494,1479 472,1499 430,1492"/>
+                <Baseline points="442,1517 468,1517 494,1516 520,1515 546,1514 572,1514 598,1514 624,1514 650,1514 676,1513 702,1512 728,1511 755,1511"/>
+                <TextEquiv>
+                    <Unicode>geb. den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="441,1609 1117,1602 1504,1658 2092,1602 2179,1658 2226,1654 2229,1524 1640,1568 1577,1524 1481,1564 861,1519 441,1573"/>
+                <Baseline points="453,1603 541,1600 630,1600 719,1599 808,1600 897,1599 986,1599 1075,1600 1164,1597 1253,1595 1342,1597 1430,1597 1519,1603 1608,1600 1697,1597 1786,1594 1875,1594 1964,1591 2053,1591 2142,1591 2231,1597"/>
+                <TextEquiv>
+                    <Unicode>und beerdigt den 24 März 1882. (Text der Leichenrede Lui 18, 13)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="474,1797 2208,1786 2208,1662 1770,1687 1703,1747 1439,1689 1067,1739 474,1694"/>
+                <Baseline points="486,1774 572,1771 658,1774 745,1772 831,1773 917,1774 1004,1774 1090,1775 1176,1777 1263,1774 1349,1772 1435,1774 1522,1774 1608,1774 1694,1771 1781,1771 1867,1770 1953,1768 2040,1768 2126,1767 2213,1780"/>
+                <TextEquiv>
+                    <Unicode>Heinrich August, Söhnlein von Hermann Bütt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="1571,1904 1826,1868 1949,1888 2195,1866 2195,1794 2047,1817 2005,1794 1940,1844 1810,1792 1709,1794 1658,1837 1571,1835"/>
+                <Baseline points="1582,1869 1612,1869 1643,1867 1674,1866 1705,1866 1736,1866 1766,1866 1797,1866 1828,1866 1859,1866 1890,1866 1920,1866 1951,1865 1982,1863 2013,1863 2044,1863 2074,1864 2105,1866 2136,1866 2167,1865 2198,1863"/>
+                <TextEquiv>
+                    <Unicode>gestorben den 4ten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="492,1909 609,1875 823,1911 917,1877 996,1918 1164,1873 1542,1882 1542,1817 1468,1828 1376,1777 1313,1817 1197,1790 844,1824 801,1788 492,1844"/>
+                <Baseline points="504,1869 556,1869 608,1869 660,1869 712,1869 764,1869 816,1869 869,1872 921,1872 973,1873 1025,1875 1077,1873 1129,1869 1181,1869 1234,1868 1286,1866 1338,1866 1390,1868 1442,1869 1494,1867 1547,1869"/>
+                <TextEquiv>
+                    <Unicode>ner u. dessen Ehefrau Louise</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="1575,1958 1721,1976 1875,1953 1991,1991 2025,1969 2229,1982 2229,1882 2202,1873 2141,1909 1985,1868 1575,1915"/>
+                <Baseline points="1588,1953 1620,1952 1652,1950 1684,1950 1717,1950 1749,1950 1781,1950 1814,1948 1846,1947 1878,1947 1911,1947 1943,1949 1975,1950 2007,1950 2040,1948 2072,1947 2104,1947 2137,1944 2169,1944 2201,1944 2234,1944"/>
+                <TextEquiv>
+                    <Unicode>1882. Alter 3 J., 7 M., 47.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="494,2000 660,1965 765,1998 888,1967 940,2005 1114,1965 1560,1982 1560,1875 1063,1922 776,1877 494,1953"/>
+                <Baseline points="507,1971 559,1963 612,1962 665,1962 718,1962 771,1959 824,1959 877,1961 930,1962 983,1962 1036,1962 1088,1961 1141,1961 1194,1962 1247,1962 1300,1959 1353,1958 1406,1956 1459,1956 1512,1956 1565,1956"/>
+                <TextEquiv>
+                    <Unicode>und beerdigt den 6ten October</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="1560,2074 1645,2050 1676,2079 1747,2065 1797,2099 2000,2054 2063,2085 2117,2076 2117,1985 2083,1996 2027,1967 1996,1985 1922,1967 1803,2014 1707,1967 1615,1953 1560,1969"/>
+                <Baseline points="1571,2045 1598,2045 1626,2045 1653,2045 1681,2045 1709,2045 1736,2045 1764,2045 1791,2045 1819,2043 1847,2043 1874,2044 1902,2045 1929,2045 1957,2045 1985,2044 2012,2042 2040,2043 2067,2045 2095,2047 2123,2048"/>
+                <TextEquiv>
+                    <Unicode>Taufreg. No 153.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="526,2058 640,2097 707,2061 911,2101 1078,2050 1228,2101 1280,2065 1481,2065 1481,2003 1381,1978 1137,1973 1094,2009 882,1971 788,2003 526,1991"/>
+                <Baseline points="537,2045 584,2048 632,2048 679,2048 727,2047 774,2045 822,2046 869,2048 917,2047 964,2047 1012,2048 1059,2046 1107,2045 1154,2045 1202,2045 1249,2045 1297,2045 1344,2045 1392,2045 1439,2048 1487,2051"/>
+                <TextEquiv>
+                    <Unicode>Text der Leichenrede Ps. 16, 6.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="1070,2226 1110,2233 1143,2222 1152,2229 1177,2213 1193,2224 1224,2215 1260,2238 1291,2233 1291,2164 1257,2164 1244,2150 1208,2157 1190,2150 1110,2177 1070,2161"/>
+                <Baseline points="1081,2219 1107,2217 1134,2216 1161,2216 1188,2216 1215,2216 1242,2216 1269,2217 1296,2219"/>
+                <TextEquiv>
+                    <Unicode>1883.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="459,2381 622,2331 2117,2340 2117,2271 1700,2276 1477,2179 1394,2233 1170,2215 1074,2267 850,2213 633,2269 461,2222"/>
+                <Baseline points="474,2326 556,2317 638,2317 721,2317 803,2315 886,2311 968,2309 1051,2314 1133,2314 1216,2311 1298,2306 1380,2307 1463,2308 1545,2311 1628,2311 1710,2308 1793,2303 1875,2305 1958,2310 2040,2317 2123,2317"/>
+                <TextEquiv>
+                    <Unicode>Johann Heinrich Philips Bleke, geboren den 3ten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="483,2412 1378,2399 1604,2439 1846,2394 2121,2439 2121,2338 1942,2367 1725,2307 1582,2352 483,2367"/>
+                <Baseline points="495,2395 576,2395 658,2398 739,2397 821,2394 902,2395 984,2395 1065,2395 1147,2395 1228,2398 1310,2395 1392,2395 1473,2395 1555,2392 1636,2392 1718,2392 1799,2392 1881,2395 1962,2400 2044,2404 2126,2413"/>
+                <TextEquiv>
+                    <Unicode>November 1797 bei Minden im Königreich Preusen, gestor-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="477,2508 2108,2497 2074,2423 1698,2403 477,2441"/>
+                <Baseline points="489,2484 570,2486 651,2485 732,2484 814,2483 895,2481 976,2484 1057,2484 1139,2481 1220,2481 1301,2481 1382,2479 1464,2481 1545,2481 1626,2481 1707,2481 1789,2479 1870,2481 1951,2480 2032,2484 2114,2487"/>
+                <TextEquiv>
+                    <Unicode>ben den 18ten März 1883, beerdigt den 21t Märg 1883. Alter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="494,2596 1645,2575 1783,2629 1915,2566 2105,2602 2105,2524 1918,2484 1750,2526 1387,2495 1280,2540 1186,2484 1096,2524 689,2488 494,2522"/>
+                <Baseline points="507,2565 587,2567 667,2567 747,2568 827,2565 908,2562 988,2564 1068,2565 1148,2562 1228,2562 1309,2565 1389,2562 1469,2563 1549,2564 1629,2565 1710,2562 1790,2562 1870,2562 1950,2563 2030,2568 2111,2571"/>
+                <TextEquiv>
+                    <Unicode>85 Jahre, 4 Monate u. 14 Tage. Text: Psalm 119, 19. (Siehe Seite 3)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="461,2786 2182,2759 2182,2710 1980,2640 1752,2723 1425,2645 707,2714 562,2647 461,2663"/>
+                <Baseline points="474,2747 559,2744 645,2747 730,2749 816,2750 902,2747 987,2744 1073,2745 1158,2746 1244,2741 1330,2738 1415,2735 1501,2741 1586,2746 1672,2752 1758,2754 1843,2745 1929,2738 2014,2741 2100,2745 2186,2747"/>
+                <TextEquiv>
+                    <Unicode>Ludamilie Elise Marie, Töchterlein von Hermann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="468,2855 1014,2839 1161,2889 1351,2844 2144,2848 2144,2792 1848,2739 1727,2788 1564,2759 1237,2810 962,2757 468,2788"/>
+                <Baseline points="480,2837 563,2837 646,2835 730,2834 813,2834 896,2834 980,2834 1063,2834 1146,2840 1230,2840 1313,2837 1396,2834 1480,2834 1563,2834 1646,2834 1730,2834 1813,2835 1896,2834 1980,2838 2063,2843 2147,2846"/>
+                <TextEquiv>
+                    <Unicode>und Marie Reinking, gestorben den 9ten und beerdigt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="461,2958 785,2929 830,2967 976,2918 1318,2969 1452,2924 2137,2949 2137,2880 1944,2844 1251,2886 868,2835 461,2880"/>
+                <Baseline points="474,2927 557,2924 640,2921 724,2919 807,2918 890,2918 974,2915 1057,2918 1140,2921 1224,2926 1307,2924 1390,2921 1474,2917 1557,2912 1640,2912 1724,2918 1807,2919 1890,2920 1974,2928 2057,2932 2141,2930"/>
+                <TextEquiv>
+                    <Unicode>den 12t August 1883. Alter 9 Monate. (Test: Lŭv. 2, 49)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="456,3110 575,3141 626,3108 913,3110 951,3141 1054,3117 1112,3155 1215,3097 1385,3128 1385,3030 1320,3016 1217,3009 1155,3052 1063,3000 960,3032 745,3007 658,3041 456,3012"/>
+                <Baseline points="468,3097 514,3097 560,3097 606,3096 652,3094 698,3096 744,3095 791,3094 837,3094 883,3100 929,3105 975,3104 1021,3103 1067,3101 1114,3098 1160,3097 1206,3097 1252,3097 1298,3094 1344,3094 1391,3094"/>
+                <TextEquiv>
+                    <Unicode>August Haugk, geb: den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="432,3191 801,3229 852,3184 931,3240 1255,3182 2179,3213 2179,3146 2074,3094 1976,3135 1322,3094 1114,3153 998,3110 432,3153"/>
+                <Baseline points="445,3189 532,3183 619,3183 706,3180 793,3180 880,3180 967,3180 1054,3182 1141,3180 1228,3180 1315,3180 1402,3180 1489,3178 1576,3180 1663,3183 1750,3185 1837,3184 1924,3186 2011,3183 2098,3186 2186,3183"/>
+                <TextEquiv>
+                    <Unicode>im Königreich Sachsen, gestorben den 11ten und beerdigt den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="439,3273 1325,3267 1459,3311 1577,3273 1577,3193 1338,3235 1210,3195 1123,3240 1054,3188 933,3242 859,3188 767,3242 631,3191 439,3195"/>
+                <Baseline points="451,3267 507,3267 564,3264 620,3264 677,3264 733,3267 790,3263 846,3261 903,3258 959,3258 1016,3259 1073,3263 1129,3264 1186,3267 1242,3267 1299,3267 1355,3264 1412,3264 1468,3264 1525,3264 1582,3264"/>
+                <TextEquiv>
+                    <Unicode>13ten November 1883. Alter: 50 Jahre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="1638,3282 1665,3265 1716,3285 1797,3271 1868,3316 2090,3282 2090,3240 1989,3197 1897,3222 1857,3204 1777,3235 1712,3202 1638,3215"/>
+                <Baseline points="1651,3261 1677,3261 1703,3261 1729,3263 1755,3264 1781,3264 1808,3264 1834,3264 1860,3266 1886,3267 1912,3267 1938,3267 1965,3267 1991,3267 2017,3267 2043,3267 2069,3268 2096,3270"/>
+                <TextEquiv>
+                    <Unicode>Monate Lage.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="459,3401 544,3414 573,3388 662,3410 691,3392 718,3414 788,3417 823,3385 886,3405 884,3314 839,3320 799,3289 734,3307 631,3273 611,3289 555,3276 454,3294"/>
+                <Baseline points="468,3363 494,3361 520,3360 547,3360 573,3360 599,3360 626,3360 652,3360 679,3362 705,3364 731,3366 758,3366 784,3366 810,3366 837,3367 863,3368 890,3369"/>
+                <TextEquiv>
+                    <Unicode>Text: Pred. 7,2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

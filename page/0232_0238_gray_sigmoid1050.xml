@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.27.0:model_id=309593:date=08_06_2025_21:29</Creator>
+        <Created>2025-06-08T18:53:18.722+02:00</Created>
+        <LastChange>2025-06-08T21:29:51.686+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0232_0238_gray_sigmoid1050.jpg" imageWidth="2267" imageHeight="3620">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1750185961729" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="262,2997 262,3150 346,3150 346,2997"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="250,3146 271,3142 321,3102 342,3106 340,3014 319,3010 313,3014 283,3005 264,3022 248,3022"/>
+                <Baseline points="262,3097 290,3097 318,3098 346,3100"/>
+                <TextEquiv>
+                    <Unicode>D</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="400,378 400,3297 2099,3297 2099,378"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="439,445 699,437 766,489 1442,418 1929,483 2095,451 2097,359 1820,311 1656,380 1391,336 1255,367 1114,311 940,395 560,330 441,367"/>
+                <Baseline points="451,436 533,430 615,430 698,430 780,432 863,434 945,435 1027,433 1110,433 1192,430 1275,427 1357,424 1439,428 1522,427 1604,427 1687,424 1769,422 1851,421 1934,424 2016,424 2099,421"/>
+                <TextEquiv>
+                    <Unicode>Maria Agnes Schönstedt eine geb. Tekampe-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="441,579 1148,529 1708,575 1975,531 1977,493 1666,428 1540,466 1444,420 1322,479 1228,430 881,493 609,487 565,447 443,481"/>
+                <Baseline points="453,537 529,532 605,528 682,528 758,528 834,528 911,528 987,528 1063,525 1140,527 1216,525 1292,521 1369,519 1445,519 1521,524 1598,523 1674,521 1750,516 1827,516 1903,517 1980,519"/>
+                <TextEquiv>
+                    <Unicode>geb. den 28. Dez. 1828 zu Bochhold, Westfalen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="460,657 711,628 823,670 898,630 1211,621 1322,686 1465,636 1465,554 1391,535 1219,588 900,535 693,600 590,558 460,586"/>
+                <Baseline points="471,621 520,623 570,624 620,624 670,624 720,624 770,623 820,623 870,622 920,619 970,615 1019,618 1069,621 1119,615 1169,615 1219,615 1269,615 1319,615 1369,615 1419,615 1469,618"/>
+                <TextEquiv>
+                    <Unicode>starb den 17. Juli 1896 an der Gicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="529,747 642,770 777,720 1012,774 1303,728 1572,783 1664,728 1960,726 1960,644 1832,617 1276,690 1129,634 823,670 531,638"/>
+                <Baseline points="543,707 614,712 685,710 756,710 827,710 898,710 969,707 1040,709 1111,706 1182,705 1254,707 1325,701 1396,704 1467,704 1538,704 1609,701 1680,698 1751,694 1822,692 1893,692 1965,701"/>
+                <TextEquiv>
+                    <Unicode>begraben den 19 Juli, reichentest Ebr. 4,911.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="460,911 1664,896 1666,772 1463,823 1345,787 1236,840 1026,798 944,858 827,808 724,846 462,831"/>
+                <Baseline points="471,896 530,893 590,893 650,892 710,890 770,890 830,889 890,887 950,884 1010,881 1070,879 1129,878 1189,878 1249,878 1309,875 1369,875 1429,875 1489,875 1549,875 1609,875 1669,881"/>
+                <TextEquiv>
+                    <Unicode>Amalia Maria Karolina Schamerloh</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="422,1035 651,974 1801,995 1803,892 930,930 821,896 772,942 541,900 424,936"/>
+                <Baseline points="436,979 504,979 573,978 641,973 710,973 778,970 847,967 915,967 984,967 1052,964 1121,959 1190,958 1258,956 1327,949 1395,949 1464,949 1532,946 1601,946 1669,949 1738,950 1807,958"/>
+                <TextEquiv>
+                    <Unicode>geb. den 15. Sept 1896 gest den 20. Sept. 1896.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="451,1085 1606,1081 1666,1072 1669,1003 1106,1012 949,976 758,1018 512,995 453,1035"/>
+                <Baseline points="462,1066 522,1063 583,1063 643,1057 704,1057 764,1055 825,1054 885,1053 946,1051 1006,1054 1067,1054 1127,1054 1188,1051 1248,1048 1309,1050 1369,1052 1430,1054 1490,1054 1551,1050 1611,1050 1672,1054"/>
+                <TextEquiv>
+                    <Unicode>begr. den 22. Sept. 1896. Hiöl. 1.21.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="401,1347 877,1324 921,1364 1140,1318 1224,1354 1354,1314 1402,1354 1517,1316 1519,1255 1100,1284 940,1221 856,1266 783,1219 531,1263 405,1219"/>
+                <Baseline points="415,1332 470,1330 525,1329 581,1326 636,1323 692,1322 747,1318 802,1317 858,1317 913,1314 969,1312 1024,1311 1079,1311 1135,1312 1190,1314 1246,1312 1301,1308 1356,1307 1412,1305 1467,1303 1523,1302"/>
+                <TextEquiv>
+                    <Unicode>Elisabeth Wambsgauss, eine geborene Heß.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="413,1463 942,1412 1297,1450 1429,1406 1482,1450 1637,1433 1639,1333 1519,1297 1400,1358 1173,1329 1054,1389 968,1356 416,1375"/>
+                <Baseline points="427,1427 487,1423 548,1419 609,1418 670,1414 730,1412 791,1412 852,1412 913,1410 973,1412 1034,1408 1095,1404 1156,1403 1216,1402 1277,1400 1338,1399 1399,1397 1459,1394 1520,1391 1581,1391 1642,1394"/>
+                <TextEquiv>
+                    <Unicode>geb. den 1. Aug. 1825 zu Rußdorf in der Pfalz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="388,1551 472,1507 1127,1503 1188,1534 1301,1503 1377,1534 1448,1511 1450,1440 1337,1459 1186,1419 1070,1461 819,1419 388,1465"/>
+                <Baseline points="400,1514 452,1509 505,1503 558,1502 610,1499 663,1495 716,1493 768,1493 821,1493 874,1490 927,1490 979,1490 1032,1490 1085,1490 1137,1490 1190,1490 1243,1491 1295,1493 1348,1491 1401,1490 1454,1490"/>
+                <TextEquiv>
+                    <Unicode>gest. den 20. Okt. 1896 an Alterschwäche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="401,1637 701,1593 1005,1614 1068,1576 1177,1635 1287,1595 1471,1656 1725,1578 1876,1618 1876,1507 1820,1499 1396,1543 470,1507 403,1549"/>
+                <Baseline points="415,1594 488,1594 561,1590 634,1585 708,1582 781,1579 854,1577 928,1577 1001,1577 1074,1575 1148,1572 1221,1577 1294,1580 1367,1582 1441,1580 1514,1577 1587,1574 1661,1572 1734,1571 1807,1576 1881,1585"/>
+                <TextEquiv>
+                    <Unicode>begr. den 23. Okt. 1896. Leihentext Off. 7,13-17.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="422,1880 913,1874 915,1776 808,1803 735,1767 678,1805 594,1767 548,1784 518,1761 464,1767 424,1748"/>
+                <Baseline points="433,1857 458,1859 484,1859 509,1857 535,1856 560,1854 586,1856 612,1857 637,1857 663,1856 688,1854 714,1854 739,1854 765,1854 791,1854 816,1854 842,1853 867,1852 893,1850 919,1848"/>
+                <TextEquiv>
+                    <Unicode>Wilhelm Panne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="401,2000 995,1939 1284,1988 1463,1941 1677,1990 1836,1973 1839,1876 1532,1878 1480,1918 963,1859 745,1908 600,1870 403,1901"/>
+                <Baseline points="412,1953 483,1953 555,1950 626,1947 698,1947 769,1947 841,1943 912,1941 984,1938 1055,1944 1127,1944 1198,1945 1270,1944 1341,1946 1413,1943 1484,1938 1556,1938 1627,1938 1699,1940 1770,1938 1842,1935"/>
+                <TextEquiv>
+                    <Unicode>gestorben den 22. Okt. 1896. in Folge von Nervenfüber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="401,2071 462,2101 533,2044 848,2038 1123,2097 1303,2034 1610,2032 1612,1958 1287,1990 1232,1952 1112,1996 684,1954 401,2000"/>
+                <Baseline points="412,2031 472,2036 532,2036 592,2034 652,2034 712,2034 772,2036 833,2035 893,2036 953,2036 1013,2036 1073,2039 1133,2038 1193,2036 1254,2031 1314,2035 1374,2032 1434,2025 1494,2022 1554,2022 1615,2022"/>
+                <TextEquiv>
+                    <Unicode>bez. 25. Okt. 1896 Leichentagt. Pf. 73, 23-26.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="401,2336 982,2353 1087,2292 1200,2332 1354,2288 1484,2334 1889,2298 2015,2334 2082,2325 2084,2210 1818,2227 1723,2183 1519,2231 1431,2187 1232,2262 1131,2212 911,2258 791,2210 403,2218"/>
+                <Baseline points="412,2305 495,2302 579,2302 663,2302 747,2300 831,2296 915,2295 999,2298 1083,2299 1167,2296 1251,2293 1334,2293 1418,2293 1502,2293 1586,2290 1670,2290 1754,2283 1838,2278 1922,2274 2006,2266 2090,2263"/>
+                <TextEquiv>
+                    <Unicode>Christian Bischoff art. den 4. Sept 1824. (get. 12. Sept. 1827)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="416,2428 842,2390 953,2435 1303,2382 1391,2435 1559,2378 1517,2321 1282,2298 1211,2336 1075,2302 965,2357 774,2309 418,2351"/>
+                <Baseline points="427,2398 483,2395 540,2392 597,2392 654,2392 710,2389 767,2389 824,2389 881,2391 937,2389 994,2386 1051,2386 1108,2386 1164,2383 1221,2382 1278,2382 1335,2383 1391,2383 1448,2382 1505,2378 1562,2377"/>
+                <TextEquiv>
+                    <Unicode>gestorb. den 22. Dez. 1896 an Lungenfieber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="430,2544 871,2483 963,2518 1169,2479 1297,2537 1507,2548 1654,2495 1862,2523 1864,2401 1561,2376 1415,2432 1295,2384 1177,2439 783,2395 430,2441"/>
+                <Baseline points="442,2476 513,2481 584,2480 655,2479 726,2479 798,2479 869,2477 940,2476 1011,2476 1082,2473 1154,2473 1225,2471 1296,2473 1367,2473 1438,2473 1510,2470 1581,2468 1652,2460 1723,2458 1794,2457 1866,2458"/>
+                <TextEquiv>
+                    <Unicode>begraben das 24. Dez 1896. Leichantext. ffr. 2. Pxbr. 3,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="449,2756 1135,2737 1280,2783 1356,2726 1698,2741 1698,2640 1561,2615 1360,2693 1138,2647 1005,2682 940,2638 846,2686 768,2640 682,2701 451,2665"/>
+                <Baseline points="462,2735 524,2733 586,2729 648,2730 710,2732 772,2730 834,2732 896,2732 958,2735 1020,2735 1082,2735 1144,2730 1206,2726 1268,2725 1330,2721 1392,2720 1454,2720 1516,2720 1578,2717 1640,2717 1702,2720"/>
+                <TextEquiv>
+                    <Unicode>Edna Remking, (Taufregister Nr. 324.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="1773,2819 1794,2821 1803,2812 1853,2827 1870,2814 1891,2819 1906,2810 1950,2838 1971,2838 1969,2760 1922,2758 1866,2722 1855,2733 1803,2718 1771,2730"/>
+                <Baseline points="1786,2810 1813,2810 1840,2809 1867,2808 1895,2808 1922,2810 1949,2810 1977,2810"/>
+                <TextEquiv>
+                    <Unicode>Liev. 2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="474,2896 649,2827 1144,2871 1226,2823 1444,2886 1572,2814 1748,2838 1738,2743 1555,2789 1475,2747 1217,2783 835,2737 690,2796 628,2754 476,2798"/>
+                <Baseline points="489,2834 552,2827 615,2825 678,2822 741,2822 805,2825 868,2825 931,2825 994,2825 1057,2819 1121,2816 1184,2816 1247,2816 1310,2816 1373,2816 1437,2819 1500,2816 1563,2816 1626,2814 1689,2818 1753,2810"/>
+                <TextEquiv>
+                    <Unicode>gest den 11. Jan 1897. begr. den 13. Jan. 1897.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="856,3024 936,3031 1066,3003 1106,3033 1198,3001 1242,3016 1289,3005 1295,2930 1261,2919 1098,2947 955,2947 926,2963 863,2949"/>
+                <Baseline points="869,2998 894,3001 919,2999 944,2998 970,2998 995,2997 1020,2996 1046,2993 1071,2990 1096,2985 1121,2980 1147,2976 1172,2973 1197,2970 1223,2967 1248,2965 1273,2965 1299,2965"/>
+                <TextEquiv>
+                    <Unicode>bij hebben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="422,3096 638,3127 749,3087 1671,3091 1671,3037 1582,2987 1480,3031 1379,2987 1007,3045 848,3001 772,3056 535,2961 422,3008"/>
+                <Baseline points="433,3091 495,3088 557,3088 619,3088 681,3086 743,3085 805,3087 867,3088 929,3090 991,3088 1054,3085 1116,3080 1178,3079 1240,3078 1302,3078 1364,3079 1426,3081 1488,3077 1550,3075 1612,3075 1675,3079"/>
+                <TextEquiv>
+                    <Unicode>Christine Bienz, eine geb: Reinking.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="464,3232 537,3182 661,3222 886,3175 1933,3205 1901,3089 1337,3133 965,3089 764,3142 466,3119"/>
+                <Baseline points="477,3177 550,3177 623,3175 696,3174 769,3174 842,3174 915,3175 988,3175 1061,3174 1134,3171 1207,3168 1280,3169 1353,3171 1426,3171 1499,3171 1572,3169 1645,3166 1718,3160 1791,3156 1864,3155 1938,3160"/>
+                <TextEquiv>
+                    <Unicode>gest. den 26. Jan. 1897 an Knochen fräss.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="1505,3264 1561,3274 1580,3259 1610,3261 1648,3270 1673,3297 1723,3299 1750,3280 1794,3293 1801,3190 1666,3219 1624,3175 1509,3180"/>
+                <Baseline points="1517,3255 1542,3258 1568,3258 1594,3257 1620,3255 1646,3253 1671,3252 1697,3252 1723,3251 1749,3249 1775,3244 1801,3237"/>
+                <TextEquiv>
+                    <Unicode>Thess 4,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="439,3293 525,3333 581,3282 728,3268 825,3318 997,3261 1469,3266 1469,3207 1408,3182 1190,3205 1135,3169 984,3245 806,3194 611,3222 535,3182 439,3238"/>
+                <Baseline points="451,3276 502,3267 553,3266 604,3264 655,3262 707,3261 758,3258 809,3261 860,3261 911,3261 963,3261 1014,3261 1065,3258 1116,3258 1167,3255 1219,3255 1270,3255 1321,3255 1372,3255 1423,3258 1475,3258"/>
+                <TextEquiv>
+                    <Unicode>begr. den 31. Jan. "Leichentext."</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

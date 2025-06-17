@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.27.0:model_id=309593:date=08_06_2025_21:29</Creator>
+        <Created>2025-06-08T18:52:53.918+02:00</Created>
+        <LastChange>2025-06-08T21:29:23.220+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0031_0034_gray_sigmoid1050.jpg" imageWidth="2164" imageHeight="3583">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1750185953378" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="71,10 71,166 149,166 149,10"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="59,120 90,124 104,135 113,129 138,151 149,149 138,2 122,9 104,2 95,9 83,0 70,16 52,14"/>
+                <Baseline points="71,110 97,112 123,114 149,116"/>
+                <TextEquiv>
+                    <Unicode>48,</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="259,221 259,1348 2154,1348 2154,221"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2014,298 2039,298 2077,284 2090,293 2106,286 2115,293 2124,289 2149,295 2154,185 2135,183 2108,205 2086,205 2079,198 2063,203 2050,192 2016,201"/>
+                <Baseline points="2027,274 2052,270 2077,268 2103,268 2128,268 2154,267"/>
+                <TextEquiv>
+                    <Unicode>No 15</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="618,338 688,325 789,359 929,329 1227,354 1276,331 1326,352 1326,212 1046,201 848,262 758,207 656,277 618,273"/>
+                <Baseline points="630,307 665,307 700,307 735,307 770,307 805,307 840,309 875,310 910,309 945,307 980,307 1015,307 1050,306 1085,305 1120,307 1155,307 1190,307 1225,307 1260,307 1295,307 1331,307"/>
+                <TextEquiv>
+                    <Unicode>Abraham Steudler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="246,507 649,446 893,489 1006,446 2048,456 2048,368 974,392 893,347 753,422 582,372 246,415"/>
+                <Baseline points="259,438 348,438 438,438 528,438 618,438 707,441 797,438 887,441 977,444 1066,441 1156,441 1246,441 1336,444 1425,441 1515,444 1605,441 1695,441 1784,441 1874,438 1964,435 2054,432"/>
+                <TextEquiv>
+                    <Unicode>ehelicher Sohn von Jakob Steudler und Maria Elisabeth</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="266,580 365,539 1831,564 1935,541 1935,467 1574,503 1448,449 1328,521 1103,471 839,512 724,458 264,507"/>
+                <Baseline points="277,534 360,531 443,531 526,531 609,529 692,532 775,534 859,534 942,537 1025,537 1108,537 1191,535 1274,537 1357,537 1441,534 1524,534 1607,534 1690,534 1773,534 1856,533 1940,534"/>
+                <TextEquiv>
+                    <Unicode>geborene Alexander geboren in Klingen Kanton</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="273,647 749,629 841,686 1069,631 1121,674 1973,634 1973,571 1610,537 1547,584 1245,591 1130,543 909,602 769,541 672,609 543,564 435,593 365,539 273,584"/>
+                <Baseline points="286,621 370,615 455,618 539,620 624,624 709,624 793,621 878,622 963,624 1047,627 1132,624 1217,624 1301,627 1386,625 1471,626 1555,624 1640,624 1725,624 1809,624 1894,624 1979,621"/>
+                <TextEquiv>
+                    <Unicode>Bergzabern, Königreich Bayern den 22 November und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="282,760 1312,719 1847,767 2072,728 2072,663 1008,692 733,634 607,692 474,643 282,681"/>
+                <Baseline points="295,716 384,713 473,714 562,716 651,713 740,713 829,713 919,716 1008,713 1097,716 1186,713 1275,716 1364,713 1453,716 1543,716 1632,716 1721,716 1810,713 1899,713 1988,713 2078,713"/>
+                <TextEquiv>
+                    <Unicode>getauft im selben Monat 1831, confirmirt im März 1845.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="277,852 537,803 1741,843 2068,816 2068,749 277,755"/>
+                <Baseline points="289,797 378,794 467,800 556,800 645,800 734,797 823,797 913,803 1002,803 1091,803 1180,800 1269,800 1358,800 1447,800 1537,800 1626,800 1715,797 1804,797 1893,797 1982,797 2072,797"/>
+                <TextEquiv>
+                    <Unicode>Er wanderte nun in dieses Land im März 1860, arbeitete</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="277,895 916,938 1026,891 1243,952 1288,911 2045,907 2045,848 1168,814 976,873 767,805 277,870"/>
+                <Baseline points="289,889 381,886 474,886 566,886 659,886 751,886 844,887 937,889 1029,890 1122,889 1214,888 1307,889 1399,889 1492,886 1585,886 1677,886 1770,889 1862,886 1955,884 2048,892"/>
+                <TextEquiv>
+                    <Unicode>anfangs in Ohio, zog alsdann hierher woselbst er sich als¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="295,981 589,1040 760,974 1001,1031 1378,983 1574,1033 1666,983 1944,981 1944,929 1288,911 1227,958 1105,909 843,956 658,886 295,936"/>
+                <Baseline points="307,973 389,967 471,970 553,970 635,969 717,970 799,971 881,973 963,973 1045,973 1128,973 1210,973 1292,974 1374,976 1456,973 1538,973 1620,973 1702,973 1784,972 1866,970 1949,970"/>
+                <TextEquiv>
+                    <Unicode>bald der Gemeinen anschloß, und verheirathete sich mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="313,1114 381,1067 1028,1118 2048,1067 2048,1015 1869,976 1220,1044 886,983 762,1040 699,990 593,1042 313,1001"/>
+                <Baseline points="325,1059 411,1056 497,1056 583,1059 670,1059 756,1059 842,1061 929,1062 1015,1065 1101,1067 1188,1065 1274,1065 1360,1062 1446,1062 1533,1062 1619,1059 1705,1059 1792,1058 1878,1059 1964,1059 2051,1062"/>
+                <TextEquiv>
+                    <Unicode>Jungfrau Maria Belz eine Tochter von Peter Belz und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="307,1155 631,1193 751,1152 2052,1159 2052,1089 1666,1073 1592,1128 866,1067 307,1116"/>
+                <Baseline points="319,1149 405,1146 492,1143 579,1146 666,1148 753,1146 840,1144 927,1146 1014,1143 1101,1146 1188,1149 1274,1149 1361,1149 1448,1149 1535,1149 1622,1149 1709,1146 1796,1146 1883,1146 1970,1149 2057,1149"/>
+                <TextEquiv>
+                    <Unicode>Elisabeth geb. Bibelheimer, geboren in West-Penn to.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="307,1249 1348,1238 1443,1285 1951,1238 2120,1297 2120,1175 2052,1159 1678,1211 307,1168"/>
+                <Baseline points="319,1236 409,1231 499,1232 589,1233 679,1233 769,1233 859,1233 950,1234 1040,1233 1130,1233 1220,1233 1310,1233 1400,1233 1490,1233 1581,1236 1671,1236 1761,1236 1851,1233 1941,1233 2031,1230 2122,1233"/>
+                <TextEquiv>
+                    <Unicode>Staylkill Co. Pa. den 2 Juli 1838 confirmirt den 4 April</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="322,1330 1283,1346 1283,1256 976,1276 891,1238 746,1281 618,1249 523,1283 404,1245 322,1292"/>
+                <Baseline points="334,1313 381,1313 429,1313 477,1316 525,1317 572,1318 620,1317 668,1319 716,1319 763,1317 811,1316 859,1316 907,1318 954,1319 1002,1319 1050,1319 1098,1319 1145,1319 1193,1322 1241,1323 1289,1328"/>
+                <TextEquiv>
+                    <Unicode>1852 x den 30 December 1862,</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

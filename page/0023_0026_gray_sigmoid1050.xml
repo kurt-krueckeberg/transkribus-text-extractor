@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.27.0:model_id=309593:date=08_06_2025_21:29</Creator>
+        <Created>2025-06-08T18:52:52.915+02:00</Created>
+        <LastChange>2025-06-08T21:29:22.198+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0023_0026_gray_sigmoid1050.jpg" imageWidth="2153" imageHeight="3542">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1750185953270" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+                <RegionRefIndexed index="2" regionRef="tr_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="80,171 80,321 167,321 167,171"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="68,288 82,286 86,291 93,288 104,295 127,282 141,284 150,293 161,293 161,216 148,218 139,209 129,218 102,218 84,234 68,232"/>
+                <Baseline points="80,271 109,271 138,271 167,271"/>
+                <TextEquiv>
+                    <Unicode>N°9</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="65,1559 65,1775 289,1775 289,1559"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="59,1581 75,1579 107,1594 127,1588 141,1599 170,1585 189,1585 218,1601 257,1592 254,1522 227,1524 209,1547 193,1547 173,1533 161,1538 141,1524 109,1544 59,1556"/>
+                <Baseline points="71,1579 98,1581 125,1581 152,1580 180,1580 207,1582 234,1586 262,1591"/>
+                <TextEquiv>
+                    <Unicode>Eodem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="61,1635 79,1635 95,1647 120,1642 157,1656 177,1635 195,1642 232,1633 232,1599 218,1601 186,1585 157,1588 139,1599 127,1588 102,1597 93,1588 61,1583"/>
+                <Baseline points="74,1618 101,1620 128,1621 156,1621 183,1621 210,1621 238,1621"/>
+                <TextEquiv>
+                    <Unicode>Christen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="52,1685 95,1681 116,1692 148,1692 150,1633 139,1633 125,1647 120,1642 100,1647 77,1631 55,1633"/>
+                <Baseline points="65,1678 95,1676 125,1675 155,1675"/>
+                <TextEquiv>
+                    <Unicode>the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="52,1722 68,1719 104,1742 136,1719 186,1740 229,1710 261,1717 282,1710 286,1622 268,1617 218,1647 198,1647 127,1692 95,1681 55,1683"/>
+                <Baseline points="65,1714 93,1714 121,1713 149,1711 177,1710 205,1708 233,1706 261,1705 289,1705"/>
+                <TextEquiv>
+                    <Unicode>Taucunistin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="116,1787 139,1790 148,1797 161,1785 177,1792 218,1778 227,1787 243,1790 245,1715 229,1710 193,1735 184,1728 177,1733 168,1728 157,1735 132,1719 118,1722"/>
+                <Baseline points="128,1765 158,1762 189,1762 219,1761 250,1759"/>
+                <TextEquiv>
+                    <Unicode>14.17</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_3" custom="readingOrder {index:2;}">
+            <Coords points="274,266 274,2672 2099,2672 2099,266"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="550,332 1544,338 1622,377 1708,348 1694,229 1554,252 1422,207 1297,257 1038,218 888,257 550,200"/>
+                <Baseline points="561,310 618,313 676,311 733,313 791,310 849,313 906,313 964,316 1022,315 1079,315 1137,313 1195,316 1252,316 1310,316 1368,313 1425,312 1483,310 1541,310 1598,313 1656,313 1714,313"/>
+                <TextEquiv>
+                    <Unicode>Carl Dietrich Wilhelm Schamerlop.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="261,493 2078,475 2060,363 979,411 261,345"/>
+                <Baseline points="274,442 364,447 455,444 545,444 636,444 726,444 817,447 907,447 998,450 1088,450 1179,450 1269,450 1360,450 1450,449 1541,448 1631,447 1722,447 1812,447 1903,445 1993,446 2084,442"/>
+                <TextEquiv>
+                    <Unicode>ehelicher Sohn des Colon Heinrich Christian Schamerloh und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="268,559 1120,554 1204,609 1426,554 1785,595 2090,552 2090,497 1862,468 1676,513 268,495"/>
+                <Baseline points="280,537 370,540 461,540 552,539 643,540 734,542 824,540 915,543 1006,543 1097,546 1188,543 1278,543 1369,543 1460,546 1551,543 1642,543 1732,540 1823,540 1914,537 2005,543 2096,540"/>
+                <TextEquiv>
+                    <Unicode>dessen Ehefrau Catharina Margaretha geborene Poos, geboren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="261,686 407,640 2080,672 2078,604 2001,570 1201,609 1115,559 995,600 393,559 259,616"/>
+                <Baseline points="274,630 364,633 455,630 545,630 636,630 727,630 817,630 908,633 999,633 1089,633 1180,635 1271,636 1361,636 1452,636 1543,636 1633,635 1724,633 1815,632 1905,629 1996,633 2087,636"/>
+                <TextEquiv>
+                    <Unicode>zu Buchholz Fürstenthum Schaumburg-Lippe den 31sten Decem¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="282,738 1015,736 1117,777 1456,736 1694,779 2012,740 2012,686 1749,665 282,677"/>
+                <Baseline points="295,716 381,719 467,722 553,724 639,724 725,725 811,725 898,725 984,725 1070,726 1156,725 1242,725 1328,728 1414,728 1501,728 1587,728 1673,728 1759,726 1845,722 1931,723 2018,725"/>
+                <TextEquiv>
+                    <Unicode>ber 1823 und getauft den 11 Januar 1824, confirmirt am</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="286,815 1124,856 1501,820 1599,868 2071,824 2008,740 1890,784 284,750"/>
+                <Baseline points="298,794 387,803 476,803 565,806 654,806 743,806 832,809 921,812 1010,809 1099,809 1188,814 1277,815 1366,815 1455,815 1544,815 1633,815 1722,813 1811,812 1900,812 1989,810 2078,818"/>
+                <TextEquiv>
+                    <Unicode>Sonntage Palmarium 1838. Er wandere aus nach den Verei¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="273,913 2042,922 2010,822 1719,874 1501,822 1113,868 997,824 874,884 561,820 273,847"/>
+                <Baseline points="286,895 378,895 471,892 563,898 656,898 748,898 841,898 934,898 1026,900 1119,901 1211,901 1304,903 1396,903 1489,904 1582,904 1674,895 1767,901 1859,901 1952,900 2045,898"/>
+                <TextEquiv>
+                    <Unicode>nigten Staaten von Nord-Amerika den 6ten Mai 1851.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="270,999 2051,1004 2030,947 1738,911 1635,958 1560,918 270,943"/>
+                <Baseline points="283,982 371,979 460,982 548,985 637,985 725,985 814,985 902,984 991,985 1079,987 1168,988 1257,988 1345,990 1434,990 1522,991 1611,988 1699,989 1788,989 1876,991 1965,992 2054,982"/>
+                <TextEquiv>
+                    <Unicode>und kam am 4ten Juli desselben Jahres in Fort-Wayne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="277,1079 709,1127 2069,1120 2069,1043 1876,1006 1717,1049 1592,999 493,1045 277,1002"/>
+                <Baseline points="289,1060 378,1069 467,1072 556,1075 645,1075 734,1075 823,1075 913,1075 1002,1078 1091,1081 1180,1078 1269,1078 1358,1081 1447,1081 1537,1078 1626,1081 1715,1081 1804,1082 1893,1081 1982,1081 2072,1075"/>
+                <TextEquiv>
+                    <Unicode>Ind an. Verheirathete sich in hiesiger Gemeinde den 30</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="282,1172 2090,1181 2090,1122 1772,1090 1354,1136 282,1081"/>
+                <Baseline points="295,1158 385,1158 475,1161 565,1161 655,1161 745,1161 835,1164 925,1164 1015,1164 1105,1167 1195,1164 1285,1167 1375,1167 1465,1164 1555,1167 1645,1167 1735,1167 1825,1167 1915,1167 2005,1167 2096,1158"/>
+                <TextEquiv>
+                    <Unicode>April 1857 mit Jungfrau Caroline Philippine Krückeberg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="277,1315 495,1254 2069,1288 2069,1195 277,1215"/>
+                <Baseline points="289,1248 378,1248 467,1248 556,1248 645,1248 734,1248 823,1251 913,1251 1002,1254 1091,1254 1180,1254 1269,1257 1358,1257 1447,1257 1537,1257 1626,1257 1715,1257 1804,1257 1893,1257 1982,1258 2072,1260"/>
+                <TextEquiv>
+                    <Unicode>eheliches 2tes Kind und 1ste Tochter von Carl Fridrich Krucke-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="286,1374 2085,1356 2085,1299 2012,1279 286,1295"/>
+                <Baseline points="298,1328 387,1328 477,1334 566,1334 656,1334 746,1334 835,1337 925,1337 1014,1337 1104,1337 1194,1340 1283,1340 1373,1340 1462,1340 1552,1343 1642,1340 1731,1340 1821,1340 1910,1340 2000,1343 2090,1346"/>
+                <TextEquiv>
+                    <Unicode>berg und sr. Ehefrau: Louise Dorathec geb: Weiland, geb.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="273,1435 1604,1476 2058,1440 2055,1383 1749,1356 1510,1397 904,1345 706,1399 529,1338 270,1381"/>
+                <Baseline points="286,1424 374,1421 463,1421 552,1424 641,1424 730,1424 819,1424 907,1424 996,1427 1085,1427 1174,1427 1263,1427 1352,1427 1441,1430 1529,1430 1618,1432 1707,1432 1796,1435 1885,1433 1974,1433 2063,1430"/>
+                <TextEquiv>
+                    <Unicode>in Beerenbusch Fürstenthum Schaumburg-Lippe den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="286,1538 1333,1522 1510,1585 2078,1524 2078,1463 1903,1449 286,1440"/>
+                <Baseline points="298,1514 387,1505 476,1505 565,1508 654,1508 743,1511 832,1511 922,1511 1011,1511 1100,1514 1189,1514 1278,1514 1367,1517 1456,1517 1546,1517 1635,1517 1724,1519 1813,1520 1902,1523 1991,1523 2081,1520"/>
+                <TextEquiv>
+                    <Unicode>15ten October und getauft den 22t October 1837, confirmirt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="279,1642 636,1601 890,1647 993,1610 1351,1653 1699,1624 1660,1544 1497,1583 1335,1524 1122,1572 940,1522 625,1574 550,1531 279,1540"/>
+                <Baseline points="292,1597 362,1595 433,1597 503,1597 574,1597 645,1600 715,1600 786,1597 857,1599 927,1601 998,1603 1069,1607 1139,1606 1210,1606 1281,1606 1351,1603 1422,1606 1493,1606 1563,1606 1634,1606 1705,1603"/>
+                <TextEquiv>
+                    <Unicode>um Ostern 1851. Kinder dieser Ehe sind:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="411,1699 1358,1699 1474,1738 2071,1706 2071,1613 1217,1672 977,1613 411,1631"/>
+                <Baseline points="424,1681 506,1684 589,1686 672,1685 754,1687 837,1687 920,1687 1002,1690 1085,1691 1168,1692 1251,1691 1333,1691 1416,1693 1499,1696 1581,1693 1664,1696 1747,1699 1829,1699 1912,1697 1995,1696 2078,1699"/>
+                <TextEquiv>
+                    <Unicode>Lovisse Sophie Caroline geboren den 10 April und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="393,1837 713,1781 1385,1835 1812,1790 2094,1849 2094,1683 1840,1747 1715,1703 393,1731"/>
+                <Baseline points="406,1773 490,1773 575,1773 659,1775 744,1774 829,1777 913,1776 998,1777 1083,1776 1167,1776 1252,1779 1337,1779 1421,1779 1506,1782 1591,1783 1675,1785 1760,1785 1845,1785 1929,1785 2014,1785 2099,1788"/>
+                <TextEquiv>
+                    <Unicode>getauft den 15t April 1860. Pathen: Caroline Scha¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="388,1887 824,1878 1079,1924 1181,1876 1367,1924 1435,1903 1433,1837 1247,1819 1190,1856 1106,1785 1027,1824 813,1785 386,1847"/>
+                <Baseline points="400,1869 452,1869 504,1870 556,1872 608,1870 660,1871 712,1872 764,1872 816,1872 868,1872 921,1874 973,1875 1025,1872 1077,1872 1129,1873 1181,1875 1233,1875 1285,1875 1337,1872 1389,1875 1442,1878"/>
+                <TextEquiv>
+                    <Unicode>merloh u Caroline Krückeberg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="416,1999 999,1971 1106,2024 1215,1978 1615,2012 2040,1976 2024,1921 1631,1887 1526,1946 1431,1894 1351,1935 1222,1892 1117,1935 829,1883 684,1933 416,1903"/>
+                <Baseline points="427,1956 507,1961 588,1962 669,1962 750,1962 831,1965 912,1965 993,1966 1074,1965 1155,1965 1236,1965 1316,1965 1397,1968 1478,1968 1559,1971 1640,1971 1721,1971 1802,1973 1883,1974 1964,1974 2045,1974"/>
+                <TextEquiv>
+                    <Unicode>Caroline Wilhelmine geboren den 12 Januar und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="384,2065 1231,2060 1449,2103 2012,2069 2012,2019 1685,1978 1590,2026 1424,1978 997,2026 936,1978 384,1985"/>
+                <Baseline points="397,2042 478,2047 559,2048 640,2048 721,2050 802,2051 883,2048 964,2051 1045,2051 1126,2054 1207,2054 1288,2054 1369,2054 1450,2057 1531,2058 1612,2057 1693,2057 1774,2059 1855,2062 1936,2062 2018,2060"/>
+                <TextEquiv>
+                    <Unicode>getauft den 20. Januar 1862. Pathen: Wilhelmine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="400,2155 1410,2171 1410,2085 1242,2062 1136,2115 931,2058 663,2099 459,2055 400,2083"/>
+                <Baseline points="412,2132 462,2132 512,2135 562,2135 612,2136 662,2138 712,2138 763,2138 813,2138 863,2141 913,2141 963,2142 1013,2143 1063,2141 1114,2141 1164,2141 1214,2141 1264,2141 1314,2141 1364,2144 1415,2147"/>
+                <TextEquiv>
+                    <Unicode>Weiland und Caroline Grote.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="309,2230 956,2278 1152,2230 2085,2253 2049,2151 1776,2212 1592,2149 1404,2187 1288,2146 1136,2203 904,2153 309,2167"/>
+                <Baseline points="322,2218 410,2221 498,2221 587,2221 675,2224 764,2224 852,2224 940,2230 1029,2230 1117,2227 1206,2230 1294,2230 1382,2230 1471,2232 1559,2233 1648,2233 1736,2236 1824,2236 1913,2234 2001,2236 2090,2236"/>
+                <TextEquiv>
+                    <Unicode>3. Heinrich Wilhelm geboren den 19 März und getauft den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="391,2335 559,2353 636,2305 859,2371 1065,2314 1669,2367 1753,2323 2035,2337 2008,2242 1881,2283 1479,2242 1288,2280 1154,2233 1052,2294 818,2242 391,2276"/>
+                <Baseline points="403,2311 484,2308 566,2308 648,2305 730,2308 812,2308 893,2311 975,2313 1057,2313 1139,2314 1221,2314 1302,2314 1384,2317 1466,2314 1548,2314 1630,2314 1711,2317 1793,2320 1875,2320 1957,2320 2039,2320"/>
+                <TextEquiv>
+                    <Unicode>26 März 1865, Pathen: Heinrich Kräckeberg und Wil-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="400,2417 441,2401 504,2419 572,2403 602,2421 704,2403 809,2437 886,2421 886,2310 811,2360 702,2339 634,2303 559,2353 468,2321 427,2344 400,2330"/>
+                <Baseline points="412,2398 437,2396 462,2395 487,2395 513,2395 538,2395 563,2396 588,2398 614,2398 639,2398 664,2398 689,2398 715,2398 740,2398 765,2398 790,2399 816,2401 841,2403 866,2404 892,2404"/>
+                <TextEquiv>
+                    <Unicode>helm Weiland.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="411,2512 2085,2501 2051,2408 1862,2448 1547,2410 1063,2410 999,2460 706,2405 411,2433"/>
+                <Baseline points="424,2484 507,2481 590,2483 673,2484 757,2484 840,2484 923,2487 1007,2487 1090,2487 1173,2489 1257,2490 1340,2490 1423,2490 1506,2490 1590,2496 1673,2499 1756,2497 1840,2498 1923,2499 2006,2498 2090,2493"/>
+                <TextEquiv>
+                    <Unicode>Sophie Wilhelmine geboren den 20 October und getauft den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="391,2571 956,2616 1349,2578 1531,2626 1867,2585 2044,2637 2069,2535 388,2494"/>
+                <Baseline points="403,2562 486,2565 570,2565 653,2565 737,2567 821,2568 904,2568 988,2571 1071,2568 1155,2568 1239,2571 1322,2573 1406,2574 1489,2575 1573,2577 1657,2577 1740,2577 1824,2578 1907,2579 1991,2577 2075,2574"/>
+                <TextEquiv>
+                    <Unicode>31 October 1863. Pathen Wilhelmine Weiland und Louise</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="388,2705 457,2703 516,2678 556,2682 591,2660 613,2673 684,2657 731,2671 731,2605 665,2612 618,2578 566,2607 520,2585 447,2576 388,2589"/>
+                <Baseline points="400,2649 425,2649 451,2649 477,2651 503,2652 529,2652 555,2651 581,2649 607,2649 633,2649 659,2649 685,2649 711,2649 737,2649"/>
+                <TextEquiv>
+                    <Unicode>Heckmann.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

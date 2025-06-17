@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.27.0:model_id=309593:date=08_06_2025_21:29</Creator>
+        <Created>2025-06-08T18:52:52.556+02:00</Created>
+        <LastChange>2025-06-08T21:29:21.803+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0020_0023_gray_sigmoid1050.jpg" imageWidth="2213" imageHeight="3650">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1750185953245" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="179,35 179,2799 2124,2799 2124,35"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2012,92 2029,90 2064,109 2086,88 2095,90 2107,78 2119,78 2116,0 2052,0 2043,9 2036,9 2026,0 2010,0"/>
+                <Baseline points="2026,80 2058,78 2091,78 2124,83"/>
+                <TextEquiv>
+                    <Unicode>37</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="391,344 728,341 853,379 905,346 1351,351 1351,249 1187,209 1057,256 877,190 391,232"/>
+                <Baseline points="405,307 452,310 500,313 547,313 595,314 643,316 690,316 738,316 785,316 833,316 881,316 928,316 976,314 1023,313 1071,316 1119,313 1166,313 1214,313 1261,313 1309,313 1357,313"/>
+                <TextEquiv>
+                    <Unicode>Carl Fridrich Wilhelm Bleeke.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="182,455 1007,505 1977,465 1979,348 1811,325 1495,334 1349,410 1235,367 410,405 185,339"/>
+                <Baseline points="199,438 288,444 377,447 466,447 556,450 645,450 734,453 823,453 913,453 1002,453 1091,450 1180,450 1270,450 1359,450 1448,447 1537,444 1627,444 1716,444 1805,444 1894,441 1984,441"/>
+                <TextEquiv>
+                    <Unicode>Dritter Sohn von Johann Heinrich Philipp Blocke und Christi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="166,562 770,609 851,559 2071,574 2071,462 431,507 339,455 166,505"/>
+                <Baseline points="179,540 273,542 368,543 463,543 558,546 652,543 747,544 842,546 937,546 1031,547 1126,541 1221,543 1316,540 1410,543 1505,540 1600,536 1695,535 1789,535 1884,532 1979,525 2074,522"/>
+                <TextEquiv>
+                    <Unicode>ne Marie geb. Schwier geb: den 30 November und getauft den 4 November 3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="173,659 1801,680 1996,633 1998,538 1244,609 173,559"/>
+                <Baseline points="185,629 275,632 366,632 457,635 547,635 638,635 729,635 819,637 910,636 1001,637 1092,635 1182,633 1273,633 1364,632 1454,632 1545,629 1636,626 1726,626 1817,626 1908,623 1999,614"/>
+                <TextEquiv>
+                    <Unicode>1825. (siehe Seite 31 Kind 4) Er verheirathete sich hieselbst mit Maria</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="178,747 1266,735 1332,780 1431,735 1929,732 1929,647 1834,702 1514,649 988,699 178,652"/>
+                <Baseline points="191,719 278,722 365,725 452,725 539,725 626,727 713,727 800,728 887,728 974,728 1062,728 1149,725 1236,722 1323,722 1410,719 1497,719 1584,716 1671,716 1758,716 1845,716 1933,713"/>
+                <TextEquiv>
+                    <Unicode>Bibelheimer eine Tochter von David Daniel Bibelheimer und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="175,848 1934,837 1936,730 1429,735 1332,789 1275,737 178,756"/>
+                <Baseline points="188,808 275,813 363,813 451,813 538,814 626,814 714,814 801,813 889,814 977,814 1065,814 1152,811 1240,810 1328,808 1415,808 1503,807 1591,805 1678,802 1766,805 1854,802 1942,799"/>
+                <TextEquiv>
+                    <Unicode>Maria geb. Zähner, geboren in Wespen Jow. Schulkil Ev. Pa.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="173,920 1929,917 1929,837 529,872 270,820 173,860"/>
+                <Baseline points="185,904 272,904 360,904 447,904 535,904 622,906 710,904 797,904 885,904 972,902 1060,906 1148,904 1235,901 1323,901 1410,901 1498,901 1585,898 1673,895 1760,895 1848,895 1936,895"/>
+                <TextEquiv>
+                    <Unicode>den 12 December 1833 getauft den 1 Januar 1834, Taufgatten:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="175,1003 391,1045 481,995 1045,1038 1969,998 1972,915 1709,967 1571,920 1507,969 1318,915 178,936"/>
+                <Baseline points="188,990 277,987 366,990 456,990 545,990 634,990 724,990 813,990 902,990 992,990 1081,990 1170,990 1260,987 1349,987 1438,984 1528,984 1617,981 1706,981 1796,981 1885,981 1975,978"/>
+                <TextEquiv>
+                    <Unicode>David Werdmann und dessen Frau Catharina, confirmirt von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="190,1119 1941,1102 1941,1026 1844,1012 941,1045 832,1000 756,1043 481,995 334,1050 190,1003"/>
+                <Baseline points="202,1080 289,1083 376,1080 463,1083 551,1083 638,1083 725,1083 813,1081 900,1082 987,1080 1075,1080 1162,1080 1249,1079 1336,1077 1424,1078 1511,1079 1598,1076 1686,1071 1773,1074 1860,1071 1948,1071"/>
+                <TextEquiv>
+                    <Unicode>Pastor Fritze den 28 July 1852, copulirt von demselben den 26</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="173,1178 1093,1218 1394,1190 1394,1107 173,1109"/>
+                <Baseline points="185,1169 245,1169 306,1169 367,1169 427,1170 488,1172 549,1169 609,1169 670,1171 731,1169 792,1169 852,1169 913,1169 974,1169 1034,1169 1095,1166 1156,1168 1216,1166 1277,1165 1338,1163 1399,1163"/>
+                <TextEquiv>
+                    <Unicode>December 1853. Kinder dieser Ehe sind:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="206,1261 1498,1299 1984,1258 1984,1204 206,1216"/>
+                <Baseline points="220,1256 308,1259 397,1260 485,1260 574,1262 662,1259 751,1259 839,1259 928,1259 1016,1256 1105,1256 1193,1255 1282,1253 1370,1253 1459,1256 1547,1253 1636,1253 1724,1253 1813,1250 1901,1244 1990,1235"/>
+                <TextEquiv>
+                    <Unicode>1. Fridrich Wilhelm geb: den 13. April und get: den 29 April</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="284,1344 429,1396 581,1351 1917,1351 1917,1266 1360,1304 903,1270 796,1320 709,1270 284,1275"/>
+                <Baseline points="298,1343 379,1343 460,1344 541,1343 622,1343 703,1343 784,1343 866,1343 947,1343 1028,1340 1109,1340 1190,1340 1271,1337 1352,1337 1434,1337 1515,1337 1596,1334 1677,1334 1758,1334 1839,1331 1921,1325"/>
+                <TextEquiv>
+                    <Unicode>1855. Pathen: Johann Heinrich Bleeke, Christian Fridrich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="292,1441 479,1481 562,1439 718,1469 1308,1453 1308,1394 1228,1403 1128,1351 872,1391 730,1353 292,1382"/>
+                <Baseline points="304,1435 354,1435 404,1435 455,1435 505,1435 556,1435 606,1434 657,1433 707,1434 758,1432 808,1432 858,1432 909,1432 959,1432 1010,1431 1060,1429 1111,1429 1161,1429 1212,1427 1262,1426 1313,1426"/>
+                <TextEquiv>
+                    <Unicode>Bleeke und Wilhelm Herkmann.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="201,1548 1955,1529 1955,1443 201,1479"/>
+                <Baseline points="214,1522 301,1525 388,1522 475,1522 563,1522 650,1521 737,1519 825,1519 912,1519 999,1516 1087,1516 1174,1516 1261,1515 1348,1513 1436,1513 1523,1513 1610,1516 1698,1516 1785,1510 1872,1507 1960,1498"/>
+                <TextEquiv>
+                    <Unicode>2. Maria Christine Caroline geb. den 4. Decemb. und getauft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="292,1635 1939,1635 1941,1548 294,1557"/>
+                <Baseline points="304,1611 386,1614 468,1611 550,1609 632,1608 714,1608 796,1607 878,1608 960,1605 1042,1608 1124,1606 1206,1605 1288,1602 1370,1602 1452,1602 1534,1602 1616,1601 1698,1601 1780,1599 1862,1599 1945,1599"/>
+                <TextEquiv>
+                    <Unicode>den 7 Decemb. 1856. Pathen Maria Louise Eleonore Reinking</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="292,1711 1735,1723 1735,1633 1330,1616 1102,1673 768,1623 292,1654"/>
+                <Baseline points="304,1701 375,1701 447,1698 519,1698 591,1698 662,1695 734,1697 806,1695 878,1695 949,1693 1021,1695 1093,1695 1165,1695 1236,1693 1308,1692 1380,1692 1452,1692 1523,1692 1595,1690 1667,1689 1739,1689"/>
+                <TextEquiv>
+                    <Unicode>und Caroline Scheumann, gest. den 18 Octob. 1857.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="296,1825 1268,1789 1732,1837 1977,1796 1977,1704 1031,1751 946,1711 483,1747 296,1709"/>
+                <Baseline points="310,1793 393,1790 477,1787 560,1787 644,1787 727,1784 811,1784 894,1784 978,1784 1061,1784 1145,1781 1229,1781 1312,1781 1396,1781 1479,1781 1563,1781 1646,1781 1730,1777 1813,1777 1897,1772 1981,1766"/>
+                <TextEquiv>
+                    <Unicode>Maria Louise geb: den 4. März und gut: den 28 Märn 1858.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="294,1924 1533,1882 1702,1913 1773,1908 1775,1832 1583,1794 1424,1837 1263,1789 1059,1849 839,1794 713,1841 296,1827"/>
+                <Baseline points="307,1886 380,1886 454,1886 527,1886 601,1884 674,1883 748,1883 821,1883 895,1882 968,1880 1042,1879 1116,1879 1189,1877 1263,1877 1336,1874 1410,1874 1483,1874 1557,1871 1630,1872 1704,1871 1778,1871"/>
+                <TextEquiv>
+                    <Unicode>Pathen: Maria Bibelheimer und Sophie Heckmann.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="296,1998 1988,1984 1988,1896 296,1929"/>
+                <Baseline points="310,1975 394,1978 478,1978 562,1978 646,1975 730,1975 814,1972 899,1972 983,1972 1067,1972 1151,1969 1235,1969 1319,1969 1403,1971 1488,1969 1572,1967 1656,1966 1740,1965 1824,1961 1908,1963 1993,1963"/>
+                <TextEquiv>
+                    <Unicode>Caroline Elisabeth geb: den 1. Novemb. und getauft den 20 Nov.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="284,2097 1285,2069 1503,2114 1583,2071 1806,2074 1808,2005 1192,2024 998,1977 882,2017 770,1986 652,2029 569,1991 284,2022"/>
+                <Baseline points="298,2068 373,2065 449,2064 524,2064 600,2065 676,2063 751,2062 827,2059 903,2059 978,2058 1054,2059 1130,2058 1205,2056 1281,2056 1357,2056 1432,2054 1508,2051 1584,2053 1659,2053 1735,2050 1811,2047"/>
+                <TextEquiv>
+                    <Unicode>1859. Pathen Elisabeth Bibelheimer und Maria Bleeke.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="301,2178 1984,2173 1960,2069 1503,2114 1436,2071 815,2116 633,2074 547,2128 303,2088"/>
+                <Baseline points="316,2157 399,2154 483,2153 566,2152 650,2154 733,2151 817,2148 900,2149 984,2148 1067,2147 1151,2145 1235,2145 1318,2145 1402,2142 1485,2142 1569,2141 1652,2142 1736,2139 1819,2141 1903,2139 1987,2139"/>
+                <TextEquiv>
+                    <Unicode>Christine Emilie geb: den 8 September und get: den 29 Sept. 1861.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="313,2282 1654,2235 1754,2278 2005,2249 2007,2180 1133,2195 1069,2152 827,2218 595,2157 315,2178"/>
+                <Baseline points="325,2235 409,2242 493,2244 577,2241 661,2241 745,2239 829,2238 914,2238 998,2235 1082,2232 1166,2232 1250,2232 1334,2235 1418,2235 1503,2232 1587,2230 1671,2229 1755,2229 1839,2226 1923,2226 2008,2223"/>
+                <TextEquiv>
+                    <Unicode>Pathen: Christine Maria Heckmann und Caroline Scheumann.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="303,2337 472,2384 979,2325 1818,2361 2024,2339 2024,2261 1659,2237 1529,2292 1074,2247 806,2301 668,2252 417,2297 363,2249 303,2287"/>
+                <Baseline points="316,2330 401,2330 487,2328 572,2327 658,2327 744,2326 829,2321 915,2321 1001,2318 1086,2321 1172,2318 1258,2316 1343,2317 1429,2315 1515,2315 1600,2316 1686,2315 1772,2315 1857,2315 1943,2312 2029,2312"/>
+                <TextEquiv>
+                    <Unicode>Christian Eduard geb: den 5 Novemb. und get: den 29 Nov. 1863.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="308,2465 758,2425 1074,2479 1142,2429 1460,2413 1841,2415 1960,2467 1996,2332 1896,2372 1600,2327 1453,2368 1405,2327 886,2377 607,2337 495,2389 310,2344"/>
+                <Baseline points="322,2417 406,2420 490,2420 574,2420 658,2420 742,2417 826,2414 910,2411 994,2411 1078,2411 1162,2408 1246,2405 1330,2405 1414,2405 1498,2405 1582,2405 1666,2403 1750,2404 1834,2405 1918,2405 2002,2399"/>
+                <TextEquiv>
+                    <Unicode>Pathen: Chr. Fridrich Bleeke David Daniel Bibelhamer und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="313,2550 384,2519 455,2536 583,2512 718,2526 763,2507 789,2524 820,2517 822,2451 758,2477 638,2448 585,2458 514,2429 441,2458 403,2460 374,2434 315,2458"/>
+                <Baseline points="325,2509 350,2512 375,2512 400,2512 425,2512 451,2510 476,2509 501,2509 526,2509 551,2509 577,2509 602,2509 627,2508 652,2506 677,2504 703,2502 728,2501 753,2500 778,2500 803,2500 829,2500"/>
+                <TextEquiv>
+                    <Unicode>Carl Heckmann.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="313,2614 1972,2602 1974,2526 1884,2548 1756,2493 1588,2538 754,2510 315,2552"/>
+                <Baseline points="325,2596 407,2593 490,2593 572,2590 655,2589 738,2587 820,2587 903,2584 986,2584 1068,2583 1151,2581 1234,2577 1316,2578 1399,2578 1482,2581 1564,2578 1647,2578 1730,2576 1812,2578 1895,2578 1978,2572"/>
+                <TextEquiv>
+                    <Unicode>Henriette Helene geb: den 29 October und getauft den 12</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="292,2707 716,2680 875,2718 1318,2662 1948,2690 1974,2616 294,2616"/>
+                <Baseline points="304,2680 387,2680 471,2677 554,2677 638,2674 721,2674 805,2674 888,2669 972,2668 1055,2668 1139,2667 1223,2665 1306,2662 1390,2659 1473,2661 1557,2659 1640,2659 1724,2662 1807,2662 1891,2662 1975,2665"/>
+                <TextEquiv>
+                    <Unicode>November 1865. Pathen: Louise Maria Eleonore Rein-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="303,2799 403,2832 524,2782 723,2813 917,2763 1330,2825 1420,2797 1415,2711 1140,2683 851,2721 680,2683 455,2749 306,2721"/>
+                <Baseline points="316,2778 371,2775 427,2775 482,2775 538,2772 593,2772 649,2772 704,2769 760,2766 815,2766 871,2764 926,2763 982,2763 1037,2760 1093,2760 1148,2760 1204,2760 1259,2756 1315,2754 1370,2754 1426,2754"/>
+                <TextEquiv>
+                    <Unicode>king und Henriette Schnellenberger.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.27.0:model_id=309593:date=17_06_2025_20:37</Creator>
+        <Created>2025-06-17T20:34:15.849+02:00</Created>
+        <LastChange>2025-06-17T20:37:37.043+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0046_49.jpg" imageWidth="2243" imageHeight="3602">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1750185953791" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="59,59 59,3469 2141,3469 2141,59"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="50,166 84,170 93,161 102,168 116,161 120,166 132,166 127,2 116,2 111,9 100,5 86,11 45,9"/>
+                <Baseline points="59,101 84,101 109,102 134,104"/>
+                <TextEquiv>
+                    <Unicode>80,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="61,431 91,435 113,417 122,424 141,413 179,417 188,408 206,410 211,299 193,299 177,288 147,297 129,290 109,302 95,295 66,302"/>
+                <Baseline points="74,385 101,383 128,382 155,382 182,381 209,379"/>
+                <TextEquiv>
+                    <Unicode>.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="633,476 719,490 828,458 1129,492 1168,463 1367,467 1367,370 1252,324 1172,329 1073,381 943,336 814,365 757,324 633,365"/>
+                <Baseline points="645,450 681,450 717,450 754,450 790,450 827,450 863,448 899,448 936,448 972,448 1009,448 1045,448 1081,448 1118,448 1154,448 1191,447 1227,445 1263,445 1300,447 1336,451 1373,456"/>
+                <TextEquiv>
+                    <Unicode>Carl Fridrich Wilhelm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="317,580 617,537 889,580 1200,540 1288,585 1478,542 2050,571 2050,474 1964,454 1841,494 1302,463 1154,510 946,463 737,503 317,474"/>
+                <Baseline points="331,537 417,536 503,534 589,534 675,534 761,534 847,537 934,534 1020,534 1106,536 1192,537 1278,534 1364,534 1450,534 1537,534 1623,533 1709,531 1795,534 1881,531 1967,531 2054,528"/>
+                <TextEquiv>
+                    <Unicode>geboren den 19t September und getauft den 1t October 1859.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="775,639 993,671 1222,628 1263,655 1782,633 1764,551 1619,590 1481,542 1290,583 1204,544 1088,578 775,558"/>
+                <Baseline points="789,624 839,626 889,624 939,624 989,624 1039,625 1089,627 1139,627 1189,625 1239,624 1289,624 1339,624 1389,624 1439,623 1489,621 1539,621 1589,621 1639,621 1689,623 1739,624 1789,621"/>
+                <TextEquiv>
+                    <Unicode>Christian Dietrich Schamerloh</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="531,737 549,735 569,714 592,730 619,714 726,723 721,546 698,560 658,542 601,565 560,549 526,551"/>
+                <Baseline points="540,675 566,676 593,678 620,679 647,680 674,680 701,680 728,680"/>
+                <TextEquiv>
+                    <Unicode>Eltern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="775,746 2111,735 2111,662 1900,669 1837,628 1474,630 1406,678 1175,633 1061,694 878,635 775,662"/>
+                <Baseline points="788,710 854,710 920,713 986,713 1053,716 1119,716 1185,716 1252,716 1318,713 1384,713 1451,713 1517,713 1583,713 1649,713 1716,713 1782,710 1848,713 1915,713 1981,713 2047,713 2114,707"/>
+                <TextEquiv>
+                    <Unicode>Caroline Philippine Sophie geb. Krückeberg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="315,853 483,809 617,857 692,812 1440,805 1696,866 1862,807 2138,819 2138,741 1936,719 757,766 633,714 315,726"/>
+                <Baseline points="328,794 418,803 509,803 599,803 690,803 781,803 871,800 962,803 1053,803 1143,804 1234,803 1325,802 1415,800 1506,798 1597,803 1687,799 1778,798 1869,796 1959,799 2050,800 2141,803"/>
+                <TextEquiv>
+                    <Unicode>Pathen: Carl Dietrich Wilhelm Schamerich u. Carl Heinrich Wilh. Kruckeberg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="209,995 222,995 227,1000 256,984 274,991 288,984 297,995 308,995 315,907 277,898 270,889 238,905 227,893 215,893"/>
+                <Baseline points="224,976 254,973 285,972 316,970"/>
+                <TextEquiv>
+                    <Unicode>20.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="621,998 1270,1011 1270,909 1170,873 1102,909 1025,875 934,921 816,873 780,889 701,868 621,918"/>
+                <Baseline points="633,985 665,988 697,987 729,983 761,982 793,982 825,982 857,984 889,986 921,988 954,988 986,988 1018,986 1050,982 1082,982 1114,982 1146,982 1178,982 1210,984 1242,987 1275,994"/>
+                <TextEquiv>
+                    <Unicode>Caroline Elisabeth</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="50,1052 100,1079 234,1029 268,1063 299,1059 324,1034 356,1043 358,982 333,982 311,1000 290,986 231,993 188,968 166,984 154,973 116,991 52,973"/>
+                <Baseline points="62,1030 87,1025 112,1023 137,1021 162,1021 187,1021 213,1021 238,1020 263,1019 288,1018 313,1018 338,1017 364,1015"/>
+                <TextEquiv>
+                    <Unicode>.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="311,1093 1739,1068 1930,1111 2034,1070 2034,1007 1023,1034 964,995 873,1034 608,986 533,1029 442,980 311,1029"/>
+                <Baseline points="322,1066 407,1066 493,1066 579,1069 665,1068 751,1065 837,1063 922,1063 1008,1066 1094,1066 1180,1066 1266,1066 1352,1066 1438,1066 1523,1065 1609,1062 1695,1063 1781,1063 1867,1063 1953,1060 2039,1060"/>
+                <TextEquiv>
+                    <Unicode>geboren den 1t November und getauft den 20t Novemb. 1859.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="728,1170 1374,1159 1508,1193 1540,1161 1728,1159 1730,1084 1565,1075 1481,1113 1410,1070 1215,1109 1138,1077 730,1086"/>
+                <Baseline points="740,1149 789,1155 839,1155 889,1152 939,1152 988,1152 1038,1152 1088,1152 1138,1154 1187,1155 1237,1152 1287,1152 1337,1152 1386,1152 1436,1152 1486,1152 1536,1152 1585,1152 1635,1152 1685,1149 1735,1146"/>
+                <TextEquiv>
+                    <Unicode>Carl Fridrich Wilhelm Bleeke.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="501,1258 544,1254 560,1243 603,1252 651,1206 694,1209 717,1200 717,1168 698,1165 678,1175 664,1161 644,1159 596,1118 528,1168 501,1165"/>
+                <Baseline points="513,1197 539,1199 565,1200 591,1200 617,1200 643,1200 669,1200 695,1200 722,1197"/>
+                <TextEquiv>
+                    <Unicode>Eltern!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="683,1258 1769,1252 1769,1181 1540,1161 1499,1197 1388,1163 1342,1206 1165,1163 1075,1213 866,1163 683,1209"/>
+                <Baseline points="695,1254 748,1250 802,1246 856,1242 910,1240 964,1239 1017,1239 1071,1239 1125,1239 1179,1239 1233,1239 1286,1239 1340,1239 1394,1239 1448,1239 1502,1239 1555,1239 1609,1239 1663,1237 1717,1236 1771,1233"/>
+                <TextEquiv>
+                    <Unicode>Maria geborene Bibelheimer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="506,1376 1299,1329 1739,1385 1789,1340 1950,1329 1950,1274 1819,1238 1721,1281 1569,1245 1292,1295 1068,1247 760,1306 506,1254"/>
+                <Baseline points="519,1317 590,1326 662,1326 734,1326 806,1326 878,1329 950,1326 1021,1326 1093,1326 1165,1323 1237,1323 1309,1324 1381,1326 1453,1329 1524,1326 1596,1323 1668,1323 1740,1320 1812,1323 1884,1323 1956,1326"/>
+                <TextEquiv>
+                    <Unicode>Pathen Elisabeth Bibelheimer und Maria Bleeke.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="1170,1449 1249,1431 1322,1458 1392,1419 1506,1474 1549,1449 1599,1465 1646,1435 1714,1456 1714,1360 1594,1351 1537,1376 1426,1342 1170,1385"/>
+                <Baseline points="1182,1418 1208,1416 1235,1415 1262,1415 1289,1415 1316,1415 1343,1415 1370,1416 1397,1417 1424,1417 1451,1415 1477,1415 1504,1415 1531,1415 1558,1415 1585,1415 1612,1415 1639,1414 1666,1413 1693,1412 1720,1412"/>
+                <TextEquiv>
+                    <Unicode>(Dies nächste Kind siehe No 33.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="213,1533 224,1533 234,1524 245,1528 252,1524 256,1528 263,1521 270,1524 279,1519 286,1526 290,1521 302,1521 302,1419 286,1419 277,1426 265,1424 243,1444 234,1440 227,1447 213,1444"/>
+                <Baseline points="226,1499 252,1499 278,1499 304,1499"/>
+                <TextEquiv>
+                    <Unicode>21.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="667,1521 744,1537 794,1519 880,1533 902,1521 1009,1551 1122,1531 1122,1435 1050,1444 980,1415 884,1463 803,1415 771,1415 667,1460"/>
+                <Baseline points="680,1517 706,1515 732,1514 759,1512 785,1510 811,1508 838,1510 864,1511 890,1513 917,1514 943,1514 969,1514 996,1514 1022,1514 1048,1514 1075,1514 1101,1514 1128,1514"/>
+                <TextEquiv>
+                    <Unicode>Maria Elise</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="86,1621 102,1619 118,1633 143,1617 166,1626 188,1619 202,1637 218,1626 243,1624 245,1524 229,1528 209,1515 197,1519 184,1512 147,1526 129,1521 122,1528 88,1528"/>
+                <Baseline points="98,1588 127,1584 157,1582 187,1582 217,1582 247,1582"/>
+                <TextEquiv>
+                    <Unicode>.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="327,1646 449,1594 1075,1596 1143,1642 1209,1596 1624,1630 1692,1594 1930,1637 1914,1497 1014,1553 787,1556 667,1503 596,1546 327,1535"/>
+                <Baseline points="340,1594 419,1591 499,1591 579,1591 659,1593 738,1593 818,1588 898,1591 978,1593 1057,1594 1137,1596 1217,1591 1297,1591 1376,1591 1456,1591 1536,1591 1616,1591 1695,1591 1775,1591 1855,1587 1935,1588"/>
+                <TextEquiv>
+                    <Unicode>geboren den 23sten Juni und getauft den 8t Juli 1860.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="791,1696 1376,1680 1501,1714 1610,1689 1610,1614 1549,1639 1476,1599 1424,1619 1358,1592 1304,1624 1206,1599 1120,1660 1002,1608 791,1614"/>
+                <Baseline points="803,1678 843,1678 884,1678 924,1678 965,1680 1006,1679 1046,1678 1087,1679 1127,1681 1168,1681 1209,1681 1249,1681 1290,1678 1330,1678 1371,1678 1412,1678 1452,1678 1493,1678 1533,1678 1574,1679 1615,1681"/>
+                <TextEquiv>
+                    <Unicode>Christian Fridrich Bleekc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="519,1787 565,1791 599,1764 651,1771 667,1757 726,1762 737,1771 757,1766 757,1689 735,1696 705,1678 649,1669 635,1655 601,1662 560,1644 551,1651 522,1644"/>
+                <Baseline points="534,1726 559,1727 585,1729 610,1729 636,1729 661,1727 687,1726 712,1726 738,1725 764,1723"/>
+                <TextEquiv>
+                    <Unicode>Eltern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="812,1785 1095,1773 1129,1805 1184,1773 1315,1809 1447,1769 1599,1807 1687,1780 1687,1682 1449,1744 1356,1698 1107,1680 973,1705 902,1682 812,1721"/>
+                <Baseline points="824,1765 867,1765 910,1765 954,1765 997,1765 1041,1768 1084,1766 1128,1765 1171,1765 1215,1767 1258,1768 1301,1768 1345,1766 1388,1765 1432,1763 1475,1764 1519,1763 1562,1763 1606,1766 1649,1768 1693,1765"/>
+                <TextEquiv>
+                    <Unicode>Anna Maria geborene Rup.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="528,1909 991,1864 1247,1918 1463,1866 1664,1923 1837,1871 1837,1825 1735,1764 1571,1803 1447,1769 1270,1828 1095,1771 866,1773 694,1832 617,1780 528,1794"/>
+                <Baseline points="540,1857 605,1863 670,1863 735,1863 800,1863 865,1860 930,1860 995,1860 1060,1863 1125,1863 1191,1864 1256,1863 1321,1865 1386,1863 1451,1863 1516,1863 1581,1863 1646,1863 1711,1863 1776,1863 1842,1860"/>
+                <TextEquiv>
+                    <Unicode>Pathen: Maria Reinking und Sahra Rup.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="213,2050 231,2050 238,2045 256,2052 281,2050 286,2057 293,2050 308,2054 311,1970 295,1970 277,1955 265,1959 261,1955 247,1957 238,1950 215,1950"/>
+                <Baseline points="226,2039 255,2037 284,2036 313,2036"/>
+                <TextEquiv>
+                    <Unicode>22.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="683,2088 760,2059 857,2061 882,2082 946,2057 1247,2057 1247,1989 1195,1982 1156,1948 1120,1970 982,1955 891,1989 764,1932 719,1970 683,1970"/>
+                <Baseline points="695,2051 722,2051 750,2050 778,2048 806,2049 834,2051 861,2051 889,2051 917,2051 945,2051 973,2051 1000,2051 1028,2051 1056,2051 1084,2053 1112,2053 1139,2051 1167,2049 1195,2048 1223,2050 1251,2051"/>
+                <TextEquiv>
+                    <Unicode>Fridrich Wilhelm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="322,2188 431,2136 592,2184 805,2127 1970,2172 1970,2070 1905,2061 882,2082 517,2029 322,2070"/>
+                <Baseline points="334,2129 416,2129 498,2127 580,2129 662,2128 744,2126 826,2123 909,2126 991,2126 1073,2129 1155,2128 1237,2129 1319,2129 1401,2127 1484,2126 1566,2123 1648,2119 1730,2123 1812,2126 1894,2128 1977,2129"/>
+                <TextEquiv>
+                    <Unicode>geboren den 16ten Juli und getauft den 29den Juli 1860.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="778,2218 871,2218 912,2252 973,2222 1163,2224 1224,2256 1283,2220 1610,2238 1610,2172 1478,2129 1215,2181 1170,2150 973,2165 778,2134"/>
+                <Baseline points="791,2216 832,2214 873,2214 914,2215 955,2214 997,2216 1038,2216 1079,2216 1120,2216 1161,2216 1203,2216 1244,2214 1285,2213 1326,2215 1367,2215 1409,2214 1450,2216 1491,2216 1532,2216 1573,2213 1615,2210"/>
+                <TextEquiv>
+                    <Unicode>Johann Andreas Thieme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="528,2317 592,2320 626,2299 658,2306 678,2290 698,2299 748,2292 751,2233 726,2233 694,2215 667,2218 605,2184 571,2213 533,2213"/>
+                <Baseline points="543,2260 569,2262 596,2263 622,2263 649,2263 675,2262 702,2261 728,2256 755,2251"/>
+                <TextEquiv>
+                    <Unicode>Eltern.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="773,2306 1091,2336 1179,2304 1238,2340 1424,2302 1501,2345 1587,2299 1943,2320 1941,2277 1714,2186 1528,2258 1356,2218 1227,2256 1129,2218 773,2245"/>
+                <Baseline points="785,2293 843,2296 901,2296 959,2296 1017,2297 1075,2299 1133,2299 1191,2299 1249,2302 1307,2300 1366,2299 1424,2300 1482,2302 1540,2302 1598,2299 1656,2299 1714,2301 1772,2302 1830,2303 1888,2305 1947,2302"/>
+                <TextEquiv>
+                    <Unicode>Christine Sophie Eleonore geb. Krückeberg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="526,2435 1567,2392 1626,2433 1714,2401 1837,2435 1884,2419 1884,2358 1635,2299 1503,2345 1426,2302 524,2329"/>
+                <Baseline points="537,2392 604,2389 672,2389 739,2392 807,2392 875,2392 942,2392 1010,2391 1078,2392 1145,2392 1213,2392 1281,2392 1348,2395 1416,2394 1484,2389 1551,2387 1619,2389 1687,2395 1754,2395 1822,2395 1890,2389"/>
+                <TextEquiv>
+                    <Unicode>Pathen: Wilhelm Weiland und Carl Krüskeberg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="222,2571 245,2565 252,2571 261,2571 272,2585 290,2571 311,2569 320,2474 308,2472 293,2460 268,2474 254,2460 234,2456"/>
+                <Baseline points="238,2556 264,2556 290,2553 316,2550"/>
+                <TextEquiv>
+                    <Unicode>23.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="710,2576 1229,2605 1297,2576 1571,2574 1571,2492 1469,2463 1340,2456 1236,2494 1084,2444 925,2510 771,2449 710,2469"/>
+                <Baseline points="722,2562 764,2565 807,2567 850,2570 892,2569 935,2568 978,2568 1020,2568 1063,2568 1106,2570 1149,2570 1191,2569 1234,2572 1277,2574 1319,2574 1362,2573 1405,2572 1447,2574 1490,2570 1533,2562 1576,2553"/>
+                <TextEquiv>
+                    <Unicode>Fridrich Christian Wilhelm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="82,2673 95,2676 109,2667 122,2671 141,2655 145,2660 156,2653 163,2658 179,2646 197,2651 200,2517 188,2517 170,2533 134,2540 111,2535 100,2546 82,2546"/>
+                <Baseline points="95,2613 122,2610 149,2610 176,2610 203,2610"/>
+                <TextEquiv>
+                    <Unicode>"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="297,2698 431,2644 531,2682 2011,2655 2011,2583 1748,2562 1583,2612 1261,2580 1197,2626 1100,2580 583,2601 399,2524 297,2542"/>
+                <Baseline points="310,2643 395,2643 480,2643 565,2643 651,2643 736,2643 821,2639 907,2640 992,2640 1077,2643 1163,2643 1248,2646 1333,2645 1418,2646 1504,2646 1589,2646 1674,2647 1760,2646 1845,2646 1930,2643 2016,2640"/>
+                <TextEquiv>
+                    <Unicode>geboren den 30ten September und getauft den 6t October 1860</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="778,2773 968,2739 1809,2769 1809,2664 1705,2685 1549,2648 1465,2698 1274,2653 1079,2698 1002,2644 936,2678 778,2667"/>
+                <Baseline points="791,2738 842,2738 893,2738 944,2738 995,2738 1047,2738 1098,2738 1149,2738 1200,2737 1251,2736 1303,2738 1354,2738 1405,2738 1456,2741 1507,2738 1559,2738 1610,2737 1661,2737 1712,2738 1763,2738 1815,2735"/>
+                <TextEquiv>
+                    <Unicode>Carl Heinrich Wilhelm Kräckeberg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:37;}">
+                <Coords points="506,2834 542,2832 551,2841 603,2812 671,2839 719,2832 719,2692 651,2687 630,2703 592,2678 551,2701 506,2694"/>
+                <Baseline points="519,2777 544,2779 570,2780 596,2780 622,2780 647,2780 673,2780 699,2780 725,2777"/>
+                <TextEquiv>
+                    <Unicode>Eltern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:38;}">
+                <Coords points="773,2841 1995,2857 1995,2766 1834,2753 1730,2782 1592,2741 1419,2814 1136,2741 925,2784 834,2741 773,2778"/>
+                <Baseline points="785,2822 845,2823 906,2825 966,2825 1027,2826 1088,2828 1148,2828 1209,2828 1270,2828 1330,2828 1391,2831 1452,2831 1512,2829 1573,2829 1634,2831 1694,2831 1755,2831 1816,2831 1876,2831 1937,2831 1998,2834"/>
+                <TextEquiv>
+                    <Unicode>Caroline Wilhelmine geb: Kleinschmidt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:39;}">
+                <Coords points="444,2955 1995,2945 1973,2855 1181,2837 1061,2873 984,2830 918,2862 444,2812"/>
+                <Baseline points="456,2909 533,2914 610,2914 687,2910 765,2915 842,2915 919,2915 996,2915 1074,2918 1151,2918 1228,2918 1305,2918 1383,2918 1460,2918 1537,2918 1614,2921 1692,2921 1769,2921 1846,2924 1923,2924 2001,2924"/>
+                <TextEquiv>
+                    <Unicode>Pathen: Wilhelm Schamerloh Christian Kleinschmidt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_41" custom="readingOrder {index:40;}">
+                <Coords points="200,3104 229,3104 249,3086 268,3093 299,3093 306,2955 288,2955 281,2948 265,2955 245,2945 231,2945 220,2955 206,2950"/>
+                <Baseline points="215,3082 245,3082 276,3081 307,3079"/>
+                <TextEquiv>
+                    <Unicode>24.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_42" custom="readingOrder {index:41;}">
+                <Coords points="603,3102 1254,3118 1254,3011 1050,3014 823,2975 603,3032"/>
+                <Baseline points="615,3094 647,3096 679,3094 711,3096 743,3097 776,3097 808,3097 840,3097 872,3097 904,3098 937,3102 969,3103 1001,3103 1033,3103 1065,3099 1098,3098 1130,3100 1162,3103 1194,3101 1226,3099 1259,3098"/>
+                <TextEquiv>
+                    <Unicode>Carl Wilhelm Christian</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_43" custom="readingOrder {index:42;}">
+                <Coords points="322,3211 1732,3184 2027,3245 2027,3122 1798,3095 1644,3129 1456,3066 1281,3127 565,3138 322,3095"/>
+                <Baseline points="334,3177 423,3177 512,3174 602,3177 691,3177 781,3174 870,3177 959,3177 1049,3180 1138,3183 1228,3183 1317,3180 1407,3177 1496,3180 1585,3180 1675,3180 1764,3180 1854,3183 1943,3186 2033,3180"/>
+                <TextEquiv>
+                    <Unicode>geboren den 15ten September und getauft den 6 October 1860</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_44" custom="readingOrder {index:43;}">
+                <Coords points="730,3267 1884,3290 1884,3215 1735,3184 730,3213"/>
+                <Baseline points="743,3258 800,3261 857,3263 914,3264 971,3264 1029,3264 1086,3266 1143,3267 1200,3267 1257,3267 1315,3265 1372,3267 1429,3265 1486,3267 1543,3267 1601,3270 1658,3268 1715,3270 1772,3267 1829,3270 1887,3270"/>
+                <TextEquiv>
+                    <Unicode>Johann Heinrich Wilhelm Carl Grote</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_45" custom="readingOrder {index:44;}">
+                <Coords points="508,3365 556,3360 596,3322 646,3315 701,3324 719,3317 717,3256 698,3263 658,3256 644,3267 569,3249 531,3281 503,3286"/>
+                <Baseline points="519,3309 544,3311 569,3312 595,3314 620,3315 645,3315 671,3316 696,3318 722,3318"/>
+                <TextEquiv>
+                    <Unicode>Eltern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_46" custom="readingOrder {index:45;}">
+                <Coords points="762,3358 1989,3390 1986,3288 1848,3274 1716,3272 1660,3324 1376,3272 1054,3277 993,3317 760,3272"/>
+                <Baseline points="773,3345 834,3351 895,3351 956,3351 1017,3352 1078,3354 1139,3354 1200,3354 1261,3354 1322,3354 1384,3354 1445,3354 1506,3355 1567,3359 1628,3357 1689,3360 1750,3360 1811,3360 1872,3358 1933,3357 1995,3360"/>
+                <TextEquiv>
+                    <Unicode>Caroline Philippine Dorathea geb. Krückeberg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_47" custom="readingOrder {index:46;}">
+                <Coords points="506,3474 1891,3478 1936,3460 1934,3376 1624,3367 1590,3401 1404,3358 1018,3399 873,3354 710,3406 590,3340 503,3365"/>
+                <Baseline points="519,3440 590,3437 661,3437 732,3436 803,3437 874,3440 945,3440 1016,3440 1087,3442 1158,3443 1230,3443 1301,3443 1372,3443 1443,3443 1514,3443 1585,3443 1656,3446 1727,3446 1798,3448 1869,3446 1941,3446"/>
+                <TextEquiv>
+                    <Unicode>Pathen: Carl Nürge und Christian Schamerloh.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -106,7 +106,7 @@ function processXmlDirectory(string $inputDir, string $outputDir): void
 
     foreach ($files as $filePath) {
         
-        $textArray = extractor($filePath);
+        $textArray = $extractor($filePath);
 
         $baseName = pathinfo($filePath, PATHINFO_FILENAME);
 

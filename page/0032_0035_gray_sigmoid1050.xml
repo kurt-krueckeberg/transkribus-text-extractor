@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.27.0:model_id=309593:date=08_06_2025_21:29</Creator>
+        <Created>2025-06-08T18:52:54.044+02:00</Created>
+        <LastChange>2025-06-08T21:29:23.353+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0032_0035_gray_sigmoid1050.jpg" imageWidth="2267" imageHeight="3650">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1750185953413" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+                <RegionRefIndexed index="2" regionRef="tr_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="29,165 29,315 137,315 137,165"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="16,288 46,281 85,297 130,290 130,2 98,0 82,14 64,0 16,0"/>
+                <Baseline points="29,265 56,265 83,265 110,265 137,265"/>
+                <TextEquiv>
+                    <Unicode>1912</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="196,258 196,3420 2065,3420 2065,258"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="343,361 1394,352 1433,347 1433,240 1305,265 1193,213 1074,267 921,222 711,260 619,208 340,215"/>
+                <Baseline points="355,307 409,302 463,304 517,304 571,307 625,307 679,308 734,310 788,308 842,310 896,310 950,310 1004,310 1058,310 1113,307 1167,310 1221,309 1275,309 1329,308 1383,310 1438,310"/>
+                <TextEquiv>
+                    <Unicode>† Georg Conrad Wilhelm Reinking †</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="187,473 2002,452 1988,347 1782,400 1593,370 1508,425 1334,363 187,384"/>
+                <Baseline points="199,435 289,437 379,441 470,441 560,441 651,441 741,441 832,444 922,444 1013,444 1103,444 1193,444 1284,444 1374,444 1465,444 1555,441 1646,438 1736,432 1827,432 1917,429 2008,429"/>
+                <TextEquiv>
+                    <Unicode>Sohn von Johann Fridrich Conrad Reinking und Maria Eli-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="183,601 283,558 1499,587 2020,535 2018,459 1823,510 183,471"/>
+                <Baseline points="196,534 287,535 378,537 470,540 561,540 652,537 744,540 835,540 926,540 1018,540 1109,538 1200,535 1292,535 1383,534 1474,536 1566,532 1657,529 1748,528 1840,525 1931,522 2023,519"/>
+                <TextEquiv>
+                    <Unicode>sabeth geb. Engelking geb: den 8 Juli 1796 und gut im selben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="192,660 807,647 882,690 1111,633 1472,683 1995,654 1995,576 192,587"/>
+                <Baseline points="205,626 294,626 384,626 474,629 563,629 653,626 743,626 832,629 922,629 1012,626 1102,629 1191,626 1281,626 1371,626 1460,623 1550,623 1640,620 1729,617 1819,617 1909,614 1999,614"/>
+                <TextEquiv>
+                    <Unicode>Monat desselben Jahres. Geboren in Hävern Gemeinde Wied¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="199,775 512,729 1979,754 1954,640 759,699 199,656"/>
+                <Baseline points="211,722 299,722 388,720 476,722 565,722 654,722 742,722 831,722 920,724 1008,722 1097,721 1186,717 1274,716 1363,719 1452,716 1540,716 1629,710 1718,710 1806,710 1895,707 1984,701"/>
+                <TextEquiv>
+                    <Unicode>heim, Kreis Minden Königreich Preusen, seine Taufgatten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="192,823 1997,829 1997,747 1421,784 1222,729 1117,779 507,731 192,775"/>
+                <Baseline points="205,808 294,808 384,808 474,808 564,805 654,805 744,805 833,805 923,805 1013,808 1103,805 1193,805 1283,805 1373,805 1462,802 1552,802 1642,796 1732,796 1822,793 1912,793 2002,790"/>
+                <TextEquiv>
+                    <Unicode>waren: Wilhelm Kaiser und 6 Pudelitz confirmirt am Sonn¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="197,909 1190,946 1378,898 1476,944 1977,907 1979,843 1830,807 1661,866 1604,829 802,880 631,820 199,877"/>
+                <Baseline points="208,901 296,901 385,900 474,898 563,900 652,898 740,896 829,898 918,896 1007,897 1096,895 1184,895 1273,895 1362,892 1451,892 1540,892 1628,886 1717,886 1806,880 1895,883 1984,874"/>
+                <TextEquiv>
+                    <Unicode>tage nach Ostern am 1810, verheirathete sich den 2 Juli 1821</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="192,1040 791,989 1995,1019 1995,932 1794,900 1558,951 1385,898 1168,955 898,912 192,969"/>
+                <Baseline points="205,987 294,984 384,984 474,984 563,981 653,984 743,981 832,981 922,981 1012,981 1102,978 1191,978 1281,978 1371,975 1460,975 1550,972 1640,972 1729,969 1819,966 1909,963 1999,963"/>
+                <TextEquiv>
+                    <Unicode>mit Maria Louise Charlotte geb. Twagtmann eine Tochter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="192,1097 1913,1097 2006,1088 2009,1010 1282,1056 1140,1005 434,994 295,1060 194,1040"/>
+                <Baseline points="205,1083 295,1079 385,1077 475,1077 566,1074 656,1071 746,1074 837,1074 927,1072 1017,1071 1108,1074 1198,1074 1288,1071 1378,1068 1469,1068 1559,1065 1649,1062 1740,1062 1830,1062 1920,1059 2011,1050"/>
+                <TextEquiv>
+                    <Unicode>von Christian Twagtmann und geb: den 24 December u. g.t</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="197,1181 336,1213 414,1174 891,1168 1033,1202 1136,1165 1252,1218 1641,1179 1641,1083 1572,1117 1028,1092 733,1142 462,1104 197,1131"/>
+                <Baseline points="208,1169 283,1164 359,1163 435,1163 510,1161 586,1160 662,1160 738,1163 813,1160 889,1160 965,1160 1041,1160 1116,1160 1192,1160 1268,1160 1344,1159 1419,1154 1495,1154 1571,1152 1647,1149"/>
+                <TextEquiv>
+                    <Unicode>im selben Monat 1800. Kinder dieser Ehe sind:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="228,1268 1707,1286 2011,1245 2011,1158 1887,1209 1609,1179 1209,1227 1152,1188 976,1232 414,1174 228,1216"/>
+                <Baseline points="241,1256 329,1255 418,1252 507,1252 596,1250 685,1250 773,1247 862,1247 951,1247 1040,1248 1129,1250 1217,1250 1306,1250 1395,1247 1484,1244 1573,1244 1661,1241 1750,1241 1839,1238 1928,1235 2017,1232"/>
+                <TextEquiv>
+                    <Unicode>1. Fridrich Christian geb. den 15 Decemb. 1821. get im selb.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="324,1346 583,1382 1983,1353 1983,1298 1842,1264 1501,1312 1193,1259 873,1261 781,1312 560,1270 468,1318 324,1268"/>
+                <Baseline points="337,1337 419,1334 502,1334 584,1337 667,1337 750,1334 832,1334 915,1334 998,1334 1080,1334 1163,1332 1246,1331 1328,1331 1411,1331 1494,1328 1576,1326 1659,1323 1742,1323 1824,1325 1907,1322 1990,1316"/>
+                <TextEquiv>
+                    <Unicode>Monat. Pathen: Fridrich Engelking, confirmirt am</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="331,1437 464,1435 503,1467 612,1437 674,1476 912,1428 962,1465 1108,1462 1111,1373 994,1376 955,1408 859,1403 791,1357 626,1410 466,1350 334,1366"/>
+                <Baseline points="346,1423 384,1423 423,1423 461,1423 500,1423 538,1423 577,1426 615,1426 654,1426 692,1426 731,1425 769,1423 808,1423 846,1423 885,1423 923,1423 962,1423 1000,1424 1039,1424 1077,1420 1116,1420"/>
+                <TextEquiv>
+                    <Unicode>Sonntage nach Ostern 1835.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="343,1533 2020,1526 2020,1421 1494,1472 1170,1444 1092,1485 923,1437 775,1481 615,1440 512,1492 343,1449"/>
+                <Baseline points="355,1522 438,1516 522,1516 605,1513 689,1513 772,1513 856,1510 939,1510 1023,1510 1106,1511 1190,1510 1274,1510 1357,1507 1441,1501 1524,1501 1608,1503 1691,1504 1775,1503 1858,1502 1942,1498 2026,1489"/>
+                <TextEquiv>
+                    <Unicode>Conrad Dietrich Ferdinand geb: den 8 Januar 1827 und gut:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="322,1634 818,1609 1031,1654 1387,1600 1604,1645 1668,1604 1983,1622 2027,1542 1622,1572 1211,1522 711,1584 610,1524 464,1581 324,1526"/>
+                <Baseline points="334,1608 418,1608 503,1605 588,1606 673,1605 758,1605 843,1604 928,1601 1013,1598 1098,1599 1183,1599 1267,1599 1352,1596 1437,1594 1522,1590 1607,1593 1692,1593 1777,1590 1862,1587 1947,1587 2032,1584"/>
+                <TextEquiv>
+                    <Unicode>den 14 Januar 1827. Pathen: Conrad Reinking und Dietrich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="331,1734 468,1700 1206,1725 1259,1691 1389,1734 1631,1723 1785,1684 1787,1625 1520,1618 1318,1668 1188,1625 964,1668 912,1631 807,1675 334,1618"/>
+                <Baseline points="343,1692 415,1693 487,1695 560,1695 632,1692 704,1692 777,1692 849,1692 921,1690 994,1688 1066,1686 1138,1686 1211,1686 1283,1684 1355,1682 1428,1680 1500,1680 1572,1677 1645,1677 1717,1676 1790,1677"/>
+                <TextEquiv>
+                    <Unicode>Bloome, confirmirt am Sonntage nach Ostern 1841.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="331,1798 971,1821 1257,1775 1403,1817 2011,1773 2011,1714 1120,1709 1001,1755 713,1702 564,1748 334,1723"/>
+                <Baseline points="346,1784 429,1784 512,1784 596,1783 679,1781 763,1781 846,1778 929,1778 1013,1776 1096,1775 1180,1775 1263,1772 1346,1772 1430,1769 1513,1769 1597,1769 1680,1766 1763,1766 1847,1763 1930,1763 2014,1760"/>
+                <TextEquiv>
+                    <Unicode>Maria Wilhelmine geb: den 6 Mai get: im selben Monat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="324,1913 1172,1878 1257,1924 1318,1876 1405,1910 1524,1869 1823,1883 1862,1810 1417,1851 1095,1785 937,1846 802,1791 692,1855 418,1812 324,1853"/>
+                <Baseline points="337,1883 413,1880 489,1879 566,1880 642,1877 719,1876 795,1874 871,1872 948,1871 1024,1871 1101,1871 1177,1871 1253,1871 1330,1868 1406,1868 1483,1865 1559,1864 1635,1862 1712,1862 1788,1862 1865,1862"/>
+                <TextEquiv>
+                    <Unicode>1831. Pathen: Sophia Reinking, confirmirt. 1845.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="336,2002 1188,1967 1229,2006 1508,1958 1842,1997 2015,1979 2018,1897 336,1938"/>
+                <Baseline points="349,1972 432,1972 516,1969 599,1969 683,1966 766,1966 850,1966 933,1964 1017,1963 1100,1963 1184,1960 1268,1957 1351,1957 1435,1957 1518,1957 1602,1954 1685,1954 1769,1954 1852,1951 1936,1951 2020,1945"/>
+                <TextEquiv>
+                    <Unicode>Auguste Matilde Dorathee geb: den 13 Sept. 1833 getauft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="244,2004 256,1999 272,2004 297,1983 302,1988 306,1983 311,1986 322,1983 311,1908 290,1908 286,1917 272,1926 258,1945 251,1942 235,1947"/>
+                <Baseline points="250,1963 275,1963 300,1965 325,1975"/>
+                <TextEquiv>
+                    <Unicode>4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="331,2086 434,2123 733,2063 868,2111 1202,2056 2045,2050 2045,1988 1791,2018 1538,1965 1392,2022 1147,1970 827,2034 331,2027"/>
+                <Baseline points="343,2062 428,2062 513,2062 599,2059 684,2056 769,2056 855,2055 940,2053 1025,2050 1111,2053 1196,2050 1281,2048 1367,2048 1452,2044 1537,2047 1623,2044 1708,2043 1793,2041 1879,2041 1964,2038 2050,2038"/>
+                <TextEquiv>
+                    <Unicode>den selben Monat-Pathen: Friderike Brockhorn, confirmirt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="324,2157 439,2207 640,2148 733,2184 967,2143 1750,2164 1990,2141 1993,2102 1577,2052 1209,2111 686,2084 324,2134"/>
+                <Baseline points="337,2151 424,2151 511,2148 598,2148 686,2147 773,2145 860,2145 948,2141 1035,2139 1122,2139 1210,2136 1297,2136 1384,2135 1472,2133 1559,2132 1646,2129 1734,2127 1821,2124 1908,2124 1996,2124"/>
+                <TextEquiv>
+                    <Unicode>im Jahre 1847 um Ostern von Prof: Walther. St. Louis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="340,2280 861,2230 2041,2251 2043,2150 1529,2146 1204,2210 967,2143 843,2212 638,2164 512,2219 343,2162"/>
+                <Baseline points="352,2241 436,2241 521,2238 605,2235 690,2236 775,2232 859,2230 944,2229 1028,2226 1113,2226 1198,2226 1282,2223 1367,2223 1451,2221 1536,2220 1621,2219 1705,2217 1790,2217 1874,2217 1959,2217 2044,2220"/>
+                <TextEquiv>
+                    <Unicode>Conrad Christian Wilhelm geb: den 22 Juli v. gut: im sel¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="340,2351 1595,2344 2045,2306 2045,2267 1823,2226 1668,2290 1465,2232 1211,2290 946,2239 340,2278"/>
+                <Baseline points="352,2327 436,2324 521,2321 606,2321 691,2318 776,2313 861,2310 946,2312 1031,2312 1116,2309 1201,2309 1285,2306 1370,2304 1455,2304 1540,2304 1625,2304 1710,2304 1795,2303 1880,2298 1965,2298 2050,2292"/>
+                <TextEquiv>
+                    <Unicode>ben Monat 1839. Pathen: Conrad Storm und Christian</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="324,2452 978,2413 1044,2447 1206,2406 1410,2456 1501,2404 1753,2406 1753,2338 1700,2331 1483,2322 1355,2376 1101,2342 964,2383 740,2333 537,2374 327,2333"/>
+                <Baseline points="340,2414 410,2414 481,2411 552,2411 623,2411 694,2408 765,2405 835,2405 906,2405 977,2403 1048,2402 1119,2402 1190,2402 1261,2402 1331,2400 1402,2399 1473,2397 1544,2393 1615,2391 1686,2390 1757,2393"/>
+                <TextEquiv>
+                    <Unicode>Dietzich Lessmann „confirmirt“ um Ostern 1853.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="334,2539 1638,2518 1999,2488 2002,2411 1871,2454 1807,2406 1593,2413 1453,2470 1234,2415 1127,2470 871,2431 731,2479 654,2427 551,2479 334,2459"/>
+                <Baseline points="346,2497 433,2506 520,2503 607,2502 695,2501 782,2497 869,2496 957,2495 1044,2492 1131,2489 1219,2489 1306,2488 1393,2486 1481,2485 1568,2482 1655,2481 1743,2483 1830,2480 1917,2480 2005,2474"/>
+                <TextEquiv>
+                    <Unicode>Er wandurte aus mit seiner Familie nachden V. St. v. N.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="219,2598 1997,2587 1997,2500 1855,2488 1568,2541 1111,2504 976,2559 823,2514 395,2527 347,2573 222,2534"/>
+                <Baseline points="232,2590 320,2590 409,2590 497,2589 586,2586 674,2581 763,2578 851,2578 940,2580 1028,2574 1117,2572 1205,2571 1294,2569 1382,2566 1471,2566 1559,2563 1648,2563 1736,2563 1825,2563 1913,2560 2002,2554"/>
+                <TextEquiv>
+                    <Unicode>A. den 5 April 1844. er selbst er den 18 Mai in New-Osleangs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="231,2708 1844,2703 2025,2623 1440,2587 1047,2637 231,2625"/>
+                <Baseline points="244,2680 333,2674 422,2674 511,2674 601,2674 690,2668 779,2665 868,2665 958,2662 1047,2659 1136,2659 1225,2656 1315,2653 1404,2653 1493,2647 1582,2647 1672,2647 1761,2650 1850,2647 1939,2644 2029,2644"/>
+                <TextEquiv>
+                    <Unicode>ankam von da ging er nach dem südlichen Illionais und nachdem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="217,2801 2011,2779 2011,2705 1604,2687 219,2719"/>
+                <Baseline points="232,2778 321,2772 410,2769 499,2766 589,2766 678,2760 767,2760 856,2757 946,2754 1035,2751 1124,2754 1213,2751 1303,2748 1392,2745 1481,2742 1570,2742 1660,2739 1749,2742 1838,2739 1927,2739 2017,2742"/>
+                <TextEquiv>
+                    <Unicode>er dort u. in St. Louis 4 Jahre lang gewohnt hatte, zog er nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="219,2891 1661,2836 1933,2872 2047,2840 2050,2785 1839,2749 1305,2820 1131,2772 1051,2820 791,2769 690,2829 512,2776 219,2827"/>
+                <Baseline points="232,2865 323,2862 414,2859 505,2859 596,2856 687,2852 778,2851 869,2847 960,2844 1051,2841 1142,2838 1233,2838 1324,2835 1415,2835 1506,2833 1597,2832 1688,2832 1779,2829 1870,2829 1961,2829 2053,2832"/>
+                <TextEquiv>
+                    <Unicode>Preeble Tow. Adams Ev. Ind. wohnlbst seine Frau den 10 Aug. 1850 starb.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="231,3014 560,2957 989,2993 2015,2939 1979,2861 1659,2907 1172,2861 836,2918 233,2888"/>
+                <Baseline points="244,2954 332,2950 421,2945 510,2945 599,2945 688,2942 776,2939 865,2935 954,2933 1043,2932 1132,2930 1220,2930 1309,2927 1398,2924 1487,2924 1576,2924 1664,2924 1753,2921 1842,2918 1931,2918 2020,2915"/>
+                <TextEquiv>
+                    <Unicode>Im Jahre 1854 zog er hier her zu seinem Sohn, woselbst er sich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="226,3064 2031,3021 2031,2927 1885,2980 1227,2948 1090,2996 921,2961 226,3012"/>
+                <Baseline points="238,3044 328,3036 418,3033 508,3032 598,3026 688,3023 778,3023 868,3017 958,3017 1048,3017 1138,3011 1228,3011 1318,3011 1408,3005 1498,3005 1588,3005 1678,3002 1768,3002 1858,3002 1948,2999 2038,3002"/>
+                <TextEquiv>
+                    <Unicode>alsobald dieser Gemeinde anschluß. Außer den genannten für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="240,3153 2056,3124 2050,3057 1853,3039 1789,3080 1236,3034 996,3089 829,3050 240,3085"/>
+                <Baseline points="253,3130 343,3125 433,3124 524,3121 614,3118 705,3116 795,3112 886,3109 976,3107 1067,3106 1157,3104 1247,3103 1338,3103 1428,3097 1519,3097 1609,3097 1700,3097 1790,3097 1881,3100 1971,3100 2062,3103"/>
+                <TextEquiv>
+                    <Unicode>Kindern die noch alle am Leben sind, hatten genannte Ehe¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="231,3263 1474,3199 1552,3249 2036,3190 2011,3121 233,3167"/>
+                <Baseline points="244,3223 333,3220 423,3217 513,3214 603,3214 693,3211 783,3205 872,3199 962,3196 1052,3196 1142,3193 1232,3193 1322,3190 1412,3190 1501,3193 1591,3187 1681,3187 1771,3187 1861,3187 1951,3181 2041,3178"/>
+                <TextEquiv>
+                    <Unicode>leute noch 1 Sohn und 4 Töchter, von welchem der erste</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="228,3334 1942,3318 2059,3274 2061,3222 231,3263"/>
+                <Baseline points="241,3312 332,3308 423,3303 514,3302 605,3297 697,3296 788,3291 879,3286 970,3285 1061,3285 1153,3285 1244,3282 1335,3279 1426,3277 1517,3276 1609,3275 1700,3279 1791,3273 1882,3273 1973,3270 2065,3265"/>
+                <TextEquiv>
+                    <Unicode>und drei Töchter schon in Deutschland gestorben sind, eine Tochter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="226,3414 313,3412 388,3453 510,3400 756,3391 841,3437 932,3425 937,3336 786,3306 733,3348 701,3313 622,3302 576,3336 468,3316 228,3341"/>
+                <Baseline points="241,3399 277,3396 314,3396 351,3399 388,3397 424,3395 461,3393 498,3393 535,3390 572,3390 608,3388 645,3387 682,3386 719,3384 756,3384 792,3382 829,3381 866,3380 903,3378 940,3378"/>
+                <TextEquiv>
+                    <Unicode>aber in St. Louis M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_3" custom="readingOrder {index:2;}">
+            <Coords points="2080,0 2080,145 2163,145 2163,0"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2072,160 2093,162 2104,153 2130,153 2139,144 2162,137 2150,2 2118,11 2104,0 2088,11 2079,5 2061,7"/>
+                <Baseline points="2080,89 2107,93 2135,95 2163,95"/>
+                <TextEquiv>
+                    <Unicode>49</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

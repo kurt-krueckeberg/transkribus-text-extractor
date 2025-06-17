@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.27.0:model_id=309593:date=08_06_2025_21:29</Creator>
+        <Created>2025-06-08T18:53:03.962+02:00</Created>
+        <LastChange>2025-06-08T21:29:33.939+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0113_0116_gray_sigmoid1050.jpg" imageWidth="2243" imageHeight="3609">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1750185955518" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+                <RegionRefIndexed index="2" regionRef="tr_4"/>
+                <RegionRefIndexed index="3" regionRef="tr_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="47,297 47,464 173,464 173,297"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="29,456 53,467 82,452 105,454 118,458 131,476 154,481 174,360 138,358 116,372 96,354 71,372 44,363"/>
+                <Baseline points="47,414 72,414 97,411 122,406 147,402 173,397"/>
+                <TextEquiv>
+                    <Unicode>407</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="23,2392 23,2556 131,2556 131,2392"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="9,2521 38,2532 65,2512 78,2521 87,2519 109,2539 120,2539 136,2396 111,2381 87,2392 47,2374 27,2372"/>
+                <Baseline points="23,2504 50,2506 77,2505 104,2499 131,2492"/>
+                <TextEquiv>
+                    <Unicode>411</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_4" custom="readingOrder {index:2;}">
+            <Coords points="188,99 188,3171 2188,3171 2188,99"/>
+            <TextLine id="tr_4_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2007,167 2045,171 2063,182 2085,174 2120,191 2147,187 2152,80 2089,85 2069,69 2049,80 2029,73 2023,80 2009,80"/>
+                <Baseline points="2020,143 2047,141 2074,139 2101,138 2128,137 2155,137"/>
+                <TextEquiv>
+                    <Unicode>149.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="425,476 690,441 868,483 921,436 1059,427 1497,461 1497,296 1299,254 1130,307 870,263 425,285"/>
+                <Baseline points="438,432 491,435 544,436 597,438 651,436 704,438 757,438 811,434 864,430 917,429 971,429 1024,429 1077,430 1130,432 1184,432 1237,432 1290,435 1344,435 1397,435 1450,435 1504,432"/>
+                <TextEquiv>
+                    <Unicode>Renata Sophie Suisse Frida</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="309,532 943,525 1064,574 1264,516 1464,581 1600,530 1600,452 1046,487 934,434 857,481 745,445 543,474 423,425 309,474"/>
+                <Baseline points="322,519 386,521 450,521 514,517 578,516 642,513 706,515 771,516 835,516 899,514 963,516 1027,519 1091,519 1155,516 1220,513 1284,515 1348,519 1412,517 1476,513 1540,507 1605,498"/>
+                <TextEquiv>
+                    <Unicode>geb. den 29. November get. 11. Dez. 1907.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="320,656 585,614 785,614 846,670 943,612 1166,610 1270,661 1353,616 1702,616 1678,545 1406,581 1357,550 1242,578 1157,518 1064,574 919,527 563,523 492,570 323,532"/>
+                <Baseline points="334,614 402,617 471,616 539,614 608,610 677,611 745,609 814,608 883,605 951,608 1020,606 1089,604 1157,602 1226,599 1295,597 1363,600 1432,600 1501,601 1569,602 1638,602 1707,605"/>
+                <TextEquiv>
+                    <Unicode>Eltern: W. Bischoff. + Karoline, geb. Thieme.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="314,756 2098,730 2098,679 1736,616 1591,685 1384,614 1137,670 1024,616 861,670 619,643 550,703 436,643 314,668"/>
+                <Baseline points="325,722 418,722 512,721 605,718 699,721 793,719 886,716 980,716 1074,713 1167,719 1261,715 1354,713 1448,713 1542,715 1635,710 1729,713 1823,715 1916,716 2010,716 2104,716"/>
+                <TextEquiv>
+                    <Unicode>Paten: Frau Sophie Thieme, Luise Lottmann + Frida Baron.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1420,846 1773,837 1831,801 1982,792 2152,852 2180,846 2183,734 2132,712 1982,768 1873,728 1742,759 1702,732 1586,759 1540,730 1422,734"/>
+                <Baseline points="1435,800 1472,800 1510,797 1547,797 1585,795 1623,794 1660,794 1698,794 1736,791 1773,791 1811,791 1849,791 1886,790 1924,788 1962,785 1999,785 2037,783 2075,783 2112,785 2150,785 2188,782"/>
+                <TextEquiv>
+                    <Unicode>[Stellvertreter: Frau Emma Krückeby</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1811,2492 1851,2481 1956,2532 1978,2523 1960,2423 1947,2427 1900,2412 1871,2421 1842,2407 1798,2419"/>
+                <Baseline points="1820,2468 1846,2473 1873,2479 1899,2484 1926,2488 1952,2492 1979,2498"/>
+                <TextEquiv>
+                    <Unicode>.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="187,2510 852,2503 852,2432 805,2412 679,2403 425,2448 249,2372 187,2385"/>
+                <Baseline points="200,2486 232,2486 265,2488 298,2489 331,2489 364,2489 396,2489 429,2489 462,2489 495,2489 528,2489 560,2489 593,2489 626,2486 659,2486 691,2486 724,2486 757,2486 790,2486 823,2485 856,2483"/>
+                <TextEquiv>
+                    <Unicode>Gretchen, Mathilde,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="194,2614 601,2572 1106,2610 1471,2581 1471,2516 1313,2536 1253,2496 1032,2545 194,2516"/>
+                <Baseline points="205,2567 268,2569 332,2567 395,2567 459,2565 523,2567 586,2567 650,2567 713,2567 777,2567 841,2567 904,2567 968,2567 1031,2570 1095,2570 1159,2567 1222,2570 1286,2568 1349,2567 1413,2562 1477,2561"/>
+                <TextEquiv>
+                    <Unicode>geb. 29. Juni 1905 sch. am 9. Juli 1905</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1833,2574 1909,2561 1978,2588 2018,2579 2083,2612 2125,2590 2167,2599 2140,2441 2043,2512 1985,2505 1960,2532 1873,2485 1818,2479"/>
+                <Baseline points="1841,2546 1866,2548 1891,2550 1916,2553 1942,2557 1967,2562 1992,2567 2018,2573 2043,2578 2068,2582 2094,2586 2119,2589 2144,2593 2170,2594"/>
+                <TextEquiv>
+                    <Unicode>.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="1818,2688 1851,2670 1936,2694 1969,2717 2047,2712 2023,2585 1954,2590 1887,2557 1851,2579 1833,2572 1800,2594"/>
+                <Baseline points="1817,2614 1842,2622 1867,2630 1892,2637 1917,2642 1943,2646 1968,2649 1993,2652 2018,2656 2044,2659"/>
+                <TextEquiv>
+                    <Unicode>geführt hat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="298,2701 501,2657 1511,2677 1493,2572 1055,2585 997,2630 912,2581 298,2621"/>
+                <Baseline points="310,2641 370,2651 430,2653 490,2650 551,2653 611,2653 671,2653 732,2651 792,2653 852,2653 913,2655 973,2653 1033,2656 1093,2656 1154,2656 1214,2655 1274,2653 1335,2653 1395,2651 1455,2651 1516,2650"/>
+                <TextEquiv>
+                    <Unicode>Eltern! Otto Blecke und Emilie geb. Steele.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="289,2775 992,2752 1059,2795 1173,2755 1380,2763 1380,2701 1161,2683 919,2730 627,2668 289,2714"/>
+                <Baseline points="301,2731 355,2744 409,2747 463,2749 517,2747 572,2746 626,2746 680,2746 734,2748 788,2749 843,2746 897,2749 951,2749 1005,2749 1059,2749 1114,2746 1168,2749 1222,2747 1276,2746 1330,2746 1385,2743"/>
+                <TextEquiv>
+                    <Unicode>Pathen! Frau Adam Bunz (Mathilda)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="592,2875 1037,2852 1117,2906 1275,2848 1417,2877 1417,2790 883,2808 792,2757 696,2821 592,2808"/>
+                <Baseline points="605,2838 645,2840 686,2843 727,2844 768,2844 809,2844 850,2844 891,2844 932,2847 973,2847 1014,2850 1054,2850 1095,2846 1136,2844 1177,2843 1218,2841 1259,2842 1300,2843 1341,2841 1382,2840 1423,2832"/>
+                <TextEquiv>
+                    <Unicode>" Gerhard Reinking (Silie)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="788,3115 810,3115 819,3104 828,3102 846,3075 857,3073 834,2964 801,2970 794,2982 792,2979 777,2993 761,2995"/>
+                <Baseline points="788,3071 813,3080 839,3086 865,3086"/>
+                <TextEquiv>
+                    <Unicode>4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_4_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="176,3171 222,3193 229,3184 327,3160 358,3171 376,3166 372,3055 329,3066 307,3057 294,3068 283,3059 267,3070 236,3059 216,3070 171,3070"/>
+                <Baseline points="188,3146 215,3142 243,3141 271,3143 298,3144 326,3146 354,3148 382,3152"/>
+                <TextEquiv>
+                    <Unicode>432</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_3" custom="readingOrder {index:3;}">
+            <Coords points="226,323 226,479 310,479 310,323"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="211,454 229,454 243,443 249,447 260,443 271,454 280,449 303,454 309,363 296,363 289,356 278,358 265,343 256,347 249,338 245,340 238,334 231,340 220,338"/>
+                <Baseline points="226,429 254,427 282,425 310,423"/>
+                <TextEquiv>
+                    <Unicode>13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

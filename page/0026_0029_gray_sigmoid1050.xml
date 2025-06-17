@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.27.0:model_id=309593:date=08_06_2025_21:29</Creator>
+        <Created>2025-06-08T18:52:53.304+02:00</Created>
+        <LastChange>2025-06-08T21:29:22.574+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0026_0029_gray_sigmoid1050.jpg" imageWidth="2102" imageHeight="3626">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1750185953305" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="113,273 113,1816 1947,1816 1947,273"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="332,354 604,345 709,389 802,354 1271,361 1271,288 1100,277 1001,210 848,279 697,231 606,263 430,210 332,224"/>
+                <Baseline points="343,316 389,316 436,316 483,319 530,320 576,323 623,324 670,322 717,321 763,320 810,322 857,321 904,321 950,324 997,325 1044,327 1091,326 1137,327 1184,326 1231,323 1278,316"/>
+                <TextEquiv>
+                    <Unicode>Heinrich Jacob Rücklos (sen)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="107,508 144,517 210,489 249,503 350,473 418,503 469,476 631,478 631,400 578,414 466,380 364,409 293,368 226,409 176,384 107,405"/>
+                <Baseline points="119,448 144,450 170,451 196,452 222,452 248,451 274,452 299,453 325,455 351,456 377,456 403,456 429,456 455,456 480,456 506,456 532,456 558,456 584,455 610,453 636,451"/>
+                <TextEquiv>
+                    <Unicode>ehelicher Sohn von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1536,469 1550,469 1559,478 1571,469 1596,487 1628,464 1648,460 1658,469 1671,464 1690,471 1696,361 1676,364 1660,345 1651,350 1623,338 1591,345 1559,375 1541,373"/>
+                <Baseline points="1550,459 1579,458 1608,456 1637,454 1666,452 1696,451"/>
+                <TextEquiv>
+                    <Unicode>geb.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="839,466 917,503 972,480 1095,482 1132,466 1175,487 1299,480 1299,396 1271,382 1129,423 1081,400 997,398 949,370 873,421 839,412"/>
+                <Baseline points="851,451 876,454 901,456 926,456 951,457 977,458 1002,459 1027,459 1052,459 1078,459 1103,459 1128,459 1153,459 1178,459 1204,459 1229,459 1254,459 1279,456 1305,453"/>
+                <TextEquiv>
+                    <Unicode>Rücklos und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="107,581 1788,597 1941,553 1941,510 1747,466 1651,512 1543,462 1253,514 1136,464 999,524 860,466 405,533 107,508"/>
+                <Baseline points="119,543 210,546 301,547 393,549 484,550 576,552 667,552 758,553 850,555 941,552 1033,552 1124,552 1215,552 1307,552 1398,552 1490,549 1581,546 1672,549 1764,549 1855,546 1947,540"/>
+                <TextEquiv>
+                    <Unicode>geboren in Rumbach Canton Dahn Rein-Pfalz Königreich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="107,656 1877,684 1838,569 1443,610 1237,567 1125,613 1075,572 466,567 325,622 194,556 107,578"/>
+                <Baseline points="119,627 207,633 295,636 383,639 471,642 559,645 647,645 735,642 823,644 911,645 1000,645 1088,645 1176,645 1264,645 1352,648 1440,647 1528,642 1616,641 1704,639 1792,636 1881,636"/>
+                <TextEquiv>
+                    <Unicode>Barren den 16 November und getauft im selben Monat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="101,759 1916,743 1916,686 1827,663 1367,711 1203,661 1068,709 636,665 537,718 466,670 101,661"/>
+                <Baseline points="113,728 203,728 293,731 384,731 474,731 564,734 655,734 745,734 835,734 926,737 1016,734 1106,734 1197,735 1287,737 1377,735 1468,733 1558,731 1648,731 1739,731 1829,729 1920,731"/>
+                <TextEquiv>
+                    <Unicode>1833, confirmirt am Sonntage Palmarum 1847. Im Früh¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="101,846 1916,828 1870,761 1541,745 1129,798 101,759"/>
+                <Baseline points="113,815 203,818 293,818 384,819 474,820 564,821 655,821 745,821 835,821 926,821 1016,823 1106,824 1197,821 1287,824 1377,821 1468,821 1558,818 1648,821 1739,815 1829,815 1920,812"/>
+                <TextEquiv>
+                    <Unicode>ling des Jahrs 1856 wandere er aus nach den Vereinigten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="101,937 1267,965 1934,914 1934,850 1367,896 1196,844 101,869"/>
+                <Baseline points="113,910 204,905 295,908 387,907 478,907 570,910 661,908 752,910 844,910 935,910 1027,915 1118,913 1209,911 1301,912 1392,910 1484,910 1575,910 1666,910 1758,907 1849,905 1941,905"/>
+                <TextEquiv>
+                    <Unicode>Staaten von Nord-America, und nach dem er noch einmal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="110,1045 219,999 940,1056 1925,1040 1925,912 1660,972 1452,928 844,972 110,937"/>
+                <Baseline points="122,994 212,994 302,994 393,994 483,994 573,997 664,997 754,997 844,997 935,1000 1025,1000 1115,997 1206,996 1296,994 1386,994 1477,994 1567,992 1657,991 1748,991 1838,991 1929,994"/>
+                <TextEquiv>
+                    <Unicode>seine alte Heimath 1859 besucht ŭnd im darauf folgendem Jah-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="101,1113 1900,1097 1884,1027 101,1045"/>
+                <Baseline points="113,1090 202,1087 292,1084 381,1087 471,1087 561,1087 650,1087 740,1090 829,1090 919,1090 1009,1087 1098,1087 1188,1087 1277,1087 1367,1087 1457,1087 1546,1087 1636,1084 1725,1084 1815,1084 1905,1078"/>
+                <TextEquiv>
+                    <Unicode>re wieder hierhin zurückgekehrt war verheirathete er sich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="123,1203 1692,1219 1927,1180 1927,1116 1447,1157 1097,1097 940,1145 720,1095 645,1136 123,1120"/>
+                <Baseline points="137,1173 226,1173 316,1173 406,1176 496,1173 585,1173 675,1176 765,1176 855,1179 944,1176 1034,1176 1124,1173 1214,1176 1303,1173 1393,1173 1483,1173 1573,1173 1662,1170 1752,1170 1842,1170 1932,1167"/>
+                <TextEquiv>
+                    <Unicode>mit Jungfrau Friderike Dauer geboren in Berzabern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="123,1264 418,1315 649,1271 1600,1321 1932,1276 1930,1177 1626,1237 1488,1193 123,1216"/>
+                <Baseline points="137,1257 227,1260 317,1263 407,1263 497,1263 587,1263 677,1263 767,1266 857,1269 947,1266 1037,1263 1127,1266 1217,1266 1307,1266 1397,1263 1487,1263 1577,1263 1667,1260 1757,1263 1847,1263 1938,1269"/>
+                <TextEquiv>
+                    <Unicode>Königreich Bazern den 17 May 1841, getauft im selben Mo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="112,1360 905,1401 1920,1365 1920,1305 1824,1267 1559,1321 1347,1276 1193,1331 995,1285 112,1303"/>
+                <Baseline points="125,1347 215,1347 305,1349 395,1349 485,1350 575,1350 665,1347 755,1350 845,1350 935,1350 1025,1347 1115,1347 1205,1350 1295,1347 1385,1347 1475,1344 1565,1347 1655,1347 1745,1347 1835,1347 1926,1344"/>
+                <TextEquiv>
+                    <Unicode>nat 1841, confirmirt am Sonntage Palmarum 1855. Anno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="114,1456 631,1493 711,1454 1527,1491 1806,1456 1792,1363 1619,1408 720,1365 434,1411 199,1367 114,1413"/>
+                <Baseline points="128,1433 212,1433 296,1433 380,1436 464,1438 549,1439 633,1439 717,1439 801,1439 885,1439 970,1439 1054,1439 1138,1437 1222,1437 1306,1439 1391,1441 1475,1439 1559,1439 1643,1439 1727,1436 1812,1436"/>
+                <TextEquiv>
+                    <Unicode>1860 kam sie nach America. Rieder dieser Ehe sind:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="251,1548 997,1532 1150,1584 1321,1539 1420,1594 1918,1525 1918,1472 1749,1456 1536,1495 809,1465 686,1509 594,1461 251,1463"/>
+                <Baseline points="265,1526 347,1523 430,1524 513,1523 596,1523 679,1526 762,1526 845,1526 928,1528 1011,1526 1094,1526 1176,1523 1259,1524 1342,1526 1425,1526 1508,1526 1591,1525 1674,1525 1757,1523 1840,1523 1923,1514"/>
+                <TextEquiv>
+                    <Unicode>Elisabetha geboren den 14 Juli und getauft den 18</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="226,1623 396,1616 460,1642 606,1623 700,1664 761,1621 837,1626 837,1591 807,1596 761,1557 690,1573 624,1532 558,1568 226,1546"/>
+                <Baseline points="238,1612 268,1615 298,1615 328,1615 358,1615 389,1615 419,1615 449,1614 479,1612 509,1612 540,1613 570,1615 600,1613 630,1612 660,1612 691,1612 721,1612 751,1612 781,1612 811,1611 842,1609"/>
+                <TextEquiv>
+                    <Unicode>Juli 1861. Pathen:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="240,1715 1923,1726 1923,1587 1708,1648 1459,1610 958,1674 601,1621 240,1653"/>
+                <Baseline points="253,1696 336,1702 420,1702 504,1702 588,1702 672,1700 755,1702 839,1702 923,1705 1007,1704 1091,1704 1174,1705 1258,1705 1342,1705 1426,1702 1510,1705 1593,1705 1677,1702 1761,1702 1845,1702 1929,1699"/>
+                <TextEquiv>
+                    <Unicode>Fridrich Jakob geboren den 2 May und getauft den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="219,1804 373,1811 421,1840 469,1806 556,1802 617,1838 784,1838 823,1802 953,1827 953,1731 903,1719 784,1751 741,1719 677,1749 608,1719 505,1758 414,1708 348,1740 219,1740"/>
+                <Baseline points="232,1795 268,1795 304,1794 340,1792 377,1792 413,1792 449,1792 486,1792 522,1792 558,1792 595,1792 631,1792 667,1792 703,1793 740,1795 776,1792 812,1792 849,1794 885,1795 921,1794 958,1789"/>
+                <TextEquiv>
+                    <Unicode>16 März 1864. Pathen:</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

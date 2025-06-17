@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.27.0:model_id=309593:date=08_06_2025_21:29</Creator>
+        <Created>2025-06-08T18:52:50.518+02:00</Created>
+        <LastChange>2025-06-11T22:43:05.503+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="0003_0004_gray_sigmoid1050.jpg" imageWidth="2249" imageHeight="3638">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1750185953022" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="232,393 232,3413 2171,3413 2171,393"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="688,477 782,463 854,506 909,461 950,477 1005,446 1079,463 1139,444 1214,494 1276,451 1271,331 1142,326 1012,389 792,341 722,391 691,386"/>
+                <Baseline points="701,454 730,450 759,448 788,448 817,446 846,445 875,445 904,443 933,442 962,442 991,442 1020,442 1049,442 1078,442 1107,442 1136,440 1165,439 1194,439 1223,437 1252,437 1281,439"/>
+                <TextEquiv>
+                    <Unicode>Kirchenordnung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="264,552 559,602 902,549 1137,607 1235,545 1406,547 1499,595 1835,537 1837,401 1185,511 1019,446 859,504 780,463 667,494 580,437 264,465"/>
+                <Baseline points="277,531 355,533 433,536 511,537 590,537 668,537 746,537 824,537 903,537 981,537 1059,537 1137,534 1216,534 1294,534 1372,531 1450,528 1529,528 1607,528 1685,525 1763,522 1842,522"/>
+                <TextEquiv>
+                    <Unicode>der deutsch evangel. lutherischen St. Imanaels-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="820,789 900,724 948,741 983,722 1051,734 1077,717 1159,732 1197,720 1199,624 1171,614 1127,643 1096,631 1019,674 943,674 912,645 871,638 823,652"/>
+                <Baseline points="833,725 859,721 885,719 912,719 938,719 965,717 991,716 1018,716 1044,716 1070,716 1097,716 1123,715 1150,714 1176,713 1203,713"/>
+                <TextEquiv>
+                    <Unicode>Gemeinde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:3;}">
+                <Coords points="341,835 1339,820 1466,868 1466,732 1360,710 1221,758 1082,717 993,768 873,712 796,744 693,703 497,763 341,712"/>
+                <Baseline points="355,800 410,803 466,805 522,806 578,806 634,804 690,806 745,808 801,806 857,806 913,806 969,806 1025,806 1081,803 1136,803 1192,803 1248,803 1304,802 1360,796 1416,792 1472,785"/>
+                <TextEquiv>
+                    <Unicode>Union Township Adams County</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:4;}">
+                <Coords points="1535,813 1581,808 1638,830 1698,801 1751,854 1857,854 1861,734 1763,724 1732,734 1641,657 1542,667"/>
+                <Baseline points="1550,797 1576,795 1602,794 1628,794 1654,793 1680,791 1706,791 1732,791 1758,789 1784,787 1810,786 1836,785 1863,785"/>
+                <TextEquiv>
+                    <Unicode>Indiana.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="892,914 928,924 1000,900 1015,914 1036,909 1063,921 1082,907 1103,926 1125,909 1137,912 1139,832 1103,816 1058,823 1027,849 962,816 909,856 895,856"/>
+                <Baseline points="905,899 931,899 957,899 984,899 1010,899 1037,897 1063,895 1090,894 1116,893 1143,893"/>
+                <TextEquiv>
+                    <Unicode>1. A.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="878,1046 924,1046 1017,995 1127,1015 1187,1048 1276,1041 1279,916 1195,895 1142,924 1103,926 1082,907 1048,924 1000,897 945,928 880,914"/>
+                <Baseline points="893,979 919,979 945,980 971,982 997,982 1023,982 1049,982 1075,982 1101,982 1127,980 1153,979 1179,979 1205,979 1231,979 1257,977 1284,973"/>
+                <TextEquiv>
+                    <Unicode>Einleitung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="228,1168 624,1175 715,1233 806,1187 1070,1228 1199,1171 1811,1199 2049,1147 2049,1055 1770,1084 1562,998 580,1120 228,1055"/>
+                <Baseline points="241,1161 331,1158 422,1158 512,1158 603,1160 693,1161 784,1161 874,1161 965,1159 1055,1156 1146,1156 1236,1155 1327,1155 1417,1155 1508,1149 1598,1146 1689,1146 1779,1143 1870,1140 1960,1137 2051,1135"/>
+                <TextEquiv>
+                    <Unicode>Da in einer christlichen Gemeinde dem Worte Gottes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="240,1307 540,1259 835,1319 1070,1255 1818,1298 1945,1243 2092,1293 2168,1257 2171,1154 1701,1211 1199,1168 1070,1228 242,1190"/>
+                <Baseline points="253,1248 348,1248 444,1248 540,1247 636,1248 732,1248 828,1251 924,1251 1020,1249 1116,1248 1212,1246 1307,1245 1403,1245 1499,1242 1595,1239 1691,1238 1787,1236 1883,1233 1979,1233 2075,1230 2171,1227"/>
+                <TextEquiv>
+                    <Unicode>gemäß Alles ehrlich und ordentlich zugehen soll, (1 Cor 14, 4)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="247,1372 806,1346 1075,1394 1279,1336 1350,1398 1502,1334 1614,1391 1696,1334 2063,1331 2063,1257 249,1310"/>
+                <Baseline points="262,1338 352,1335 442,1335 533,1335 623,1335 713,1335 804,1335 894,1335 984,1332 1075,1330 1165,1329 1255,1329 1346,1326 1436,1329 1526,1326 1617,1323 1707,1323 1797,1320 1888,1317 1978,1314 2069,1308"/>
+                <TextEquiv>
+                    <Unicode>so haben wir die Unterzeichneten Gemeindeglieder es für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="230,1480 314,1437 453,1490 818,1425 1051,1492 1168,1432 1641,1475 1732,1418 2058,1422 2058,1329 1708,1341 1612,1396 1470,1341 1353,1398 1197,1350 1077,1396 233,1372"/>
+                <Baseline points="247,1421 337,1427 428,1427 519,1427 610,1425 701,1425 791,1426 882,1424 973,1421 1064,1421 1155,1421 1245,1420 1336,1418 1427,1418 1518,1415 1609,1413 1699,1412 1790,1409 1881,1406 1972,1406 2063,1406"/>
+                <TextEquiv>
+                    <Unicode>gut angesehen, dem Worte Gottes gemäß, und auch in eine Ord-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="218,1530 1065,1576 1300,1511 1422,1571 2032,1499 2017,1410 1662,1478 1125,1442 1051,1492 816,1425 664,1478 552,1437 456,1492 221,1478"/>
+                <Baseline points="232,1511 322,1513 412,1514 502,1512 593,1514 683,1514 773,1513 863,1511 954,1511 1044,1511 1134,1511 1224,1508 1315,1505 1405,1505 1495,1502 1585,1502 1676,1499 1766,1496 1856,1496 1946,1490 2037,1484"/>
+                <TextEquiv>
+                    <Unicode>nung zu thun und Bestimmungen zu treffen, nach denen es bei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="230,1614 494,1614 576,1667 746,1614 1156,1670 1494,1605 2003,1638 2075,1629 2077,1485 1837,1545 1670,1514 1598,1574 1300,1514 1207,1574 662,1528 230,1578"/>
+                <Baseline points="244,1600 335,1600 427,1603 519,1603 610,1600 702,1601 794,1599 885,1597 977,1598 1069,1597 1161,1597 1252,1597 1344,1594 1436,1592 1527,1591 1619,1591 1711,1589 1802,1586 1894,1586 1986,1586 2078,1583"/>
+                <TextEquiv>
+                    <Unicode>der Verwaltung unserer inneren und äußeren Angelegenheiten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="254,1753 355,1756 403,1718 545,1698 794,1744 890,1729 976,1708 979,1626 823,1648 746,1617 676,1667 549,1667 425,1624 257,1665"/>
+                <Baseline points="271,1690 306,1692 342,1693 378,1693 413,1692 449,1690 485,1690 520,1690 556,1690 592,1690 628,1690 663,1690 699,1688 735,1687 770,1686 806,1684 842,1684 877,1682 913,1681 949,1681 985,1681"/>
+                <TextEquiv>
+                    <Unicode>gehalten werden soll.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="871,1804 912,1825 964,1785 1101,1787 1103,1686 1060,1703 1027,1689 1003,1689 981,1706 960,1696 890,1729 876,1727"/>
+                <Baseline points="887,1777 914,1777 942,1777 969,1777 997,1775 1025,1774 1052,1772 1080,1771 1108,1771"/>
+                <TextEquiv>
+                    <Unicode>2. A.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="485,1873 907,1871 1017,1919 1209,1878 1324,1938 1396,1885 1648,1883 1648,1792 1154,1823 1048,1777 909,1828 854,1789 485,1801"/>
+                <Baseline points="498,1872 555,1873 613,1873 671,1872 729,1871 787,1871 844,1872 902,1871 960,1869 1018,1869 1076,1869 1133,1868 1191,1868 1249,1866 1307,1864 1365,1866 1422,1866 1480,1863 1538,1862 1596,1860 1654,1854"/>
+                <TextEquiv>
+                    <Unicode>Name der Kirche und Gemeinde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="237,1984 497,1974 648,2037 741,1974 868,2037 979,1977 1310,2020 1415,1962 1526,2003 2034,1974 2022,1881 1396,1885 1331,1938 1137,1878 240,1914"/>
+                <Baseline points="250,1968 339,1968 429,1968 518,1968 608,1965 697,1965 787,1965 876,1962 966,1962 1055,1962 1145,1962 1234,1959 1324,1959 1413,1956 1503,1953 1592,1950 1682,1950 1771,1950 1861,1947 1950,1947 2040,1944"/>
+                <TextEquiv>
+                    <Unicode>Die Gemeinde soll heißen, und auch für künftige Zeiten sein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:17;}">
+                <Coords points="249,2073 816,2053 964,2113 1118,2058 1195,2101 1367,2056 1506,2101 1653,2056 1753,2094 1753,1967 1521,2005 1410,1969 1312,2020 1036,1974 876,2034 741,1977 648,2034 489,1974 403,2039 249,2025"/>
+                <Baseline points="262,2057 336,2057 411,2057 486,2057 561,2054 636,2054 711,2052 785,2051 860,2051 935,2049 1010,2048 1085,2048 1160,2047 1235,2046 1309,2046 1384,2043 1459,2043 1534,2043 1609,2041 1684,2043 1759,2043"/>
+                <TextEquiv>
+                    <Unicode>und bleiben, die Deutsch evangel. lutherische St,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:18;}">
+                <Coords points="1773,2049 1833,2073 1866,2056 1907,2077 2013,2068 2051,2087 2056,1967 2001,1991 1974,1989 1876,1950 1852,1953 1809,1986 1775,1989"/>
+                <Baseline points="1786,2043 1813,2042 1840,2040 1868,2040 1895,2039 1923,2037 1950,2035 1977,2034 2005,2034 2032,2034 2060,2034"/>
+                <TextEquiv>
+                    <Unicode>Imanu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:19;}">
+                <Coords points="249,2192 557,2204 724,2152 832,2195 974,2149 1185,2195 1559,2142 1710,2226 1713,2077 1660,2063 1410,2099 1367,2056 1233,2104 1118,2056 986,2111 770,2061 504,2070 446,2116 355,2063 252,2080"/>
+                <Baseline points="262,2141 334,2147 407,2150 480,2149 553,2147 625,2144 698,2143 771,2141 844,2138 916,2138 989,2135 1062,2135 1135,2135 1207,2132 1280,2133 1353,2132 1426,2129 1498,2129 1571,2129 1644,2129 1717,2129"/>
+                <TextEquiv>
+                    <Unicode>elsgemeinde, Union Township, Adams County,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:20;}">
+                <Coords points="1729,2161 1828,2159 1888,2137 1926,2152 1998,2137 2051,2156 2053,2087 2013,2068 1936,2087 1888,2061 1857,2056 1833,2073 1799,2056 1732,2082"/>
+                <Baseline points="1744,2129 1770,2129 1796,2129 1822,2127 1848,2125 1874,2123 1900,2123 1926,2123 1952,2123 1978,2122 2004,2121 2030,2119 2057,2117"/>
+                <TextEquiv>
+                    <Unicode>Indiana:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="844,2243 885,2252 904,2238 926,2243 938,2231 955,2231 969,2243 995,2228 1046,2243 1051,2161 1031,2154 1005,2168 993,2161 950,2192 895,2171 849,2178"/>
+                <Baseline points="857,2234 885,2233 913,2231 941,2230 969,2228 997,2226 1025,2224 1054,2222"/>
+                <TextEquiv>
+                    <Unicode>3. A.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="533,2365 684,2320 818,2375 983,2312 1075,2377 1166,2310 1262,2339 1420,2322 1422,2226 1159,2226 1094,2260 943,2226 813,2267 652,2228 533,2279"/>
+                <Baseline points="546,2314 590,2314 634,2314 678,2314 722,2314 766,2314 810,2313 854,2311 898,2310 942,2308 986,2308 1030,2305 1074,2302 1118,2305 1162,2305 1206,2302 1250,2305 1294,2305 1338,2302 1382,2299 1427,2302"/>
+                <TextEquiv>
+                    <Unicode>Bekenntniß der Gemeinde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="266,2425 1941,2437 2075,2413 2077,2293 1835,2356 1552,2300 1070,2375 907,2324 820,2372 700,2327 266,2348"/>
+                <Baseline points="280,2413 369,2413 459,2413 549,2410 639,2407 729,2404 819,2401 909,2404 999,2404 1089,2398 1179,2398 1268,2398 1358,2398 1448,2395 1538,2395 1628,2392 1718,2392 1808,2389 1898,2389 1988,2389 2078,2386"/>
+                <TextEquiv>
+                    <Unicode>Die Gemeinde bekennt sich zu den sämtlichen canonischen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="264,2543 1199,2485 1252,2538 1538,2492 1691,2540 2063,2488 2065,2406 1696,2401 1586,2461 1286,2404 1065,2466 952,2418 264,2428"/>
+                <Baseline points="277,2502 366,2500 456,2500 545,2500 635,2494 725,2494 814,2494 904,2491 993,2488 1083,2485 1173,2485 1262,2485 1352,2485 1441,2482 1531,2482 1621,2482 1710,2482 1800,2479 1889,2479 1979,2476 2069,2476"/>
+                <TextEquiv>
+                    <Unicode>Büchern, des alten und neuen Testaments als Gottes geoffen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="261,2595 938,2636 1053,2586 1343,2624 1622,2574 1917,2624 2087,2571 2089,2497 261,2545"/>
+                <Baseline points="274,2586 369,2583 465,2581 561,2578 656,2577 752,2574 848,2570 944,2569 1039,2568 1135,2566 1231,2565 1327,2565 1422,2565 1518,2565 1614,2562 1710,2562 1805,2562 1901,2562 1997,2559 2093,2553"/>
+                <TextEquiv>
+                    <Unicode>bartem Worte, und zu sämtlichen Symbolen der lutherischen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="269,2706 2128,2684 2106,2562 1797,2622 1622,2576 883,2636 756,2588 271,2600"/>
+                <Baseline points="283,2670 375,2670 468,2667 560,2664 653,2661 746,2658 838,2655 931,2655 1023,2654 1116,2653 1209,2651 1301,2649 1394,2649 1486,2646 1579,2646 1672,2646 1764,2646 1857,2644 1949,2643 2042,2640 2135,2625"/>
+                <TextEquiv>
+                    <Unicode>Kirche (wie solche in dem Concordienbuche von 1580 zu finden sind)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="247,2785 2037,2773 2037,2691 1857,2663 1713,2723 1454,2667 1317,2725 1103,2672 1005,2711 952,2663 588,2739 249,2706"/>
+                <Baseline points="262,2771 351,2768 440,2764 529,2762 618,2759 707,2756 796,2753 885,2750 974,2750 1063,2747 1152,2744 1241,2744 1330,2741 1419,2738 1508,2738 1597,2738 1686,2738 1775,2738 1864,2735 1953,2735 2043,2732"/>
+                <TextEquiv>
+                    <Unicode>als der reinen und unverfälschten Darlegung und Erklährung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="264,2907 943,2847 1005,2902 1175,2843 1722,2890 2070,2831 2070,2744 1953,2807 1849,2749 1751,2797 1509,2754 1374,2811 1269,2747 1111,2809 266,2775"/>
+                <Baseline points="277,2858 366,2855 456,2852 546,2846 636,2849 726,2846 816,2840 906,2840 996,2837 1086,2834 1176,2834 1265,2831 1355,2834 1445,2831 1535,2831 1625,2828 1715,2828 1805,2828 1895,2828 1985,2825 2075,2822"/>
+                <TextEquiv>
+                    <Unicode>des göttlichen Wortes, nach welcher die Lehre geprüft, und alle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="252,2960 477,3008 734,2938 801,2994 1084,2929 1902,2965 2053,2936 2053,2833 1602,2898 1195,2835 1010,2902 936,2850 254,2910"/>
+                <Baseline points="265,2951 354,2945 444,2942 534,2939 624,2936 713,2936 803,2930 893,2930 983,2927 1072,2924 1162,2924 1252,2924 1342,2921 1431,2921 1521,2918 1611,2918 1701,2918 1790,2915 1880,2915 1970,2915 2060,2915"/>
+                <TextEquiv>
+                    <Unicode>etwa vorfallende Lehrstreitigkeiten entschieden werden sol-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="252,3042 645,3022 864,3082 1130,3018 1444,3054 1516,3001 2099,3032 2101,2929 254,2984"/>
+                <Baseline points="268,3028 359,3031 451,3028 543,3022 635,3021 727,3019 819,3015 910,3013 1002,3007 1094,3007 1186,3007 1278,3004 1370,3001 1462,3001 1553,2999 1645,2998 1737,2998 1829,2998 1921,2998 2013,3001 2105,2995"/>
+                <TextEquiv>
+                    <Unicode>len. Die Bekenntnisβschriften der Kirche sind: Das apostolische,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="257,3152 549,3178 684,3118 902,3174 1072,3099 1137,3159 1732,3099 1989,3150 2089,3130 2092,3032 1619,3073 1509,3006 864,3082 739,3025 528,3087 259,3037"/>
+                <Baseline points="271,3124 362,3124 453,3123 544,3120 636,3114 727,3112 818,3109 909,3104 1001,3103 1092,3098 1183,3100 1274,3098 1366,3097 1457,3094 1548,3091 1639,3094 1731,3094 1822,3094 1913,3097 2004,3097 2096,3088"/>
+                <TextEquiv>
+                    <Unicode>das nicänische, das athanasische Sÿmbolum; der ungeänderte aug-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="257,3224 422,3260 940,3195 1219,3253 1367,3195 1566,3253 1634,3200 1835,3255 2022,3207 2025,3142 1921,3099 1235,3106 904,3174 746,3123 549,3178 259,3150"/>
+                <Baseline points="271,3213 359,3213 447,3211 535,3208 623,3204 711,3202 799,3199 887,3194 975,3192 1063,3191 1151,3188 1239,3186 1327,3186 1415,3186 1503,3189 1591,3184 1679,3186 1767,3186 1855,3186 1943,3183 2031,3183"/>
+                <TextEquiv>
+                    <Unicode>burgische Confession, deren Apologi (oder Schutzschrift) die schmal-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="257,3344 912,3291 1039,3351 1566,3284 1881,3337 2032,3286 2034,3219 259,3226"/>
+                <Baseline points="271,3306 359,3303 447,3299 536,3296 624,3290 713,3288 801,3287 890,3284 978,3282 1067,3281 1155,3278 1243,3273 1332,3273 1420,3272 1509,3270 1597,3273 1686,3270 1774,3270 1863,3270 1951,3270 2040,3270"/>
+                <TextEquiv>
+                    <Unicode>kaltischen Artikel, D. Luthers größer und kleiner Catechis-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="252,3435 919,3382 1204,3425 1394,3380 1396,3296 1039,3351 916,3293 751,3353 628,3303 367,3365 254,3344"/>
+                <Baseline points="268,3390 324,3393 381,3392 437,3388 494,3387 551,3384 607,3383 664,3381 720,3381 777,3378 834,3377 890,3373 947,3372 1003,3372 1060,3371 1117,3367 1173,3366 1230,3365 1286,3363 1343,3361 1400,3360"/>
+                <TextEquiv>
+                    <Unicode>muß und die Concordienformel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>
