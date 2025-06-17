@@ -4,8 +4,9 @@ The xml extracted text is written to a file, but the baptism entry/record number
 * Write a version that figures out:
 ** who the father and mother are
 ** the father's surname
+* format the output to match the handwritten text.
 
-useng this info to create the baptism register index with this format
+use this info to create the baptism register index with this format
 
 |===
 |Name|Page no/Image no
