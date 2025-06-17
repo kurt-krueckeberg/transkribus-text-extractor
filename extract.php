@@ -44,9 +44,11 @@ class TextExtractor {
         return $textLines;
     }
     
-    public function __invoke(\SplFileObject $file) : array
+    public function __invoke(string $file_name) : array
     {
         libxml_use_internal_errors(true);
+
+        return $this->extractTextFromXml($file_name);
     }
 }
 
