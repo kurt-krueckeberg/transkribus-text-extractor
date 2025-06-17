@@ -4,10 +4,50 @@ declare(strict_types=1);
 
 class TextExtractor {
 
-
-  public function __invoke(\SplFileObject $x) : string
-  {
-  }
+    function extractTextFromXml(string $filePath): array
+    {
+        $xml = simplexml_load_file($filePath);
+    
+        if ($xml === false) {
+    
+            $errors = libxml_get_errors();
+    
+            libxml_clear_errors();
+    
+            throw new RuntimeException("Failed to parse XML: $filePath");
+        }
+    
+        // Handle default namespace (common in Transkribus PAGE XML)
+        $namespaces = $xml->getNamespaces(true);
+    
+        if (isset($namespaces[''])) {
+    
+            $xml->registerXPathNamespace('ns', $namespaces['']);
+    
+            $lines = $xml->xpath('//ns:TextLine/ns:TextEquiv/ns:Unicode');
+    
+        } else {
+    
+            $lines = $xml->xpath('//TextLine/TextEquiv/Unicode');
+        }
+    
+        if ($lines === false) {
+    
+            throw new RuntimeException("XPath query failed for file: $filePath");
+        }
+    
+        // Trim each line in &lines.
+        $textLines = array_map(static fn($line) => trim((string)$line),
+                               $lines);
+    
+        //return implode(PHP_EOL, $textLines);
+        return $textLines;
+    }
+    
+    public function __invoke(\SplFileObject $file) : array
+    {
+        libxml_use_internal_errors(true);
+    }
 }
 
 function main(array $argv): void
@@ -61,57 +101,23 @@ function processXmlDirectory(string $inputDir, string $outputDir): void
 
         throw new RuntimeException("Failed to list XML files in: $inputDir");
     }
+ 
+    $extractor = new TextExtractor();
 
     foreach ($files as $filePath) {
-
-        $text = extractTextFromXml($filePath);
+        
+        $textArray = extractor($filePath);
 
         $baseName = pathinfo($filePath, PATHINFO_FILENAME);
 
         $outputFile = $outputDir . DIRECTORY_SEPARATOR . $baseName . '.txt';
 
-        file_put_contents($outputFile, $text);
+        print_r($textArray);
+
+        file_put_contents($outputFile, implode(PHP_EOL, $textArray));
     }
 }
 
-function extractTextFromXml(string $filePath): string
-{
-    libxml_use_internal_errors(true);
-
-    $xml = simplexml_load_file($filePath);
-
-    if ($xml === false) {
-
-        $errors = libxml_get_errors();
-
-        libxml_clear_errors();
-
-        throw new RuntimeException("Failed to parse XML: $filePath");
-    }
-
-    // Handle default namespace (common in Transkribus PAGE XML)
-    $namespaces = $xml->getNamespaces(true);
-
-    if (isset($namespaces[''])) {
-
-        $xml->registerXPathNamespace('ns', $namespaces['']);
-
-        $lines = $xml->xpath('//ns:TextLine/ns:TextEquiv/ns:Unicode');
-
-    } else {
-
-        $lines = $xml->xpath('//TextLine/TextEquiv/Unicode');
-    }
-
-    if ($lines === false) {
-
-        throw new RuntimeException("XPath query failed for file: $filePath");
-    }
-
-    $textLines = array_map(static fn($line) => trim((string)$line), $lines);
-
-    return implode(PHP_EOL, $textLines);
-}
 
 main($argv);
 
