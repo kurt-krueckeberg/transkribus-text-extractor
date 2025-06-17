@@ -1,0 +1,17 @@
+The xml extracted text is written to a file, but the baptism entry/record number is missing, so
+
+* use a counter to create and write the baptism record number
+* Write a version that figures out:
+** who the father and mother are
+** the father's surname
+
+useng this info to create the baptism register index with this format
+
+|===
+|Name|Page no/Image no
+
+|Father's surname, child's given names (bith-year-here) | file-name/imahe-number.
+...
+
+|===
+
