@@ -11,4 +11,5 @@ class Baptism {
   public string $father;
   public string $mother;
   public array $sponsors;
+  public array $Nachtraege;
 }
